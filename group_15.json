@@ -1,0 +1,403 @@
+[
+  {
+    "id": "1",
+    "headword": "ñaman",
+    "query": "ñaman",
+    "page_ref": "1215:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "fresh, delicious (cf <i>mal</i>.); or name of a fruit?",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AWj",
+        "text": "31.11: laṅsĕb pisaṅ poh ñaman."
+      }
+    ],
+    "group_id": 15
+  },
+  {
+    "id": "2",
+    "headword": "ñambu",
+    "query": "ñambu",
+    "page_ref": "1215:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "= <b>jambu</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "ST",
+        "text": "1.10: amaṅan woh iṅ ñambu."
+      }
+    ],
+    "group_id": 15
+  },
+  {
+    "id": "3",
+    "headword": "ñamu",
+    "query": "ñamu",
+    "page_ref": "1215:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "ñamu-ñamu",
+        "page_ref": "1215:3.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+        "definition": "prob. = <b>namu-namu</b>, q.v.",
+        "citations": [
+          {
+            "source": "AW",
+            "text": "30.13: hana yan wijil sumĕlaṅ ahyas ... / aṅatag narendrasuta mañjiṅa ñamu-ñamu riṅ rasâdhika; cf AS(B) 10.2 s. v. namu-namu."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 15
+  },
+  {
+    "id": "4",
+    "headword": "ñāmuṣṭa, ñāmuṣṭi",
+    "query": "ñāmuṣṭa, ñāmuṣṭi",
+    "page_ref": "1215:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "?",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "SD",
+        "text": "38.7: ñāmuṣṭa saṅ hyaṅ Atanū hawu mānuṣâstu / ñāmuṣṭi nāma ni dadi hyaṅ Anaṅga sūkṣma."
+      }
+    ],
+    "group_id": 15
+  },
+  {
+    "id": "5",
+    "headword": "ñamut, ñamut-ñamut",
+    "query": "ñamut, ñamut-ñamut",
+    "page_ref": "1215:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "scarcely visible",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "HW",
+        "text": "2.12: (prāsāda) kadi Mandaragiri ñamut iṅ ghanâruhur;"
+      },
+      {
+        "source": "BK",
+        "text": "3.36: kuntul mör adulur ñamut-ñamut awarṇa mĕnur aluñut iṅ gĕluṅ lukar;"
+      },
+      {
+        "source": "BK+",
+        "text": "35.1: rinasaṅkw i ñamut-ñamut aṅuyaṅi ṅ ambĕk iṅ onĕṅ akūṅ;"
+      },
+      {
+        "source": "LS",
+        "text": "16.2: durgâhöt arupit pratiṅkah i hĕnūnya winuni masamun ñamut-ñamut;"
+      },
+      {
+        "source": "LS+",
+        "text": "34.1: koṅ kuntul ñamut aṅlayaṅ lĕyĕp adoh kĕḍap i saṅ agawe larâlaṅö."
+      }
+    ],
+    "group_id": 15
+  },
+  {
+    "id": "6",
+    "headword": "ñapñap",
+    "query": "ñapñap",
+    "page_ref": "1215:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "vanishing from sight, dimly in the distance?",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "GK",
+        "text": "30.6: wukir agöṅ ñapñap aruhur;"
+      },
+      {
+        "source": "GK+",
+        "text": "32.5: putus ñapñap doh niṅ parana."
+      }
+    ],
+    "group_id": 15
+  },
+  {
+    "id": "7",
+    "headword": "ñĕg",
+    "query": "ñĕg",
+    "page_ref": "1215:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "descript. particle (quick!)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KK",
+        "text": "55.16: seg ñĕg lĕs, marma tan asuwe."
+      }
+    ],
+    "group_id": 15
+  },
+  {
+    "id": "8",
+    "headword": "ñĕñĕr",
+    "query": "ñĕñĕr",
+    "page_ref": "1215:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "(subst.), <b>añĕñĕr</b> (adj.) (tasting or looking) fresh, exquisite, charming, melting the heart",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "HW",
+        "text": "6.5: aṅgīta kakawin añĕñĕr tan humuṅ mār swaranya;"
+      },
+      {
+        "source": "GK",
+        "text": "2.11: gītâñĕñĕr;"
+      },
+      {
+        "source": "GK+",
+        "text": "4.6: anusupeṅ pasir wukir asaṅwa ñĕñĕr i manis iṅ gaṅan kapat;"
+      },
+      {
+        "source": "SD",
+        "text": "39.7: rūm nirâṅrĕs añĕñĕr lwir sīdhu muṅgw iṅ wuluh;"
+      },
+      {
+        "source": "BK",
+        "text": "27.1: añĕñĕr awor manis hinaras iṅ raras hati;"
+      },
+      {
+        "source": "Nag",
+        "text": "91.3: lwir madhu len guladrawa rinok riṅ amanis añĕñĕr;"
+      },
+      {
+        "source": "PYñ",
+        "text": "29.3: lĕwu ñĕñĕr ika yan tiniṅhalan;"
+      },
+      {
+        "source": "SW",
+        "text": ";"
+      },
+      {
+        "source": "AbhW",
+        "text": ";"
+      },
+      {
+        "source": "HWj",
+        "text": "9.2: ndah siṅyan pamaṅanya manmathawarāstrâweh ñĕñĕr niṅ hati;"
+      },
+      {
+        "source": "HWj+",
+        "text": "52.19: katon paṅupasanya muṅgw i ñĕñĕr iṅ nayana luru rinĕṅga niṅ sipat;"
+      },
+      {
+        "source": "KHWj",
+        "text": "1.42a: amanis ñĕñĕr iṅ dulu (passim in kid.)."
+      }
+    ],
+    "group_id": 15
+  },
+  {
+    "id": "9",
+    "headword": "ñĕp*",
+    "query": "ñĕp*",
+    "page_ref": "1215:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "añĕp",
+        "page_ref": "1215:9.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+        "definition": "cool, chilly",
+        "citations": [
+          {
+            "source": "KY",
+            "text": "24.3: sumbĕr-sumbĕr marĕnĕb atis añĕp mātra mambö kariñjĕm."
+          }
+        ]
+      },
+      {
+        "sub_head": "kañĕpan",
+        "page_ref": "1215:9.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+        "definition": "(sic?) calf (of the leg)?",
+        "citations": [
+          {
+            "source": "Kor",
+            "text": "130.34: puḍak sinumpĕt iṅ kañĕpan (reading uncertain; var. kĕñĕpa, kakĕpan, kabĕpan)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 15
+  },
+  {
+    "id": "10",
+    "headword": "ñĕpñĕp",
+    "query": "ñĕpñĕp",
+    "page_ref": "1215:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "similar to lĕṅĕṅ, q.v.",
+    "sub_entries": [
+      {
+        "sub_head": "añĕpñĕp",
+        "page_ref": "1215:10.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+        "definition": "to cause the feeling of ñĕpñĕp, aṅlĕṅĕṅi",
+        "citations": [
+          {
+            "source": "GK",
+            "text": "27.5: sarwa manoharâṅ ujar añĕpñĕp aṅĕtĕri hati;"
+          },
+          {
+            "source": "KY",
+            "text": "35.1: ndatan rĕcĕp añĕpñĕp i hati tuna rāgakāraṇa;"
+          },
+          {
+            "source": "PYñ",
+            "text": "13.9: mata lumiriṅ añĕpñĕp yan polah tĕka riṅ alis."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "BY",
+        "text": "22.4: ñĕpñĕp ramya nikaṅ lumampah (var. ñipñip);"
+      },
+      {
+        "source": "GK",
+        "text": "2.11: ñĕpñĕp niṅ manah iṅ kapāna tiki yan tan wĕtwa gītâñĕñĕr;"
+      },
+      {
+        "source": "PYñ",
+        "text": "17.2: ñĕpñĕp taṅ manah aṅgagap turida tan katĕmu rasa nikaṅ prayojana;"
+      },
+      {
+        "source": "PYñ+",
+        "text": "17.5: ñĕpñĕp rĕp humĕnĕṅ maṅardhana sireṅ hati wĕkasan awā tikaṅ manah;"
+      },
+      {
+        "source": "SW",
+        "text": "28.6: ñĕpñĕp taṅ wĕṅi ramya maṅgagatakĕn kūṅ niṅ mijil riṅ taman;"
+      },
+      {
+        "source": "AbhW",
+        "text": "36.2: ñĕpñĕp lwir nikaṅ andhakāra tamatan papawulatan ikaṅ lurah-lurah;"
+      },
+      {
+        "source": "HWj",
+        "text": "50.7: tumiliṅ-tiliṅ tan ari ñĕpñĕp an ahĕli pamah-mah iṅ sukha."
+      }
+    ],
+    "group_id": 15
+  },
+  {
+    "id": "11",
+    "headword": "ñĕr",
+    "query": "ñĕr",
+    "page_ref": "1215:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "deeply moved, melting (heart)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "GK",
+        "text": "6.3: rājaduhitā lumihat i sira ñör tikaṅ hati;"
+      },
+      {
+        "source": "BK",
+        "text": "26.8: ñĕr citta nrĕpaputrikā;"
+      },
+      {
+        "source": "BK+",
+        "text": "28.15: ñĕr twasnyâṅliriṅi ... ;"
+      },
+      {
+        "source": "KY",
+        "text": "31.14: tĕg ñĕr citta nirâṅdadak kĕtĕg ikaṅ hṛdaya;"
+      },
+      {
+        "source": "AWj",
+        "text": "37.1: ñör pyah i saṅ minaṅkana baṅun kumuda mĕkar;"
+      },
+      {
+        "source": "Sut",
+        "text": "43.10: ñör twasnyâsĕmu rāgakāraṇa kaṅön-aṅĕn ... ;"
+      },
+      {
+        "source": "PYñ",
+        "text": "37.1: ñĕr twas nirâṅaṅĕn-aṅĕn humĕnĕṅ; 14.3."
+      }
+    ],
+    "group_id": 15
+  },
+  {
+    "id": "12",
+    "headword": "ñöt",
+    "query": "ñöt",
+    "page_ref": "1215:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "interjection: suddenly! (?)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KY",
+        "text": "51.3: asowe ñöt kumwâtali kadi tan aṅhel amĕkĕka."
+      }
+    ],
+    "group_id": 15
+  },
+  {
+    "id": "13",
+    "headword": "ñen",
+    "query": "ñen",
+    "page_ref": "1215:13",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "= <b>ñena?</b>",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Sum",
+        "text": "146.9: atutur wĕkasan sy aku maṅke / pañukilku hapūm ahasah ñen."
+      }
+    ],
+    "group_id": 15
+  },
+  {
+    "id": "14",
+    "headword": "ñena",
+    "query": "ñena",
+    "page_ref": "1215:14",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "here, give it!",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Kor",
+        "text": "112.26: ñena pustakanta bhaṭāra Gaṇa."
+      }
+    ],
+    "group_id": 15
+  },
+  {
+    "id": "15",
+    "headword": "ñwak",
+    "query": "ñwak",
+    "page_ref": "1215:15",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1215&zoom=width",
+    "definition": "interjection? ",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Sum",
+        "text": "146.10: baribin pa ya tan tuhu hah ñwak (colloquial)."
+      }
+    ],
+    "group_id": 15
+  }
+]

@@ -1,0 +1,6141 @@
+[
+  {
+    "id": "1",
+    "headword": "ya",
+    "query": "ya",
+    "page_ref": "2353:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2353&zoom=width",
+    "definition": " 1. emphatic or deictic particle 2. personal pronoun of the third person; when used in determinative position (possessive; indicating agent in passive forms, etc.) -nya (rarely -ya)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "14.20: Kumbhakarṇa sira jāgra ya rumĕṅö;"
+      },
+      {
+        "source": "RY+",
+        "text": "17.27: ndya mataṅnyat mati denya yā laraṅku;"
+      },
+      {
+        "source": "RY+",
+        "text": "20.72a: yan ya katon ikaṅ musuh ... ;"
+      },
+      {
+        "source": "GK",
+        "text": "41.7: enak yan ya jugeki rakwa lawanĕn;"
+      },
+      {
+        "source": "BK",
+        "text": "54.9: inalapnya ta kośa ni ṅhulun ya;"
+      },
+      {
+        "source": "BK+",
+        "text": "54.16: sumahur siraṅ Ugrasena śīghra / ya kĕnoh śabda narendratānaya;"
+      },
+      {
+        "source": "Sut",
+        "text": "122.2: len tekaṅ ya dinaṇḍa mati;"
+      },
+      {
+        "source": "KS",
+        "text": "1.40a: wontĕn ya roṅ tali. Often in combination with other particles: ya ta, ta ya, pwa ya etc."
+      },
+      {
+        "source": "Ad",
+        "text": "17.21: yukti ta ya tumibā ri dilah hyaṅ agni;"
+      },
+      {
+        "source": "Ad+",
+        "text": "25.12: ya tikâṅde lara;"
+      },
+      {
+        "source": "RY",
+        "text": "2.15: magiraṅ tumon ya;"
+      },
+      {
+        "source": "RY+",
+        "text": "2.25: sampun pĕjah pwa ya saharṣa ta saṅ maharṣi;"
+      },
+      {
+        "source": "RY+",
+        "text": "2.35: (rākṣasa) śabdanya bhīṣaṇa ... (36:) māyā ... pinasaṅnya. Passim in all texts."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "2",
+    "headword": "yad",
+    "query": "yad",
+    "page_ref": "2353:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2353&zoom=width",
+    "definition": "= <b>yan</b>, with connotation of the second person",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "3.70: pĕkĕn wwatan asiṅ sakahyuna nikaṅ prajā yad gawe;"
+      },
+      {
+        "source": "RY+",
+        "text": "6.193: tar hĕntya yad bhuktya ya riṅ dĕlāha."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "3",
+    "headword": "yadi",
+    "query": "yadi",
+    "page_ref": "2353:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2353&zoom=width",
+    "definition": "if, even if, even, though",
+    "sub_entries": [
+      {
+        "sub_head": "yadin",
+        "page_ref": "2353:5.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2353&zoom=width",
+        "definition": "idem",
+        "citations": [
+          {
+            "source": "HW",
+            "text": "4.3: athawā yadin wihaṅa ... ;"
+          },
+          {
+            "source": "HW+",
+            "text": "32.18: yadin hyaṅa niyata kawĕs;"
+          },
+          {
+            "source": "BY",
+            "text": "10.17: kĕnohnya hana pādarakṣaka yadin wiśīrṇa n winūk (lest);"
+          },
+          {
+            "source": "BK",
+            "text": "3.27: maṅkā wwaṅ mapirak yadin kapana tan pamirakana sarat ya tan padon (kapana ``how ... ever'' ?);"
+          },
+          {
+            "source": "HWj",
+            "text": "28.3: yadin siṅgih kesyan taṅ ubhaya. Yadin passim in pw. and kak., more frequent than yadi (RY 25x yadin, 1x yadi, 2x yadi tan);"
+          },
+          {
+            "source": "KHWj",
+            "text": "3x yadin."
+          }
+        ]
+      },
+      {
+        "sub_head": "yadyan, yadiyan, yadiyat, yadiya (tan)",
+        "page_ref": "2353:5.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2353&zoom=width",
+        "definition": "if, even if, even, even though",
+        "citations": [
+          {
+            "source": "AgP",
+            "text": "356.29: ikaṅ sarwasattwa umaṅan ikaṅ caru ... yadyan salwir niṅ triyak, tikus ... ;"
+          },
+          {
+            "source": "SS",
+            "text": "236.5: tan yogya taṅgapĕn, yadyan dānakĕna;"
+          },
+          {
+            "source": "Sl",
+            "text": "46.4: yadyan sugiha ... yayan ika cinalan de niṅ paḍanya janma;"
+          },
+          {
+            "source": "Sl+",
+            "text": "53.1: yadyan parĕṅa mĕtu ... tathāpinya n tan paḍa buddhi nika;"
+          },
+          {
+            "source": "RY",
+            "text": "2.69: wĕnṭĕṅ larasku yadiyan tuhu śaktimanta;"
+          },
+          {
+            "source": "RY+",
+            "text": "4.47: kita bhāgyan yadiyat pare sira;"
+          },
+          {
+            "source": "RY+",
+            "text": "19.107: yadiya tan matya yan asö / alah hewâmbĕknya n sinikĕp;"
+          },
+          {
+            "source": "RY+",
+            "text": "21.149: tātan dadi ṅ dadi kabeh yadiyat tayâtah;"
+          },
+          {
+            "source": "AW",
+            "text": "34.3: taṅeh yadyan warṇan;"
+          },
+          {
+            "source": "HW",
+            "text": "4.1: yadiyan panomaha hade matiki;"
+          },
+          {
+            "source": "HW+",
+            "text": "30.9: yadyan rare mātuha nĕmwa duhkha / prih rakṣa;"
+          },
+          {
+            "source": "BK",
+            "text": "13.2: (panah syuh hilaṅ) ``tan syuh yadyan ikaṅ musuh lawanana'';"
+          },
+          {
+            "source": "Sum",
+            "text": "45.5: yadyan gandharwa widyādhara niyata nikā sora;"
+          },
+          {
+            "source": "AWj",
+            "text": "59.1: tan mantuka riṅ purâku yadiyan tan sora deṅkw iṅ raṇa;"
+          },
+          {
+            "source": "AWj+",
+            "text": "67.4: yadyan maṅhĕta ... tūtĕn;"
+          },
+          {
+            "source": "Sut",
+            "text": "32.5: tan Durmukharūpa tâku yadiyan tan bhraṣṭa deṅkw iṅ raṇa;"
+          },
+          {
+            "source": "L",
+            "text": "8.2: niyataṅku matya yadiyan ḍawuha;"
+          },
+          {
+            "source": "HWj",
+            "text": "7.6: ṅwaṅ yadiyan kṛtakṛtya mamĕnaṅana kārya nikâtiśaya;"
+          },
+          {
+            "source": "KHWj",
+            "text": "3.77b: yadyan sasor iṅ laṅit kaya tan poliha;"
+          },
+          {
+            "source": "KS",
+            "text": "1.39b: aṅumpula bahitra yadyan aguṅ alit;"
+          },
+          {
+            "source": "RL",
+            "text": "7.129: yadyana tĕkeṅ banawa (ib. 2x yadyan)."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "GK",
+        "text": "19.1: yadi tan kahat-hata sarinya niyata ni puputnya laywana;"
+      },
+      {
+        "source": "AbhW",
+        "text": "14.1: yadi sesi niṅ gṛha wiśeṣa kita juga baśa;"
+      },
+      {
+        "source": "HWj",
+        "text": "23.1: yadi kenaka niṅ asuma salaga nitya lanâmlas-arĕp. Passim in parwas and kak."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "4",
+    "headword": "yadyan",
+    "query": "yadyan",
+    "page_ref": "2353:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2353&zoom=width",
+    "definition": "see <i>yadi</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "5",
+    "headword": "yadyapi",
+    "query": "yadyapi",
+    "page_ref": "2353:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2353&zoom=width",
+    "definition": "although, even though, even if, even. See also <i>adyapi</i>, <i>dyapi</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "yadyapin, yadyapi yan, yadyapik, yadiyapi",
+        "page_ref": "2353:11.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2354&zoom=width",
+        "definition": "",
+        "citations": []
+      },
+      {
+        "sub_head": "yat",
+        "page_ref": "2353:11.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2354&zoom=width",
+        "definition": "idem",
+        "citations": [
+          {
+            "source": "AgP",
+            "text": "358.1: kunaṅ ikaṅ yajña, yadyapin wiśwajit ikaṅ yajña gawayakĕna, yayā juga waluyanya janma mānuṣa;"
+          },
+          {
+            "source": "SS",
+            "text": "120.3: yadyapin asĕgĕha ya ri kita tuwi, dohana juga ya;"
+          },
+          {
+            "source": "SS+",
+            "text": "288.1: ika taṅ daridra yadyapin prajña tuwi ... ;"
+          },
+          {
+            "source": "RY",
+            "text": "2.52: gāṇḍewa yadyapin akas tikĕlâta denta;"
+          },
+          {
+            "source": "RY+",
+            "text": "4.44: hana kadga nirâtitīkṣṇa ya / tan adoh yadyapi yan tĕkâṅ musuh (prob. conn. with adoh);"
+          },
+          {
+            "source": "RY+",
+            "text": "5.38: yadiyapi yat pituhwa hayu niṅ naya tan wihaṅĕn;"
+          },
+          {
+            "source": "RY+",
+            "text": "24.149: yadyapik uwaha kunaṅ makurĕn / kahawā kulaṅku;"
+          },
+          {
+            "source": "AbhW",
+            "text": "59.11: haywâśā rari yadyapin wipatha."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "91.32: yadyapi katĕkana (?) maṅke;"
+      },
+      {
+        "source": "BrP+",
+        "text": "123.30: yadyapi katĕka maṅke;"
+      },
+      {
+        "source": "AgP",
+        "text": "354.13: yadyapi yukti ujarnya, kady aṅrĕṅö śapatha hiḍĕp niṅ wwaṅ; 389.14;"
+      },
+      {
+        "source": "SS",
+        "text": "167.1: yadyapi brāhmaṇâtuha tuwi (ib. passim);"
+      },
+      {
+        "source": "L",
+        "text": "36.2: apan iki liṅta yadyapi taman kaharṣan ikanaṅ bratâstu katĕmu / phala nika;"
+      },
+      {
+        "source": "TK",
+        "text": "38.23: yadyapi mānuṣa tuwi;"
+      },
+      {
+        "source": "TK+",
+        "text": "144.26: yadyapin katĕkan iṅ maṅke (4x);"
+      },
+      {
+        "source": "Kor",
+        "text": "92.27;"
+      },
+      {
+        "source": "Td",
+        "text": "2.8b: yadyapi matya. Occasionally it appears to mean ``if'':"
+      },
+      {
+        "source": "AbhW",
+        "text": "18.12: yadyapi tan pĕjah Kicaka denta mamalĕsa pati / haywa hinur mata ṅwaṅ amisarjana ṅ awak alalis;"
+      },
+      {
+        "source": "AbhW+",
+        "text": "19.7: katuhwan rakryan yadyapi kasapihan kūṅkwa ri kita;"
+      },
+      {
+        "source": "AbhW+",
+        "text": "28.4: āpan tan hana bheda yadyapi sĕḍĕṅnya k iwĕṅ-iwĕṅ amet pakāśrayan;"
+      },
+      {
+        "source": "HWj",
+        "text": "8.1: lalu pwa ri hiwĕhnya yadyapi kitânaku tan atĕpĕt iṅ samāhita. Sometimes yadyapi comes at the end:"
+      },
+      {
+        "source": "BY",
+        "text": "21.17: hana söṅ i rāga nika yan pama#lihakĕna harṣa yadyapi / ndan alūṅ araśmi ... ;"
+      },
+      {
+        "source": "BY+",
+        "text": "21.18: saka riṅ kakiṅkiṅan awās praṅĕn alabuha bahni yadyapi;"
+      },
+      {
+        "source": "Wṛt",
+        "text": "55: meta siṅ sakahyunta yadyapi; also?: GK 27.15: aṅlalu yadyapîki cacahĕn saka riṅ apasaha."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "6",
+    "headword": "yadyastun",
+    "query": "yadyastun",
+    "page_ref": "2354:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2354&zoom=width",
+    "definition": "even, even though; supposing that, if",
+    "sub_entries": [
+      {
+        "sub_head": "yadyastu",
+        "page_ref": "2354:1.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2354&zoom=width",
+        "definition": "(?)",
+        "citations": [
+          {
+            "source": "HW",
+            "text": "28.8: yadyastu naṅgulana hapraṅa haywa mundur (read yadyan tumaṅg.?);"
+          },
+          {
+            "source": "TK",
+            "text": "142.19: yadyastu sakapasuk iṅ bhuwana, kakawaśa ... (NB yadyastun not in RY)."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "56.22: tan dadi wwaṅ dumĕlwa saṅ hyaṅ Āditya, yadyastun haneṅ udayâstamana tuwi;"
+      },
+      {
+        "source": "BrP+",
+        "text": "119.31: ya ta kĕlĕmakĕna ... apa herĕn ika tan kĕlĕma, yadyastun ahyuna mijila, uṇḍan-uṇḍan i ṅhulun ika;"
+      },
+      {
+        "source": "Sl",
+        "text": "13-14.3: yadyastun māliha mareṅ mānuṣa mewĕh ika;"
+      },
+      {
+        "source": "HW",
+        "text": "50.5: yadyastun aṅlĕṅĕṅa towi;"
+      },
+      {
+        "source": "BY",
+        "text": "38.7: yadyastun kawirāja towi niyata n patiṅgala karas;"
+      },
+      {
+        "source": "BY+",
+        "text": "44.18: yadyastun jĕnĕkâṅamĕr surawadhū kita sumĕlaṅa haywa niṣṭhura;"
+      },
+      {
+        "source": "GK",
+        "text": "23.2: yadyastun ṅwaṅ iki n dudul-dudulĕn iṅ hyun;"
+      },
+      {
+        "source": "BK",
+        "text": "24.2: yadyastun salah asa tâku liṅ nire twas / marmanyâwaraha maṅiṣṭi tâku matya;"
+      },
+      {
+        "source": "BK+",
+        "text": "26.11: yadyastun śapathāna ta ṅwaṅ ari denta;"
+      },
+      {
+        "source": "Sum",
+        "text": "61.1: yadyastun tulisĕn samaṅkana pirâwig-awiga nika ... ;"
+      },
+      {
+        "source": "Sum+",
+        "text": "68.1: yadyastun siddha rakryan sasisihana hulĕs dlāha lāwan narendra / sakweh niṅ strī haneṅ jro nagara niyata tan sāha saṅke padanta;"
+      },
+      {
+        "source": "Sut",
+        "text": "52.7: yadyastun jĕnĕkeṅ smarālaya matâku siwinĕn i kalaṅwan iṅ sĕkar;"
+      },
+      {
+        "source": "Wṛt",
+        "text": "8: yadyastun paḍa saṅkhya niṅ yati lamun guru-laghu nika bheda ... ;"
+      },
+      {
+        "source": "AbhW",
+        "text": "1.15: ewĕh ṅwaṅ ... / yadyastun lumĕkas;"
+      },
+      {
+        "source": "AbhW+",
+        "text": "1.19: yadyastun kinaniścayan tĕtĕpi;"
+      },
+      {
+        "source": "HWj",
+        "text": "20.4: yadyastun wulikĕn paran tĕmu paḍanta;"
+      },
+      {
+        "source": "KHWj",
+        "text": "3.15b: yadyastun dede siṅgih de nira uwâmratiṅkah isun maṅkya susuksrah;"
+      },
+      {
+        "source": "KHWj+",
+        "text": "5.68a: yadyastun kawawa mareṅ aweci (ib. 7x; not in KS, RL);"
+      },
+      {
+        "source": "Td",
+        "text": "5.111b: yadyastun saswarga yamani sira rowaṅa niṅsun."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "7",
+    "headword": "yah",
+    "query": "yah",
+    "page_ref": "2354:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2354&zoom=width",
+    "definition": "emphatic particle (challenge)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "24.206: Pawanātmaja yah t asö ry aku."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "8",
+    "headword": "yajamāna",
+    "query": "yajamāna",
+    "page_ref": "2354:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2354&zoom=width",
+    "definition": "offerer, sacrificer. In Skt the person paying the cost of a sacrifice; in OJ the priest, except in <i><b>SS</b></i> 187.9.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "57.32: sinrĕṅ taṅ mantra de saṅ yajamāna;"
+      },
+      {
+        "source": "BrP",
+        "text": "63.19: kayuktyan ikaṅ pūjā, an ginawayakĕn de saṅ yajamāna ... ;"
+      },
+      {
+        "source": "SS",
+        "text": "187.9: dātā ṅaran saṅ masuṅ dāna, saṅ yajamāna magaway dāna;"
+      },
+      {
+        "source": "(?:) Utt",
+        "text": "83.24: saṅ watĕk ṛṣi kabeh saṅ pinakayajñananimana (sic, read -yajamā#na?) ni yajña nira."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "9",
+    "headword": "yajamānākāśa",
+    "query": "yajamānākāśa",
+    "page_ref": "2354:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2354&zoom=width",
+    "definition": "(Skt) the sky as yajamāna (institutor of the sacrifice)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "VG",
+        "text": "VII 32 f. (860) Xa: rawi śaśi kṣiti jala pawana hutāśana yajamānākāśa dharma ahoratri;"
+      },
+      {
+        "source": "OJO",
+        "text": "30 (915) 25: ... jala pawana hutāśana yajamānākāśa kālamṛtyu ... Passim in inscr."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "10",
+    "headword": "yajamānaṣṭaka",
+    "query": "yajamānaṣṭaka",
+    "page_ref": "2354:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2354&zoom=width",
+    "definition": "(?)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "86.25: katon pwa sira de saṅ yajamānaṣṭaka (var. yajamanaṣṭapa; read yajamā#nasthapaka?)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "11",
+    "headword": "yajña",
+    "query": "yajña",
+    "page_ref": "2354:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2354&zoom=width",
+    "definition": "(Skt) act of worship or devotion, offering, oblation, sacrifice. See also <i>aśwamedha-</i>, <i>brahma-</i>, <i>dewa-</i>, <i>dṛwya-</i>, <i>homa-</i>, <i>jñāna-</i>, <i>parama-</i>, pitṛ-, raṇa-, raṇāṅga-, su-, sura-, swa-, tapa-, yoga-.",
+    "sub_entries": [
+      {
+        "sub_head": "mayajña",
+        "page_ref": "2354:6.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2354&zoom=width",
+        "definition": "to offer, perform a sacrifice",
+        "citations": [
+          {
+            "source": "SS",
+            "text": "62.1: nyā dharma saṅ brāhmaṇa: maṅajya, mayajñā, maweha dānapuṇya, magĕlĕmâ#tīrtha, amarahana, wikwa niṅ ayajña, manaṅgapa dāna;"
+          },
+          {
+            "source": "RY",
+            "text": "5.25: ri sĕḍĕṅ mayajña sira ... ;"
+          },
+          {
+            "source": "RY+",
+            "text": "17.41: āryaputra masamādhi mayajña;"
+          },
+          {
+            "source": "BY",
+            "text": "1.1: saṅ śūrâmrih ayajña riṅ samara;"
+          },
+          {
+            "source": "PYñ",
+            "text": "31.7: wruh i mūla niṅ bhuwana wastu niṅ atapa mayajña śūnyatā."
+          }
+        ]
+      },
+      {
+        "sub_head": "payajñan",
+        "page_ref": "2354:6.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+        "definition": "place for offering",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "7.4: ḍatĕṅ riṅ Kurukṣetra ... tĕkeṅ payajñan mahārāja Janamejaya;"
+          },
+          {
+            "source": "L",
+            "text": "2.9: kārnah lornya payajñan arsik i natarnya."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "2.7: magawe yajña;"
+      },
+      {
+        "source": "Ad+",
+        "text": "58.1: duwĕg ikaṅ yajña sarpa jugâhuwusana;"
+      },
+      {
+        "source": "AgP",
+        "text": "356.14: gumawayakĕn ikaṅ tapa yajña kīrti;"
+      },
+      {
+        "source": "RY",
+        "text": "5.9: pratidina homayajña ginawe nira;"
+      },
+      {
+        "source": "RY+",
+        "text": "6.159: Sugrīwa yajña gawayĕn nira riṅ raṇāṅga;"
+      },
+      {
+        "source": "RY+",
+        "text": "21.211: yapwan yajña n pamūjeṅ raṇa pĕjaha mamūk mokṣā ya lĕpasa;"
+      },
+      {
+        "source": "GK",
+        "text": "1.4: yajña mwaṅ yaśa dāna śāstra winiweka;"
+      },
+      {
+        "source": "BK",
+        "text": "1.19: amaṅun dharma karika maṅipuk yajña;"
+      },
+      {
+        "source": "Sut",
+        "text": "1.11: pūja mantra ... homayajñânukāri;"
+      },
+      {
+        "source": "RPWj",
+        "text": "61.6: yajñeṅ raṇāṅgana sinādhya nireka tan len;"
+      },
+      {
+        "source": "Buṭak",
+        "text": "(1294) 11b: maṅgĕlar bhūtabali mwaṅ yajña riṅ dewata."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "12",
+    "headword": "yajñābhyāsa*",
+    "query": "yajñābhyāsa*",
+    "page_ref": "2355:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt)",
+    "sub_entries": [
+      {
+        "sub_head": "mayajñābhyāsa",
+        "page_ref": "2355:1.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+        "definition": "to practise sacrificial rites",
+        "citations": [
+          {
+            "source": "CA",
+            "text": "116.12: umantuk pwa sira sakeṅ ma#yajñabyasa; 117.6."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "13",
+    "headword": "yajñakarakarma",
+    "query": "yajñakarakarma",
+    "page_ref": "2355:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(or yajñākārakarma?) = <b>yajñakarma</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Udy",
+        "text": "99.14: tumarjana ṅ yajñakarakarma."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "14",
+    "headword": "yajñakarma",
+    "query": "yajñakarma",
+    "page_ref": "2355:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) sacrificial ceremony",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "2.14: sira pinakamaṅgala nikaṅ yajñakarma;"
+      },
+      {
+        "source": "Ad+",
+        "text": "86.15: magawe yajñakarma."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "15",
+    "headword": "yajñakārya",
+    "query": "yajñakārya",
+    "page_ref": "2355:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) sacrifice, sacrificial feast",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "55.8: saṅ pininaṅ milw iṅ yajñakārya;"
+      },
+      {
+        "source": "Udy",
+        "text": "28.25: yajñakārya rakwa kawaṅunan weda ya tinamākĕn;"
+      },
+      {
+        "source": "Utt",
+        "text": "90.22: sira pinakawiku nikaṅ yajñakārya."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "16",
+    "headword": "yajñāṅga",
+    "query": "yajñāṅga",
+    "page_ref": "2355:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) the body of the sacrifice, the sacrifice itself",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "SS",
+        "text": "183.2: wruh riṅ mantra yajñāṅga widhi#widhānādi."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "17",
+    "headword": "yajñasabhā",
+    "query": "yajñasabhā",
+    "page_ref": "2355:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) place for the sacrifice",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Utt",
+        "text": "33.6: mañjiṅ tikaṅ Rāwaṇa riṅ yajñasabhā kapaṅgih ta saṅ Marutta."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "18",
+    "headword": "yajñasambhāra",
+    "query": "yajñasambhāra",
+    "page_ref": "2355:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) requisites (preparations) for a sacrifice",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Udy",
+        "text": "75.1: hĕnti ta pwa dṛwya nira maṅke, apan tĕlas pinakadāna nira riṅ yajñasambhāra;"
+      },
+      {
+        "source": "Utt",
+        "text": "114.4: tĕlas aṅrabdha kagawayan ikaṅ yajñasambhāra."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "19",
+    "headword": "yajñaśeṣa",
+    "query": "yajñaśeṣa",
+    "page_ref": "2355:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) the remains of the offering",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "47.28: yajñaśeṣa bhinukti nira saṅ mahāpuruṣa."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "20",
+    "headword": "yajñasthāna",
+    "query": "yajñasthāna",
+    "page_ref": "2355:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) place for sacrifice",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "54.33: mukur yajñasthāna."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "21",
+    "headword": "yajñāyatana",
+    "query": "yajñāyatana",
+    "page_ref": "2355:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) place for sacrifice",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "54.32: tinatekaṅ yajñāyatana, lwā nikaṅ deśa payajñan ira dwiyojanapramāṇa."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "22",
+    "headword": "yajuh",
+    "query": "yajuh",
+    "page_ref": "2355:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) sacrificial prayer or formula; Yajurweda",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "77.4: Sāma Ṛk Yajuh Atharwāṇa;"
+      },
+      {
+        "source": "BrP+",
+        "text": "99.12: hana ta yajuh sayuta roṅ iwu sagrā#māraṇyaka."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "23",
+    "headword": "yajurwedapāraga",
+    "query": "yajurwedapāraga",
+    "page_ref": "2355:13",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) knowing the Yajurweda thoroughly",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "vN",
+        "text": "2 (1268) A.3: mahābrāhmaṇa yajurwedapāraga."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "24",
+    "headword": "yajurwit",
+    "query": "yajurwit",
+    "page_ref": "2355:14",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) knowing the yajus or sacrificial formulas",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "122.31: saṅ yaju &lt;r&gt;wit, hana ta warṇawikāra."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "25",
+    "headword": "yajwātma",
+    "query": "yajwātma",
+    "page_ref": "2355:15",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) the ātma as sacrificer (among the saptātma)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "JñS",
+        "text": "166.16: nihan lwir saṅ hyaṅ saptātma: yajwātma, dhartātma, bhoktātma, niyoktā#tma, prawartātma, prayoktātma, draṣṭātma."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "26",
+    "headword": "yak",
+    "query": "yak",
+    "page_ref": "2355:16",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "= <b>yan</b>, with connotation of the first person",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "5.20: keraṅ-iraṅ dahatĕn / yak atukarâ#praṅa ... ;"
+      },
+      {
+        "source": "RY+",
+        "text": "5.74: ikana hyunta yāk iṅĕt-iṅĕt ya kadi pwa sĕkar;"
+      },
+      {
+        "source": "RY+",
+        "text": "7.27: tulya gandha ni pipinta yak hiḍĕp (thus passim);"
+      },
+      {
+        "source": "RY+",
+        "text": "12.41: yak wulat riya manahku katūtūt;"
+      },
+      {
+        "source": "BK",
+        "text": "78.10: lwir wimba hyaṅ wulan lwirnya yak ton;"
+      },
+      {
+        "source": "Sum",
+        "text": "125.1: yak matyâku dĕlönta ... ;"
+      },
+      {
+        "source": "Sum+",
+        "text": "145.8: hade Raghusutâku tak sy Aja ṅaranya yak atakuta;"
+      },
+      {
+        "source": "AbhW",
+        "text": "66.3: yak matyeki jĕmah ṅhulun."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "27",
+    "headword": "yakṣa",
+    "query": "yakṣa",
+    "page_ref": "2355:17",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) name of a class of semi-divine beings, attendants of Kubera, exceptionally also of Wiṣṇu. They are occasionally classed with piśācas and other malignant spirits. In OJ often as a class of beings, associated with or identified with asura, rākṣasa, daitya.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "102.15: ``yakṣābhibhūtasaṅgamah'', kinawaśākĕn de niṅ kadadin iṅ panakit ikaṅ yakṣa ... makāwasāna busuṅ (but Skt Mhbh: yakṣmaṇā samagṛhyata, from yakṣman, consumption);"
+      },
+      {
+        "source": "Wir",
+        "text": "70.26: harṣa ta saṅ khecarânonton ... lwirnya yakṣa, gandharwa, mahoraga, gaṇa, surāṅganā, kinnara;"
+      },
+      {
+        "source": "BhP",
+        "text": "22.25: ikaṅ janma hana ṅkāna, yakṣa kewala buddhinya, apan akweh māsnya;"
+      },
+      {
+        "source": "BhP+",
+        "text": "57.17: ri sakweh niṅ yakṣa-rākṣasa, ṅhulun Weśrawaṇa;"
+      },
+      {
+        "source": "Udy",
+        "text": "124.19: yapwan yakṣa kabeh, saṅ hyaṅ Waiśrawaṇa mra#māṇerika;"
+      },
+      {
+        "source": "Utt",
+        "text": "(SĕkS 10.30): saṅ Waiśrawaṇa ... sakweh niṅ yakṣa pinakawadwa nira;"
+      },
+      {
+        "source": "RY",
+        "text": "6.58: Dhanapati tuwi duhkhā yakṣa ya syūha;"
+      },
+      {
+        "source": "RY+",
+        "text": "21.136: riṅ dadi yakṣa rākṣasa kabeh kitâta Dhanapa;"
+      },
+      {
+        "source": "BY",
+        "text": "36.16: sarwāyudha pamati yakṣâsura tuwi;"
+      },
+      {
+        "source": "BY+",
+        "text": "38.2: ndin dānawa daitya yakṣa mapagâku;"
+      },
+      {
+        "source": "BK",
+        "text": "80.5: (Kṣitiputra) iniriṅ nikāṅ asura yakṣa rākṣasa piśāca nāga;"
+      },
+      {
+        "source": "Sut",
+        "text": "21.10: ikanaṅ yakṣa maminta sih nira (viz. Śuciloma, who is also called asura, mahārākṣasa, rākṣasādhipa);"
+      },
+      {
+        "source": "Kor",
+        "text": "72.35: asura ṅaran iṅ yakṣa;"
+      },
+      {
+        "source": "Kor+",
+        "text": "180.6: yakṣa pwâwak nika ... daitya Kālayowana ṅaranya;"
+      },
+      {
+        "source": "KK",
+        "text": "57.39: hana ta pakṣi yakṣa Siṣantana ṅaranya, galak mahĕlar curiga;"
+      },
+      {
+        "source": "KK+",
+        "text": "58.2: swana yakṣa, asu matĕ#&lt;n&gt;ḍas takṣasa (sic);"
+      },
+      {
+        "source": "KK+",
+        "text": "58.24: pakṣi yakṣamukha;"
+      },
+      {
+        "source": "KK+",
+        "text": "62.3: taṅ pakṣi yakṣi (sic) yakṣimukha (Kuñjarakarṇa is himself a yakṣa);"
+      },
+      {
+        "source": "VG",
+        "text": "VII 32 f. (860) Xa: yakṣa rākṣasa piśāca pretâsura garuḍa gandharwa ... (passim in inscr.)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "28",
+    "headword": "yakṣādhipa",
+    "query": "yakṣādhipa",
+    "page_ref": "2355:18",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) the king of the yakṣas",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "128.5: saṅ Rajatanābha ... yakṣādhipa rasika;"
+      },
+      {
+        "source": "Kor",
+        "text": "4.14: tan yakṣādhipa pwa sira, pan Kāla."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "29",
+    "headword": "yakṣāgni",
+    "query": "yakṣāgni",
+    "page_ref": "2355:19",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2355&zoom=width",
+    "definition": "(Skt) ``yakṣa-fire''? or: ``fire-yakṣa''?",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "PYñ",
+        "text": "32.2: tan mātya pwa ya de niṅ astra ... / tan de niṅ ratu śaktimān ṅuni-ṅuni yakṣāgni len kiṅkara."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "30",
+    "headword": "yakṣamukha",
+    "query": "yakṣamukha",
+    "page_ref": "2356:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": "(Skt) with a yakṣa head",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KK",
+        "text": "58.24: pakṣi yakṣamukha."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "31",
+    "headword": "yakṣanātha",
+    "query": "yakṣanātha",
+    "page_ref": "2356:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": "(Skt) king of the yakṣas.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AWj",
+        "text": "(passim) = Kubera."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "32",
+    "headword": "yakṣapati",
+    "query": "yakṣapati",
+    "page_ref": "2356:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": "(Skt) lord of the yakṣas",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Sut",
+        "text": "108.1: hiniṅan prabhu yakṣapati (= Poruṣāda)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "33",
+    "headword": "yakṣarāja",
+    "query": "yakṣarāja",
+    "page_ref": "2356:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": "(Skt) king of the yakṣas",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AWj",
+        "text": "(passim) = Kubera;"
+      },
+      {
+        "source": "RPWj",
+        "text": "20.5: Dhanapati yakṣarāja makapaṅgaja."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "34",
+    "headword": "yakṣendra",
+    "query": "yakṣendra",
+    "page_ref": "2356:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": "(Skt) king of the yakṣas",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AWj",
+        "text": "70.1: = Rāwaṇa;"
+      },
+      {
+        "source": "Sut",
+        "text": "109.2: yakṣendra liṅĕn (= Poruṣāda)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "35",
+    "headword": "yakṣeśwara",
+    "query": "yakṣeśwara",
+    "page_ref": "2356:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": "(Skt) lord of the yakṣas",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Utt",
+        "text": "20.20: sojar yakṣeśwara, ṅhulun ikeṅu#tus śrī rākṣaseśwara tumĕkākĕn uddeśa nira."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "36",
+    "headword": "yakṣī",
+    "query": "yakṣī",
+    "page_ref": "2356:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": "(Skt) female yakṣa",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "NR",
+        "text": "58.9: yaksa yaksi buta ḍĕṅĕn."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "37",
+    "headword": "yakṣma",
+    "query": "yakṣma",
+    "page_ref": "2356:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": "(Skt) consumption (see <i><b>Ad</b></i> 102.15, under yakṣa).",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "38",
+    "headword": "yakti",
+    "query": "yakti",
+    "page_ref": "2356:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": "= <b>wyakti</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ws",
+        "text": "3.103a: ajâṅanti ... pan yakti alawas kaṅ woṅ;"
+      },
+      {
+        "source": "ST",
+        "text": "5.145;"
+      },
+      {
+        "source": "NR",
+        "text": "28.3; 30.23."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "39",
+    "headword": "yāma II",
+    "query": "yāma II",
+    "page_ref": "2356:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": "(Skt) a night-watch, period or watch of three hours",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "L",
+        "text": "37.2: rikaṅ rajani yāma pat gĕlarana krama nira manuta ṅ sakabwatan."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "40",
+    "headword": "yamabrata",
+    "query": "yamabrata",
+    "page_ref": "2356:13",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": "(Skt) 1. Yama's way of acting 2. the way of self-restraint",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "24.54: Yamabrata dumaṇḍa karmâhala."
+      },
+      {
+        "source": "Sl",
+        "text": "15.21: kewala ahĕniṅa tutur ira, ika ta yamabrata ṅaranya."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "41",
+    "headword": "yamāka",
+    "query": "yamāka",
+    "page_ref": "2356:17",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": "? (acc. to context:) with, in intercourse with",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "SD",
+        "text": "37.13: nimitta Ghorīpati n / makānak i bhaṭāra Durmukha yamāka Śelātmajā."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "42",
+    "headword": "yamani",
+    "query": "yamani",
+    "page_ref": "2356:22",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": "(Skt) hell",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AbhW",
+        "text": "43.9: sākṣāt gomukha yamani;"
+      },
+      {
+        "source": "KHWj",
+        "text": "5.15b: umiriṅ aji yadyastun kawawa riṅ yamani;"
+      },
+      {
+        "source": "OJO",
+        "text": "42 (929) 8a: yan mati muliha mareṅ yamani."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "43",
+    "headword": "yamaniloka",
+    "query": "yamaniloka",
+    "page_ref": "2356:23",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": "(Skt) hell",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Utt",
+        "text": "26.24: lĕbura tĕkeṅ yamaniloka;"
+      },
+      {
+        "source": "Sl",
+        "text": "11#12.14."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "44",
+    "headword": "yan",
+    "query": "yan",
+    "page_ref": "2356:29",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2356&zoom=width",
+    "definition": " 1. when, if, since 2. that (conjunction; in ``to know, etc that ... '') 3. in interrogative clauses, either as subordinating conjunction: whether, or before the interrogative word: yan apa, yan pira",
+    "sub_entries": [
+      {
+        "sub_head": "yan iṅ",
+        "page_ref": "2356:29.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2357&zoom=width",
+        "definition": "as to, regarding",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "113.18: yan iṅ janmapramāṇa matuha saṅ Yudhiṣṭhira;"
+          },
+          {
+            "source": "Ad+",
+            "text": "205.6: yan iṅ rūpa saṅ Kṛṣṇa juga tiniru nira. Passim."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "57.29: yan huwus māti si nāga Takṣaka, samaṅkana ṅhulun mahuwusana ... ;"
+      },
+      {
+        "source": "Ad+",
+        "text": "103.3: yan hana pratijñā ni ṅhulun ... , riṅ apa wĕnaṅanya tan satyawacana;"
+      },
+      {
+        "source": "Ad+",
+        "text": "160.11: yan tan ahyun maṅhera ... , haywa tumūtakĕn;"
+      },
+      {
+        "source": "Ad+",
+        "text": "193.23: tan hana ... yan lena saṅkeṅ saṅhulun;"
+      },
+      {
+        "source": "Ad+",
+        "text": "203.22: tutūti ta yan wĕnaṅ. Passim in all texts."
+      },
+      {
+        "source": "Ad",
+        "text": "30.25: sandeha ta manah nira, yan tan dadya niṅ anak nira;"
+      },
+      {
+        "source": "Ad+",
+        "text": "42.3: wruh pwa sira yan kinasampayan;"
+      },
+      {
+        "source": "Ad+",
+        "text": "152.11: karĕṅö pwa sira yan siddhimantra. Passim."
+      },
+      {
+        "source": "Ad",
+        "text": "8.23: pinarīkṣa nira yan tuhun guruśuśrūṣa;"
+      },
+      {
+        "source": "Ad+",
+        "text": "17.30: tumakwanakĕn yan tuhu mahārāja dewatā pĕjah sinahut;"
+      },
+      {
+        "source": "Ad+",
+        "text": "25.16: yan pira kari paweha phala ni tapa ni ṅhulun;"
+      },
+      {
+        "source": "Ad+",
+        "text": "77.25: yan apa ta pamalĕsaṅkwa;"
+      },
+      {
+        "source": "Ad+",
+        "text": "151.9: matakwan ta ye saṅ brāhmaṇa, yan aparan kawwaṅan saṅ umāti ratu Baka;"
+      },
+      {
+        "source": "Ad+",
+        "text": "183.20: warahĕn ṅhulun ... yan paramabrāhmaṇa athawā yan janma kṣatriya kunaṅ;"
+      },
+      {
+        "source": "Ad+",
+        "text": "186.1: tinañan ira ... yan syapa saṅ makastrī ya. Passim."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "45",
+    "headword": "yāna I",
+    "query": "yāna I",
+    "page_ref": "2357:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2357&zoom=width",
+    "definition": "(Skt) moving, riding, marching; vehicle (of any kind)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "13.49: nyāṅ sandhi len wigraha yāna sāsana / lawann ika dweṣa sahāya yâśrayan (cf under āsana);"
+      },
+      {
+        "source": "Nag",
+        "text": "24.2: bhawiṣya ṅ yānâ#ṅuttara Turayan aṅ deśa kahawan."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "46",
+    "headword": "yāna II",
+    "query": "yāna II",
+    "page_ref": "2357:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2357&zoom=width",
+    "definition": "= <b>yan</b> ana?",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "TBG",
+        "text": "67.205 f. (907) B.13: wĕkasakĕn hawu kerir yāna ṅ wwaṅ umulah-ulah ikaiṅ sīma ... (4x ibid.)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "47",
+    "headword": "yantra",
+    "query": "yantra",
+    "page_ref": "2357:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2357&zoom=width",
+    "definition": "(Skt) instrument, apparatus, contrivance, machine etc. See also <i>jantra</i>.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Udy",
+        "text": "119.9: sarwasañjata makādi ṅ yantra tomara gāṇḍhiwa yaṣṭi prakāra."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "48",
+    "headword": "yaṅ I",
+    "query": "yaṅ I",
+    "page_ref": "2357:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2357&zoom=width",
+    "definition": "= <b>hyaṅ</b> I; see also <i>kamayaṅan</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "49",
+    "headword": "yaṅ II",
+    "query": "yaṅ II",
+    "page_ref": "2357:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2357&zoom=width",
+    "definition": "= <b>hyaṅ</b> II, hwaṅ.",
+    "sub_entries": [
+      {
+        "sub_head": "umyaṅ",
+        "page_ref": "2357:5.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2357&zoom=width",
+        "definition": "resounding loudly",
+        "citations": [
+          {
+            "source": "KS",
+            "text": "3.47: umyaṅ gumuruh kaṅ taṅis."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "50",
+    "headword": "yapwa",
+    "query": "yapwa",
+    "page_ref": "2357:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2357&zoom=width",
+    "definition": "emphatic particle",
+    "sub_entries": [
+      {
+        "sub_head": "yapwa tan",
+        "page_ref": "2357:6.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2357&zoom=width",
+        "definition": "= <b>yapwan</b> tan",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "10.33: yapwa tan aṅgā bhaktya pinatyan."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "AbhW",
+        "text": "70.2: wiphala ya pwa taṇḍiṅa."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "51",
+    "headword": "yapwan",
+    "query": "yapwan",
+    "page_ref": "2357:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2357&zoom=width",
+    "definition": "(= <b>yan</b>) when, if",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "27.16: yapwan kagaway ikā denta, aryakĕna ni ṅhulun kita;"
+      },
+      {
+        "source": "Ad+",
+        "text": "40.15: yapwan dawānya, rwawĕlas yojana pramĕṇanya;"
+      },
+      {
+        "source": "Ad+",
+        "text": "74.1: yapwan māti, tan wĕnaṅ ṅhulun mahuripa;"
+      },
+      {
+        "source": "Ad+",
+        "text": "85.3: yapwan tĕka ṅ sewu tahun, samaṅkana kita muwaha yowana;"
+      },
+      {
+        "source": "RY",
+        "text": "2.73: yapwan wĕnaṅ mayat iko alahâku demu;"
+      },
+      {
+        "source": "BY",
+        "text": "38.4: yapwan pādapa kāṅinan dyah aku luṅgah iṅ gaḍuṅ aṅol;"
+      },
+      {
+        "source": "GK",
+        "text": "18.4: yapwan adoh sihanta ... / byakta pĕjah ira;"
+      },
+      {
+        "source": "Sut",
+        "text": "4.5: yapwan maṅkana nitya denta magawe ... ;"
+      },
+      {
+        "source": "Sut+",
+        "text": "67.4: yapwan rātri surup niṅ arka juga tan hana pĕtĕṅ inucap."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "52",
+    "headword": "yapwat",
+    "query": "yapwat",
+    "page_ref": "2357:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2357&zoom=width",
+    "definition": "= <b>yapwan</b>, with connotation of the second person",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "10.16: yapwat amitra byakta hayunta;"
+      },
+      {
+        "source": "RY+",
+        "text": "24.148: yapwat uwaha ri tuwuhku hana, niyata ..."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "53",
+    "headword": "yar",
+    "query": "yar",
+    "page_ref": "2357:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2357&zoom=width",
+    "definition": "= <b>yan</b> with connotation of sira; = <b>yan.</b>",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "8.63: yar ton taṅ wwil yeka liṅsir nirâṅdoh;"
+      },
+      {
+        "source": "RY+",
+        "text": "13.87: ṅhiṅ wwawwahan yar kaharĕpnya tan waneh;"
+      },
+      {
+        "source": "RY+",
+        "text": "14.20: śīghra yar pawuṅu (Kumbhakarṇa);"
+      },
+      {
+        "source": "BK",
+        "text": "etc."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "54",
+    "headword": "yas",
+    "query": "yas",
+    "page_ref": "2357:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2357&zoom=width",
+    "definition": "see <i>hyas</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "55",
+    "headword": "yaśa",
+    "query": "yaśa",
+    "page_ref": "2357:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2357&zoom=width",
+    "definition": "(Skt yaśas, honour, glory, fame, renown). See also <i>dur-</i>, <i>kṛta-</i>, <i>ku-</i>, <i>su-</i>, <i>śuddha-</i>, <i>tri-</i>. 1. honour, glory, fame, renown; deed by which one merits honour or renown, meritorious deed 2. building, esp. ``bale'', pavilion (because it is a meritorious deed to build them? Cf dharma. Poss. influenced by nyāsa)",
+    "sub_entries": [
+      {
+        "sub_head": "makayaśa",
+        "page_ref": "2357:11.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+        "definition": "to win fame or merit by, to perform st. as a meritorious deed",
+        "citations": [
+          {
+            "source": "Udy",
+            "text": "89.24: syapa makayaśa pati niṅ Jarāsandha;"
+          },
+          {
+            "source": "Udy+",
+            "text": "143.12: tasyasih ta pakayaśa kararan i ṅhulun;"
+          },
+          {
+            "source": "GK",
+            "text": "48.11: tulusa pwa sārdha naranātha riya pakayaśan jugekihĕn;"
+          },
+          {
+            "source": "HWj",
+            "text": "8.15: pakayaśa kiteṅ raṇāṅgana."
+          }
+        ]
+      },
+      {
+        "sub_head": "ayaśa",
+        "page_ref": "2357:11.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+        "definition": "to acquire fame or glory, to perform meritorious deeds",
+        "citations": [
+          {
+            "source": "Udy",
+            "text": "55.5: ahyun ayaśâṅĕn-aṅĕn i ṅhulun;"
+          },
+          {
+            "source": "Udy+",
+            "text": "102.22: kumon ... mayaśâpraṅosĕn-usĕn;"
+          },
+          {
+            "source": "AW",
+            "text": "6.5: harĕp ayaśa mahaywa ṅ rat lāwan kaparahitan;"
+          },
+          {
+            "source": "HW",
+            "text": "36.11: maharĕp ayaśâmūk;"
+          },
+          {
+            "source": "Sum",
+            "text": "22.4: wīra winidhî nṛpati tumuta śakti sampun ayaśa."
+          }
+        ]
+      },
+      {
+        "sub_head": "ayaśa dharma riṅ",
+        "page_ref": "2357:11.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+        "definition": "being father of",
+        "citations": [
+          {
+            "source": "Par",
+            "text": "5.21: asasambat iṅ kaṅ ayasa darma riṅ sira."
+          }
+        ]
+      },
+      {
+        "sub_head": "(aṅyaśani), yinaśan, kayaśan",
+        "page_ref": "2357:11.4",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+        "definition": "to acquire merit by helping so.; to build a yaśa on, give a yaśa to",
+        "citations": [
+          {
+            "source": "BY",
+            "text": "34.5: bapa nda mah anakta nātha yaśanîki pihutaṅi kasiṅhawikraman;"
+          },
+          {
+            "source": "BK",
+            "text": "2.34: haywa ta manahta cala yaśani ta ṅhulun tuhan;"
+          },
+          {
+            "source": "BK+",
+            "text": "4.31: kaki hyaṅ ramyâgoṣṭhi kalĕṅĕṅan iṅ deśa kayaśan;"
+          },
+          {
+            "source": "BK+",
+            "text": "48.1: yaśana ranak mahāyati ... / kasihana rakṣanĕn;"
+          },
+          {
+            "source": "Sum",
+            "text": "80.1: ṅhulun yaśana rāga māsku pakadharman ĕnahana raras niṅ aṅrĕṅih."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "88.8: mapagĕha pwa kiteṅ swargaloka, apan hana yaśa rahadyan saṅhulun ṅkāneṅ manuṣyaloka;"
+      },
+      {
+        "source": "Ad+",
+        "text": "119.19: maṅkana liṅ saṅ Śwe#taketu magawe yaśa sira; ya ta tinūt iṅ rat (code of good and bad actions?);"
+      },
+      {
+        "source": "Ad+",
+        "text": "143.7: harĕp sarāga lāwan mānuṣâdhama; lumĕbur yaśa niṅ kadi kami rākṣasa;"
+      },
+      {
+        "source": "Wir",
+        "text": "77.1: tahĕni saṅ hyaṅ hurip, aṅhiṅ ike yaśa ṅaranya rikaṅ wwaṅ kadi kita kṣatriyajāti;"
+      },
+      {
+        "source": "BhP",
+        "text": "125.30: kālapan pwa rasika yaśa de ni ṅhulun alib mara tan yukti nika;"
+      },
+      {
+        "source": "Udy",
+        "text": "28.5: amaṅgih kawṛddhyan mwaṅ yaśa;"
+      },
+      {
+        "source": "Udy+",
+        "text": "29.5: (kīrtir āyur yaśo balam) kastawan hurip aglis yaśa mwaṅ kaśaktin;"
+      },
+      {
+        "source": "Utt",
+        "text": "40.27: kita rumūgakĕn yaśanya, kita śumīrṇākĕn yaśanya;"
+      },
+      {
+        "source": "BrP",
+        "text": "123.17: umastawa yaśa nira ika prāyanya;"
+      },
+      {
+        "source": "SS",
+        "text": "26.4: ṅ wwaṅ makaprawṛtti ṅ dharma, artha kāma yaśa kasambi de nika;"
+      },
+      {
+        "source": "SS+",
+        "text": "256.4: yaśa ṅaran iṅ patitiṅgal rahayu;"
+      },
+      {
+        "source": "Sl",
+        "text": "5.7: dānabhagna ṅaranya ndatan pakārya yaśa dāna dinamĕlnya ... kady aṅgan iṅ dukut akiṅ sagunuṅ;"
+      },
+      {
+        "source": "RY",
+        "text": "6.183: yaśanta bhagneka apan patī wre;"
+      },
+      {
+        "source": "RY+",
+        "text": "16.5: ri sampun ikanaṅ yaśâtiśaya setu#bandhâdbhuta;"
+      },
+      {
+        "source": "RY+",
+        "text": "23.60: ikana lawan nira maṅadu yaśa;"
+      },
+      {
+        "source": "AW",
+        "text": "1.1: siddhā niṅ yaśa wīrya don ira;"
+      },
+      {
+        "source": "AW+",
+        "text": "5.10: kunaṅ yan dharmakṣatriya yaśa lawan wīrya linĕwih;"
+      },
+      {
+        "source": "HW",
+        "text": "37.18: amrih aṅusira yaśa;"
+      },
+      {
+        "source": "HW+",
+        "text": "54.2: ṅhiṅ yaśa don ikiṅ Panuluh aṅracana carita Wiṣṇuwarṇana;"
+      },
+      {
+        "source": "BY",
+        "text": "52.10: khyātîṅ Bhāratayuddha Śalyawadha teki yaśa nira gatinya riṅ daṅū;"
+      },
+      {
+        "source": "BK",
+        "text": "2.15: makasiluṅluṅa ṅ yaśa juga ṅhulun;"
+      },
+      {
+        "source": "Sut",
+        "text": "23.4: aṅuṅsya dharma yaśa kīrti;"
+      },
+      {
+        "source": "L",
+        "text": "5.6: turuṅ mapuṇya yaśa dharma len brata;"
+      },
+      {
+        "source": "PYñ",
+        "text": "26.17: wahu tumaṅgal ikaṅ yaśa kāyika / ... / tapa samādhi ya pūrṇama."
+      },
+      {
+        "source": "SS",
+        "text": "369.2: lima ikaṅ sukṛta manĕkākĕn iṅ swargaloka, pratyekanya: sumur, yaśa pawilāsan, sabhā, kady aṅgan iṅ lĕbuh pĕkĕn tambak lalayan, śāla;"
+      },
+      {
+        "source": "HW",
+        "text": "33.3: kuṭi śīla (?) wihāra paḍa yaśa hilaṅ;"
+      },
+      {
+        "source": "GK",
+        "text": "13.7: mahā maṇḍĕg araryan iṅ yaśa;"
+      },
+      {
+        "source": "SD",
+        "text": "1.1: wījanyâkṣara lambaṅ endah inurākĕn riṅ tĕtö niṅ yaśa;"
+      },
+      {
+        "source": "BK",
+        "text": "7.1: ramya panuṅsuṅ iṅ Himagiri ... / tumpyatak iṅ hĕnū yaśa sajinya saha bañu;"
+      },
+      {
+        "source": "Sum",
+        "text": "50.2: kakawin ika palambaṅ iṅ yaśa;"
+      },
+      {
+        "source": "Sum+",
+        "text": "61.1: yadyastun tulisĕn samaṅkana pirâwig-awiga nika yan haneṅ yaśa;"
+      },
+      {
+        "source": "Sum+",
+        "text": "157.1: nāhan wastu ni de nirâṅikĕt-ikĕt winĕkasakĕn irerikaṅ yaśa;"
+      },
+      {
+        "source": "Sum+",
+        "text": "165.2: pañjiṅkw iṅ kakawin taṅis#taṅisananta ri hati yak (yat?) araryan iṅ yaśa;"
+      },
+      {
+        "source": "AWj",
+        "text": "3.3: ṅkāne dalĕm ika makin adbhuta ṅ yaśa panaṅkilan ika madĕdö / bwat mantĕn ika hana mineru;"
+      },
+      {
+        "source": "AWj+",
+        "text": "33.1: sambat alaṅö tinulisakĕn i paṅhrĕt iṅ yaśa;"
+      },
+      {
+        "source": "Sut",
+        "text": "9.7: ri surup hyaṅ Arka nṛpaputra sira ḍatĕṅ araryan iṅ yaśa / ṅkā n mañjiṅ sira riṅ paṅarcanan;"
+      },
+      {
+        "source": "Sut+",
+        "text": "43.13: ṅkāne yāśa (sic) ri himbaṅ iṅ juraṅ;"
+      },
+      {
+        "source": "Sut+",
+        "text": "44.2: atĕmah taṅis awĕtu palambaṅ iṅ yaśa;"
+      },
+      {
+        "source": "Sut+",
+        "text": "88.5: (kakawin) rinekhakĕn ri wilah iṅ yaśa tĕmunĕn iṅ aṅjajah karaṅ;"
+      },
+      {
+        "source": "Sut+",
+        "text": "103.13: parnah lor saka riṅ bale baṅ añĕpit kakidul ika sakeṅ yaśâdawā (= bale pañjaṅ);"
+      },
+      {
+        "source": "Nag",
+        "text": "8.2: kā&lt;r&gt; nah lor kidul i pĕkĕn rakĕt ikaṅ yaśa wĕkas iṅ apañjaṅ ... / aṅkĕn caitra pahöman iṅ bala samūha;"
+      },
+      {
+        "source": "Nag+",
+        "text": "17.1: kīrṇekaṅ yaśa kīrti dharma ginawe nira;"
+      },
+      {
+        "source": "Nag+",
+        "text": "65.4: saṅ śrī nātha ... awawan yaśa patani taḍah nirâdbhuta;"
+      },
+      {
+        "source": "Nag+",
+        "text": "66.2: akweh lwir ni wawanya bhojana hanan plawa giri yaśa;"
+      },
+      {
+        "source": "Wṛt",
+        "text": "35: yaśa malaṅö hinĕduk;"
+      },
+      {
+        "source": "SW",
+        "text": "39.22: yaśa hīramaṇḍala sudīpta;"
+      },
+      {
+        "source": "TK",
+        "text": "106.8: muṅgw iṅ yaśa pinarĕk de nikaṅ saṅ rājarṣi;"
+      },
+      {
+        "source": "KHWj",
+        "text": "2.100a: woya taṅ yasa priṅ danti;"
+      },
+      {
+        "source": "KHWj+",
+        "text": "3.28b: yasa mĕgat sih ginubahan (ib. 4x);"
+      },
+      {
+        "source": "KHWj+",
+        "text": "5.12a: woyeṅ jro pura riṅ yasa witana (pramiswari and bini haji);"
+      },
+      {
+        "source": "KHWj+",
+        "text": "6.33a: yasa murda mani kinusah iṅ ranu binotrawi;"
+      },
+      {
+        "source": "OJO",
+        "text": "61 (1037) 20: hetu nira n paṅlrākĕn dharma kuśala mūla, tiru-tirun iṅ rat kabeh magawaya yaśa;"
+      },
+      {
+        "source": "OJO",
+        "text": "62 (1041) 31: madamĕl yaśa patapan iṅ Pucaṅan."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "56",
+    "headword": "yaśah",
+    "query": "yaśah",
+    "page_ref": "2358:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+    "definition": "= <b>yaśa</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "24.202: saṅ Sītā śuci satya śuddha satirun santāna lumrā ṅ yaśah."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "57",
+    "headword": "yaṣṭawya",
+    "query": "yaṣṭawya",
+    "page_ref": "2358:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+    "definition": "(Skt) that which is to be worshipped",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "118.29: nāstika pweka saṅ nātha, tan hana ṅ yaṣṭawya ginawayakĕn ira."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "58",
+    "headword": "yaṣṭi",
+    "query": "yaṣṭi",
+    "page_ref": "2358:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+    "definition": "(Skt) staff, stick, club",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wir",
+        "text": "70.6: abaṅun ta sirâtĕkĕn yaṣṭi tomara;"
+      },
+      {
+        "source": "BhP",
+        "text": "74.12: dinukakĕn ikaṅ yaṣṭi tomara; 83.29;"
+      },
+      {
+        "source": "Udy",
+        "text": "119.9."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "59",
+    "headword": "yat",
+    "query": "yat",
+    "page_ref": "2358:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+    "definition": "= <b>yan</b>, with connotation of the second person",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "5.23: nanā kita yat malagā;"
+      },
+      {
+        "source": "RY+",
+        "text": "5.38: yadyapi yat pituhwa hayu niṅ naya ... ;"
+      },
+      {
+        "source": "RY+",
+        "text": "7.29: yat kaṅĕnn-aṅĕn atah kiteṅ kulĕm;"
+      },
+      {
+        "source": "RY+",
+        "text": "14.67: sakrodha pwa hatinta yatt inujaran tad wruh ri don iṅ wuwus;"
+      },
+      {
+        "source": "AbhW",
+        "text": "23.3: yat hĕnĕṅakĕna taṅiskw alara / riṅ apeki yan wuruṅa matya ta ṅhulun."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "60",
+    "headword": "yathā",
+    "query": "yathā",
+    "page_ref": "2358:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+    "definition": "(Skt) according to, like, as",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "INI",
+        "text": "38 f. (1296) 9b.2: yathā pitā tathā putra."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "61",
+    "headword": "yathābhūta",
+    "query": "yathābhūta",
+    "page_ref": "2358:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+    "definition": "(Skt) according to fact (to the truth)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wir",
+        "text": "8.29: yathābhūta tattwakathanâtah de rahadyan saṅhulun mājar-ajara;"
+      },
+      {
+        "source": "SS",
+        "text": "139.2: mājar ta ya yathābhūta."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "62",
+    "headword": "yathāgama",
+    "query": "yathāgama",
+    "page_ref": "2358:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+    "definition": "(Skt) according to tradition (the prescriptions of the āgama)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "SD",
+        "text": "6.11: yathāgamâṅarghya sireṅ śiwāmbha."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "63",
+    "headword": "yathākāma",
+    "query": "yathākāma",
+    "page_ref": "2358:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+    "definition": "(Skt) according to wish, at pleasure",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AgP",
+        "text": "377.1: yathākāma wĕnaṅ maṅilaṅakĕn."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "64",
+    "headword": "yathākrama",
+    "query": "yathākrama",
+    "page_ref": "2358:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+    "definition": "(Skt) according to order (rank, custom)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "114.25: yathākrama niṅ tuwuhnya nyâ#jarakĕna;"
+      },
+      {
+        "source": "RY",
+        "text": "6.198: wineh dĕmak kapwa yathākramanya;"
+      },
+      {
+        "source": "SW",
+        "text": "14.6: yathākramâṅĕ#nakĕn ikaṅ walikrama;"
+      },
+      {
+        "source": "HWj",
+        "text": "1.3: yathākra#meṅ sabhā."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "65",
+    "headword": "yathālālana",
+    "query": "yathālālana",
+    "page_ref": "2358:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+    "definition": "(Skt) at pleasure, to one's heart's content",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "26.22c: guywa-guywan yathālālanā niṅ manah."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "66",
+    "headword": "yathālīlā",
+    "query": "yathālīlā",
+    "page_ref": "2358:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+    "definition": "(Skt) in sport, by way of pastime, at pleasure, freely, easily",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Utt",
+        "text": "11.7: anampak bhūmi wadwanya yathālīlā;"
+      },
+      {
+        "source": "Utt+",
+        "text": "70.21: yathālīlā macaṅkrama (Udy 14.23);"
+      },
+      {
+        "source": "RY",
+        "text": "15.42: yapwan krīḍanta mintonakĕna bhaya yathālīlā juga ya don;"
+      },
+      {
+        "source": "Sum",
+        "text": "139.2: marahup-rahup sira yathâlīlâṅuḍo#ḍâñawuk wwai;"
+      },
+      {
+        "source": "HWj",
+        "text": "2.29: rat śraddhâhayu siddha niṅ kṛti yathālīlā hita mwaṅ yaśa."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "67",
+    "headword": "yatan",
+    "query": "yatan",
+    "page_ref": "2358:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2358&zoom=width",
+    "definition": "if not (= <b>yan</b> tan)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "13.53: yatan baseṅ śatru anuṅ haneṅ awak ... ;"
+      },
+      {
+        "source": "BY",
+        "text": "14.11: alabuha bahni yatan kasiddha. Passim."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "68",
+    "headword": "yātanā",
+    "query": "yātanā",
+    "page_ref": "2359:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) acute pain, torment. See <i>bhoga-</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "69",
+    "headword": "yathānurūpa",
+    "query": "yathānurūpa",
+    "page_ref": "2359:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) according to form or rule, in exact conformity",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "122.27: yathānurūpa de nirâtiṅkah sowaṅ-sowaṅ."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "70",
+    "headword": "yathānusāra",
+    "query": "yathānusāra",
+    "page_ref": "2359:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) according to custom",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "vN",
+        "text": "3 (1268) A.6: saha dakṣiṇa yathānusāra mpu sthāpaka mā 1, ku 2."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "71",
+    "headword": "yatanya",
+    "query": "yatanya",
+    "page_ref": "2359:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(combination of the deictic particles ya ta nya) indeed; (so) that, in order to",
+    "sub_entries": [
+      {
+        "sub_head": "yatanyan",
+        "page_ref": "2359:4.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+        "definition": "indeed, then, and so; usually before a causal clause with arealis: (so) that, in order to",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "47.5: ya tikā sahutĕn saṅhulun, yatanyan wuruṅa ṅ yajña;"
+          },
+          {
+            "source": "Ad+",
+            "text": "57.25: ikā mahuwusana, yatanyan tan mātya tikaṅ nāga;"
+          },
+          {
+            "source": "Ad+",
+            "text": "117.30: kitâmalakwa putra ... , yatanyan ikiṅ tapa ginawayakĕnta paripūrṇā;"
+          },
+          {
+            "source": "Ad+",
+            "text": "15.20: ya dĕmwani ... , yatanyan mijil tekaṅ kukus;"
+          },
+          {
+            "source": "Ad+",
+            "text": "139.13: tinutupan papan ... , yatanyan tan sandehā niṅ Purocana;"
+          },
+          {
+            "source": "Ad+",
+            "text": "195.1: ginawe nira taṅ mukha pataṅ siki ... , yatanyan tan aṅhelânolih;"
+          },
+          {
+            "source": "BrP",
+            "text": "126.18: anakaṅku kita, yatanyan Pṛthiwī ṅarananta de niṅ loka;"
+          },
+          {
+            "source": "RY",
+            "text": "13.8: yatanyan upaśamā ta taṅguhi;"
+          },
+          {
+            "source": "RY+",
+            "text": "21.164: pamuni nira yatanyan tar katona n pakiṅkiṅ;"
+          },
+          {
+            "source": "OJO",
+            "text": "12 (879) A.5: ... yatanyan mapagĕha i dlāha niṅ dlāha."
+          }
+        ]
+      },
+      {
+        "sub_head": "yatanya tan (tar, tat)",
+        "page_ref": "2359:4.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+        "definition": "= <b>yatanyan</b> tan; cf <i>ya</i> tan.",
+        "citations": [
+          {
+            "source": "SS",
+            "text": "202.5: yatanya tat mamaṅke ya, gawayakĕna ikaṅ dāna;"
+          },
+          {
+            "source": "RY",
+            "text": "13.13: yatanya tar wihaṅa kunaṅ t upāya tah;"
+          },
+          {
+            "source": "BK",
+            "text": "110.3: yatanya tan liṅgara;"
+          },
+          {
+            "source": "OV",
+            "text": "1925.59 f. (922) A.16: mawai&lt;h&gt; jayapattra, yatanya tan hanâwu#wusa riṅ dlāha niṅ dlāha."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "189.21: parwañ jugeki kaḍatwanta ... yatanyâtūtâdulura;"
+      },
+      {
+        "source": "Wir",
+        "text": "12.16: yatanyâhayu dahat ikaṅ karma senujarakĕn rakryan;"
+      },
+      {
+        "source": "Td",
+        "text": "5.2b: aywa rĕtsalya paṅampwan yatanyâṅde wipatita;"
+      },
+      {
+        "source": "TBG",
+        "text": "67.205 f. (907) B.22: kayatnākĕna(kna)nta soni nikaiṅ praśasti yatanya swasthā ..."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "72",
+    "headword": "yathānyāya",
+    "query": "yathānyāya",
+    "page_ref": "2359:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) according to the rules",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "OJO",
+        "text": "23 (901) 7: yapuan hana sukhaduhkhanya, saṅ marhyaṅ iṅ rāja atah gumuṇadoṣa ya yathānyāya."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "73",
+    "headword": "yathārtha",
+    "query": "yathārtha",
+    "page_ref": "2359:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt according with reality) the real state of affairs, the truth concerning ...",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AbhW",
+        "text": "6.6: mawarah saṅ sināntwa yathārtha;"
+      },
+      {
+        "source": "AbhW+",
+        "text": "57.12: mājar-ajar ... yathārtha saṅ Pāṇḍawa."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "74",
+    "headword": "yathārthanāma",
+    "query": "yathārthanāma",
+    "page_ref": "2359:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) a name according to reality, appropriate name",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Utt",
+        "text": "5.26: maṅkana de bhaṭāra hyaṅ Brahmā maṅdamĕl yathārthanāma."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "75",
+    "headword": "yathāśakti",
+    "query": "yathāśakti",
+    "page_ref": "2359:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) according to power or ability",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AgP",
+        "text": "398.21: maṅunakĕn (var. maṅanakĕn) kāyikadharma yathāśakti;"
+      },
+      {
+        "source": "SS",
+        "text": "364.1: yathāśakti denyâgawe dharmasādhana;"
+      },
+      {
+        "source": "Gor",
+        "text": "96 f. (1022) IIIa.6: amaṅana sayathāśakti."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "76",
+    "headword": "yathāsambhawa",
+    "query": "yathāsambhawa",
+    "page_ref": "2359:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt as far as possible) according to one's rank or state, appropriate",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "191.15: tinamuy riṅ bhojana yathāsambhawa;"
+      },
+      {
+        "source": "SS",
+        "text": "203.3: wehakĕna ta pwa ṅ yathāsambhawa;"
+      },
+      {
+        "source": "RY",
+        "text": "12.49: dumunuṅ i pasilanyânuṅ yathāsambhawa."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "77",
+    "headword": "yathāsaṅkhya",
+    "query": "yathāsaṅkhya",
+    "page_ref": "2359:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) according to number, number for number",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "29.24: nahan ta yathākrama ni pwaṅkulun, sājñā haji, an yathāsaṅkhya."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "78",
+    "headword": "yathāsthiti",
+    "query": "yathāsthiti",
+    "page_ref": "2359:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) according to the fixed rule",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BK",
+        "text": "38.29: yathāsthiti ya ta pilihĕn tĕkap niṅ alĕkas tan ayat-ayatana."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "79",
+    "headword": "yathāsukha",
+    "query": "yathāsukha",
+    "page_ref": "2359:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) at ease, at will or pleasure, comfortably",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wir",
+        "text": "9.30: līlā yathāsukhā ta pwa parameśwara ameta deśa ... ;"
+      },
+      {
+        "source": "Udy",
+        "text": "146.13: nora katakutanta yathāsukha;"
+      },
+      {
+        "source": "RY",
+        "text": "6.151: (wānara) swecchā yathāsukha ulahnya sajāti moṅsil;"
+      },
+      {
+        "source": "BY",
+        "text": ";"
+      },
+      {
+        "source": "SW",
+        "text": "etc."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "80",
+    "headword": "yatat",
+    "query": "yatat",
+    "page_ref": "2359:13",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "if not (with connotation of the second person)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "21.53: kunaṅ ya tat niścaya yar hanâhurip / ṅhulun marā riṅ raṇabhūmi;"
+      },
+      {
+        "source": "RY+",
+        "text": "24.153: duryaśa niyata ya tat mapasah."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "81",
+    "headword": "yathāwidhi",
+    "query": "yathāwidhi",
+    "page_ref": "2359:14",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) according to law",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "147.10: mamahaywa ṅ rāṣṭra yathāwidhi."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "82",
+    "headword": "yathāyatha",
+    "query": "yathāyatha",
+    "page_ref": "2359:15",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) in a proper manner, suitably, fitly",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wir",
+        "text": "44.18: yathāyatha dahat de nirâwarah riṅ yuktinaya."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "83",
+    "headword": "yathāyogya",
+    "query": "yathāyogya",
+    "page_ref": "2359:16",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) suitably, properly, fitly",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "StC",
+        "text": "36 f. (1181) IIa.5: sayathāyogya kawaca tahilakĕnanya."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "84",
+    "headword": "yathāyukti",
+    "query": "yathāyukti",
+    "page_ref": "2359:17",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) properly, fitly, according to circumstances",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "SS",
+        "text": "229.2: duluran ikaṅ dāna yathāyukti;"
+      },
+      {
+        "source": "CSt",
+        "text": "30 (943?) V.2: irika ta ya n iṅĕt-iṅĕtĕn yathāyukti nira;"
+      },
+      {
+        "source": "OJO",
+        "text": "112 (s.a.) 11a: yathāyukti sakrama daṅū pinarnah tekaṅ saji."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "85",
+    "headword": "yatheccha",
+    "query": "yatheccha",
+    "page_ref": "2359:18",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) at will or pleasure",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "145.23: pinaran ira kabeh yatheccha;"
+      },
+      {
+        "source": "Utt",
+        "text": "57.28: yatheccha kita muktya swargaloka;"
+      },
+      {
+        "source": "AbhW",
+        "text": "1.13."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "86",
+    "headword": "yatheṣṭa",
+    "query": "yatheṣṭa",
+    "page_ref": "2359:19",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) according to wish, at pleasure",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "21.83: ikaṅ Widhi yatheṣṭa yâmidhi;"
+      },
+      {
+        "source": "Sut",
+        "text": "38.2: len taṅ tyāga pĕjah anuṅ yatheṣṭadharma."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "87",
+    "headword": "yati I",
+    "query": "yati I",
+    "page_ref": "2359:20",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2359&zoom=width",
+    "definition": "(Skt) ascetic, devotee, one who has restrained his passions and abandoned the world (practically = <b>muni</b>, yogi). See also <i>ma-</i>, <i>mahā-</i>, <i>maharddhika-</i>, <i>nirāśraya-</i>, <i>su-</i>.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "75.8: yatna pwa sira riṅ yoga yati ṅaran ira;"
+      },
+      {
+        "source": "HW",
+        "text": "2.3: saṅ Sāndīpani nāma saṅ yati paṅajyan ira sira tikā purohita;"
+      },
+      {
+        "source": "BY",
+        "text": "51.22: panĕmbah rānak saṅ yati;"
+      },
+      {
+        "source": "BK",
+        "text": "2.23: saṅ yati paḍâsasaran alaradan. Passim."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "88",
+    "headword": "yati II",
+    "query": "yati II",
+    "page_ref": "2360:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2360&zoom=width",
+    "definition": "(Skt stopping, a pause in music, a caesura in prosody) foot (in prosody), stanza",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wṛt",
+        "text": "8: yadyastun paḍa saṅkhya niṅ yati lamun guru-laghu nika bedha ... ;"
+      },
+      {
+        "source": "PYñ",
+        "text": "33.11: winaca wijinya bhāṣa kakawinya turuṅ sayati;"
+      },
+      {
+        "source": "Mal",
+        "text": "13.62b: aṅiduṅ raras hrĕdaya abagus wiwitan sayati (ib. 3x; var. sababak, sakanḍa)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "89",
+    "headword": "yatīndra",
+    "query": "yatīndra",
+    "page_ref": "2360:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2360&zoom=width",
+    "definition": "(Skt) lord of ascetics, munīndra, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BK",
+        "text": "1.22: toh sahuri taña ranak saṅ maharṣî yatīndra."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "90",
+    "headword": "yatīśwara",
+    "query": "yatīśwara",
+    "page_ref": "2360:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2360&zoom=width",
+    "definition": "(Skt) lord of ascetics, munīśwara, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "GK",
+        "text": "1.5: śakti narendra sāgni dinulur niṅ aṅin i hana saṅ yatīśwara (Madaharṣa like Wiṣṇu and his guru like Wṛhaspati)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "91",
+    "headword": "yatita",
+    "query": "yatita",
+    "page_ref": "2360:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2360&zoom=width",
+    "definition": "(Skt yatita, striven, endeavoured, tried) striving, endeavour?",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "25.30: si hĕlaṅ hilaṅ hala ni citta nikā / yatita trikāya ya ta donya lanā."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "92",
+    "headword": "yatiwara",
+    "query": "yatiwara",
+    "page_ref": "2360:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2360&zoom=width",
+    "definition": "(Skt) eminent ascetic",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Udy",
+        "text": "16.10: maliṅgiha ta saṅ yatiwara (Agastya);"
+      },
+      {
+        "source": "BY",
+        "text": "23.19: makacāmane lĕmah i jöṅ yatiwara n umulih (Bhīṣma);"
+      },
+      {
+        "source": "KHWj",
+        "text": "2.113b: sira saṅ yatiwara (= paramaguru = dwijarṣi). Passim."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "93",
+    "headword": "yatna",
+    "query": "yatna",
+    "page_ref": "2360:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2360&zoom=width",
+    "definition": "(Skt effort, exertion, energy, trouble, pains, care). See also <i>alpa-</i>, <i>ati-</i>, <i>tībra-</i>. 1. effort, exertion, care, carefulness, solicitude, diligence, attention 2. exerting os., energetically; paying full attention to, absorbed in, dedicated to, diligent, solicitous, with self-control, deliberate, alert, careful, cautious",
+    "sub_entries": [
+      {
+        "sub_head": "yatna-yatna",
+        "page_ref": "2360:6.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2360&zoom=width",
+        "definition": "(be) careful (!)",
+        "citations": [
+          {
+            "source": "Utt",
+            "text": "33.19: yatna-yatna ta kamu Rāwaṇa;"
+          },
+          {
+            "source": "Sum",
+            "text": "145.7: yatna-yatna tuhan i ṅhulun apupula haywa wismṛti;"
+          },
+          {
+            "source": "AWj",
+            "text": "62.5: yatna-yatna mati ko kontaṅku tan wyartha ya;"
+          },
+          {
+            "source": "KS",
+            "text": "1.55b: sampun tan yatna-yatna paduka nrĕpati dwista nikaṅ musuh ..."
+          }
+        ]
+      },
+      {
+        "sub_head": "(aṅyatnani) den yatnani",
+        "page_ref": "2360:6.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2360&zoom=width",
+        "definition": "to act more energetically on, with renewed strength",
+        "citations": [
+          {
+            "source": "KS",
+            "text": "2.79: amaṅun rodra amunuh den yatnani."
+          }
+        ]
+      },
+      {
+        "sub_head": "kayatna",
+        "page_ref": "2360:6.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2360&zoom=width",
+        "definition": "object of care, object of caution",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "13.52: mataṅnya ṣaḍwarga kayatna saṅ prabhu / dinohakĕn tan hinanākĕn iṅ hati."
+          }
+        ]
+      },
+      {
+        "sub_head": "kumayatnākĕn, kinayatnākĕn",
+        "page_ref": "2360:6.4",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2360&zoom=width",
+        "definition": "to take care of well, handle carefully, treat cautiously, exert one's whole strength on, devote one's full attention to.",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "31.8: ikaṅ antiga kinayatnākĕn de saṅ Winatā;"
+          },
+          {
+            "source": "Wir",
+            "text": "20.29: ayuta kweh nikaṅ lĕmbu kinayatnākĕn patik haji;"
+          },
+          {
+            "source": "BhP",
+            "text": "87.20: nora bĕlah ikaṅ byūha kālih siki, apan saṅ Bhīmârjuna kumayatnākĕn yan iṅ Pāṇḍawa, ḍaṅ hyaṅ Droṇa mwaṅ bhagawān Bhīṣma yan riṅ Korawa;"
+          },
+          {
+            "source": "SS",
+            "text": "244.2: kayatnākĕna juga gurūpacaraṇa;"
+          },
+          {
+            "source": "RY",
+            "text": "7.50: akweh rākṣasa sāhaseṅ wĕṅi mahas yeka n kayatnākĕna;"
+          },
+          {
+            "source": "Sum",
+            "text": "10.30: pun dewîndumatī kayatnakĕna de wiwudhapati bapebwa māsiha;"
+          },
+          {
+            "source": "Sut",
+            "text": "140.4: lāwan teki wĕkaskw i saṅ prabhu kayatnakĕn ta ya kabeh;"
+          },
+          {
+            "source": "PYñ",
+            "text": "10.2: kayatnakĕna nitya tikaṅ samādhi;"
+          },
+          {
+            "source": "OJO",
+            "text": "23 (901) 7: ri dlāha niṅ dlāha sirâtah pramāṇā kumayatnākĕna saṅ hyaṅ dharma;"
+          },
+          {
+            "source": "BKI",
+            "text": "95 (907) B.7: kayatnākĕna ikeṅ ājñā haji paṅanugraha śrī mahārāja. Passim in inscr."
+          }
+        ]
+      },
+      {
+        "sub_head": "kayatnan",
+        "page_ref": "2360:6.5",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2361&zoom=width",
+        "definition": "effort, solicitude",
+        "citations": [
+          {
+            "source": "SS",
+            "text": "21.1: ikaṅ kayatnan ri kagawayan iṅ kāma artha."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Wir",
+        "text": "41.31: tan pahīṅan göṅ niṅ yatna patik haji kabeh, kumotsāhākĕn kapetan i saṅ Pāṇḍawa;"
+      },
+      {
+        "source": "BrP",
+        "text": "70.26: sukha tan pakamūla ṅ yatna;"
+      },
+      {
+        "source": "GK",
+        "text": "25.7: anulus yatnanta bhaktî kami;"
+      },
+      {
+        "source": "KHWj",
+        "text": "2.82a: yan maṅke kaya tan polih pan woṅ Daha antyanta yatna nipun."
+      },
+      {
+        "source": "Ad",
+        "text": "11.9: yatna ri sapakon ira;"
+      },
+      {
+        "source": "Wir",
+        "text": "50.26: yatna saṅ Bhīmasena tumĕḍun sake ratha nira, maṅsw anikĕp ... ;"
+      },
+      {
+        "source": "Wir+",
+        "text": "79.9: saṅ W. yatna muwah umaṅsö tumuluṅ saṅ kaka;"
+      },
+      {
+        "source": "BhP",
+        "text": "67.1: yatna siromiriṅ lampah nira kaka (the brothers, following Yudhiṣṭhira proceeding towards Bhīṣma);"
+      },
+      {
+        "source": "Utt",
+        "text": "47.9: yatnâlayū tikaṅ makĕmit babahan, mājar ... ;"
+      },
+      {
+        "source": "Utt+",
+        "text": "61.22: yatna ikaṅ sūta māgadha wetalikâṅunyakĕn stuti maṅgala;"
+      },
+      {
+        "source": "BrP",
+        "text": "75.7: yatna pwa sira riṅ yoga yati ṅaran ira;"
+      },
+      {
+        "source": "AgP",
+        "text": "370.1: yatna mituhu wara-warah saṅ hyaṅ āgama;"
+      },
+      {
+        "source": "RY",
+        "text": "1.18: dewī nira kapwa yatna yan paniwi;"
+      },
+      {
+        "source": "RY+",
+        "text": "1.46: nojarku rĕṅön ta yatna pituhun ya;"
+      },
+      {
+        "source": "RY+",
+        "text": "7.50: jaga-jagā yatnā magantyâturū;"
+      },
+      {
+        "source": "RY+",
+        "text": "9.92: yatna śīghra sira mawuwus (Wibhīṣaṇa, coming to the defense of the captured Hanūmān, ``with self-control'');"
+      },
+      {
+        "source": "RY+",
+        "text": "18.30: yatnā mahārāja riṅ musuh;"
+      },
+      {
+        "source": "RY+",
+        "text": "19.28: iṅun haywa tan yatna rirya;"
+      },
+      {
+        "source": "AW",
+        "text": "1.3: ṅhiṅ yan mānuṣa śakti yatna juga ko;"
+      },
+      {
+        "source": "AW+",
+        "text": "7.2: yatna riṅ nīti;"
+      },
+      {
+        "source": "AW+",
+        "text": "7.6: yatnâdandan rukuh;"
+      },
+      {
+        "source": "AW+",
+        "text": "22.2: yatnā ta śrī Surendrâparan ulaha ... ;"
+      },
+      {
+        "source": "BY",
+        "text": "1.3: yatna śrī pamasā (pamasah?) mamurṣita maṅargha ri sira;"
+      },
+      {
+        "source": "BY+",
+        "text": "25.3: śrī Duryodhana yatna tībra pamĕlas-harĕp ira mamĕkul ri saṅ prabhu;"
+      },
+      {
+        "source": "BY+",
+        "text": "40.9: māwās hĕntya ... / yan tan śrī Kṛṣṇa yatnâṅuhutana ṅ alagā;"
+      },
+      {
+        "source": "GK",
+        "text": "4.5: lumĕṅhay alihaṅan i bāhu niṅ kaka / yatnâraryan;"
+      },
+      {
+        "source": "GK+",
+        "text": "5.11: yatna niṅ hyas apiṅit rumakṣa ri raras nira n lihatana;"
+      },
+      {
+        "source": "GK+",
+        "text": "13.2: kājar sira n agriṅ ... / ya tâmaṅun rañca ri buddhi saṅ prabhu / mataṅ nira n yatna madan n umantuka;"
+      },
+      {
+        "source": "GK+",
+        "text": "25.2: yatnâṅhyaṅ ri bhaṭāra Manmatha;"
+      },
+      {
+        "source": "SD",
+        "text": "8.11: kāla hyaṅ Śiwa maṅadĕg ... / yatna hyaṅ Smara maṅawe ri saṅ hyaṅ Indra;"
+      },
+      {
+        "source": "SD+",
+        "text": "28.1: yatna n panīti;"
+      },
+      {
+        "source": "AWj",
+        "text": "62.8: yatna sumikĕp śatru;"
+      },
+      {
+        "source": "Sut",
+        "text": "6.8: narendrasuta sārjawa yatna mojar ... (Sutasoma to dwijendra);"
+      },
+      {
+        "source": "Sut+",
+        "text": "52.13: rĕp rĕp śīghra Surendra yatna murakĕn juti nira tumuluṅ maṅañjali;"
+      },
+      {
+        "source": "Sut+",
+        "text": "133.26: syuh bhraṣṭa ṅ ratha bhasmi yatna tumĕḍun saṅ nātha muṅsir luput;"
+      },
+      {
+        "source": "L",
+        "text": "23.7: yatnâdan mamĕniṅ warāstra;"
+      },
+      {
+        "source": "HWj",
+        "text": "34.27: yatna tikaṅ prawīra tinuheṅ surabala mapulih;"
+      },
+      {
+        "source": "HWj+",
+        "text": "35.11: tĕka gumuluṅ yatnâ#mawa laras;"
+      },
+      {
+        "source": "HWj+",
+        "text": "40.5: yatnâmuk;"
+      },
+      {
+        "source": "KHWj",
+        "text": "3.39b: depun yatna malih de niṅ satru;"
+      },
+      {
+        "source": "KS",
+        "text": "2.153: lah Ĕnti den yatna amrĕg sakaṭa ni ṅwaṅ;"
+      },
+      {
+        "source": "Td",
+        "text": "3.23b: yatnâmrih cidra sandi;"
+      },
+      {
+        "source": "OJO",
+        "text": "60 (1030) vo 8: yapwan hana sira kamatan tan yatna i sarasa saṅ hyaṅ ājñā ..."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "94",
+    "headword": "yātra",
+    "query": "yātra",
+    "page_ref": "2361:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2361&zoom=width",
+    "definition": "(Skt) setting off, journey, march, expedition, going on pilgrimage; livelihood, maintenance. See also <i>siddha-</i>, <i>śuddha-</i>, <i>tīrtha-</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "mayātra",
+        "page_ref": "2361:1.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2361&zoom=width",
+        "definition": "to set off, travel, go on pilgrimage",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "24.238: hĕlĕm esuk atah sira r payātra;"
+          },
+          {
+            "source": "SW",
+            "text": "2.1: nāhan parnahan ira Phālguna n payātra."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Wir",
+        "text": "45.4: āyana ṅaranya yātra niṅ lumakw anukū;"
+      },
+      {
+        "source": "BK",
+        "text": "6.12: aniraṅ ri yātra giri rimbaṅ ika hawan irâmuraṅ-muraṅ;"
+      },
+      {
+        "source": "WtS",
+        "text": "9.42: katunan yātra sira ri para-paran."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "95",
+    "headword": "yatrakāma",
+    "query": "yatrakāma",
+    "page_ref": "2361:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2361&zoom=width",
+    "definition": "(Skt wherever one pleases)",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "96",
+    "headword": "yatrakāmāwasayitwa",
+    "query": "yatrakāmāwasayitwa",
+    "page_ref": "2361:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2361&zoom=width",
+    "definition": "(Skt) the supernatural power of transporting os. anywhere one likes",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wṛh",
+        "text": "74.2: dumaṇḍa ikaṅ dewa mānuṣa tiryak asiṅ laṅghana ri sira, yeka yatrakāmāwasayitwa ṅaranya; 14.16; 66.3 (the explanation does not agree with the Skt meaning)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "97",
+    "headword": "yawa I",
+    "query": "yawa I",
+    "page_ref": "2361:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2361&zoom=width",
+    "definition": "(Skt) barley (see also under <i>jawa</i>)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Udy",
+        "text": "100.14: riṅ Poṣyamāsa ... makweh saṅ huma (?) kadi yawa sendawa, latāṅkurâkweh riṅ alas (yawa from Sindh?);"
+      },
+      {
+        "source": "BrP",
+        "text": "73.29: hanan wwalu yawa sāṅguli pinakapa#milaṅ iṅ mānuṣa (Gonda: yawa, a grain of barley as a measure = 1 / 6 or 1/8 aṅgula)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "98",
+    "headword": "yawa III",
+    "query": "yawa III",
+    "page_ref": "2361:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2361&zoom=width",
+    "definition": "outside (in kak. usually yawā)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "31.29: twaksāra ṅaranya salwir niṅ atwas i yawa, turuhuṅan i jro;"
+      },
+      {
+        "source": "AW",
+        "text": "32.6: masaṇḍiṅ anaḍah i yawā;"
+      },
+      {
+        "source": "AWj",
+        "text": "6.18: umanek baprorddha ri yawā. Passim (RY, GK, SD etc)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "99",
+    "headword": "yawaśwa",
+    "query": "yawaśwa",
+    "page_ref": "2361:21",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2361&zoom=width",
+    "definition": "(?) (read yawāhwa = <b>yawakṣāra</b>, see <i>MW</i> s.v.?)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "59.2: ṅhulun maṅaran yawaśwa yan iṅ oṣadhi."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "100",
+    "headword": "yāwat",
+    "query": "yāwat",
+    "page_ref": "2361:22",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2361&zoom=width",
+    "definition": "(Skt as much as; as soon as, till; as often as) if; as for; as long as; that ... (= <b>yan</b>)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wir",
+        "text": "26.3: sugyan tâmaṅguha hala yāwat kita wihaṅ;"
+      },
+      {
+        "source": "Wir+",
+        "text": "86.15: agöṅ pawehnya duhkha yāwat ginöṅ;"
+      },
+      {
+        "source": "BhP",
+        "text": "23.12: tan dadi tan eṅĕt ... yāwat winarah;"
+      },
+      {
+        "source": "BhP+",
+        "text": "39.18: yāwat maṅkana kramanya;"
+      },
+      {
+        "source": "BhP+",
+        "text": "43.10: yāwat tan hana kĕtika n tan hana, yāwat ta hana kĕtika n hana, katonan ika kalih de saṅ wruh iṅ tattwa (that ... );"
+      },
+      {
+        "source": "BhP+",
+        "text": "47.17: yāwat kita bhaktya riṅ dewatā, tāwat māsih ikaṅ dewatā ri kita;"
+      },
+      {
+        "source": "BhP+",
+        "text": "54.8: yāwat ikaṅ we ṅaranya ... ;"
+      },
+      {
+        "source": "Udy",
+        "text": "5.6: yāwat iṅ guṇa ... ;"
+      },
+      {
+        "source": "Udy+",
+        "text": "18.1: yāwat ta pwa ikaṅ wwaṅ ... byakta ya ... ;"
+      },
+      {
+        "source": "RY",
+        "text": "6.178: yan krodhamātrâṅdadi mṛtyu yāwat / tan saṅśaya n crol mamatîy apan len (Skt yāwat as postposition?);"
+      },
+      {
+        "source": "AW",
+        "text": "5.11: nora wwaṅ tyāga ri dalĕm i heṅ yāwat ahurip;"
+      },
+      {
+        "source": "AWj",
+        "text": "49.2: ndîkaṅ mahāwīra ... / ... tumĕṅhery aku riṅ raṇāṅga / yāwat nya tāwat niyatanya bhasmya;"
+      },
+      {
+        "source": "Sut",
+        "text": "117.2: yāwat ... , niyata ... ;"
+      },
+      {
+        "source": "Nag",
+        "text": "4.2: ṅ thāni yāwat sabhūmî Jawa;"
+      },
+      {
+        "source": "KHWj",
+        "text": "1.11a: wus prapti samaya nira mulih mariṅ suraloka yawat mrĕtyu maawanan wyadi;"
+      },
+      {
+        "source": "KHWj+",
+        "text": "1.13b: yawat aurip yan pĕjah ... Passim in kak. and prose, rare in kid."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "101",
+    "headword": "yawi",
+    "query": "yawi",
+    "page_ref": "2362:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2362&zoom=width",
+    "definition": "(= <b>yawa</b> III) outside (the usual form in the kid.)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KHWj",
+        "text": "3.64a: tĕkeṅ yawi niṅ maṅuntur; i yawi (passim)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "102",
+    "headword": "yayā, yaya",
+    "query": "yayā, yaya",
+    "page_ref": "2362:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2362&zoom=width",
+    "definition": "in any case, even so, certainly; as it were, as if, like, as",
+    "sub_entries": [
+      {
+        "sub_head": "yayan",
+        "page_ref": "2362:5.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2362&zoom=width",
+        "definition": "even so, nevertheless",
+        "citations": [
+          {
+            "source": "AW",
+            "text": "1.11: wörnyâlon ... yayan meṅgal ḍatĕṅ riṅ paran;"
+          },
+          {
+            "source": "BY",
+            "text": "13.33: maṅke n syuh pinanah tĕñuh yayan alindi;"
+          },
+          {
+            "source": "GK",
+            "text": "5.3: nista nika n tan ewĕha ... / ndā yayan epu; 22.2; 27.20;"
+          },
+          {
+            "source": "GK+",
+            "text": "25.9: tĕka riṅ sore yayan tan kĕjĕp;"
+          },
+          {
+            "source": "GK+",
+            "text": "48.16: karĕṇan i wuwus iṅ priyambada / yayan mara katon wiraṅrwaṅ ira;"
+          },
+          {
+            "source": "Sum",
+            "text": "42.1: prāpta ṅ rātri yayan katon hayu ni warṇa nira ri wijil iṅ niśākara;"
+          },
+          {
+            "source": "Sum+",
+            "text": "98.1: lwir tan madhu ṅ madhu tinaṇḍiṅakĕn yayan sor;"
+          },
+          {
+            "source": "AWj",
+            "text": "49.13: glāna n yayan dhīra;"
+          },
+          {
+            "source": "AWj+",
+            "text": "56.6: mumbul rahnya yayan sudhīra;"
+          },
+          {
+            "source": "AWj+",
+            "text": "57.6: ya hetu nira gadgadâgarawalan kulĕm sira yayan saroṣa lumurug;"
+          },
+          {
+            "source": "Sut",
+            "text": "6.9: saṅ niṣprayojana yayan sira kepwan ambĕk;"
+          },
+          {
+            "source": "Sut+",
+            "text": "50.1: subhaga kakendriyan sira yayan kadi sūkṣmamaya;"
+          },
+          {
+            "source": "L",
+            "text": "5.6: ri sĕḍĕṅ iki n samaṅkana yayan taya ṅ mṛga katon;"
+          },
+          {
+            "source": "L+",
+            "text": "32.6: sanista ni hayunya maṅkana yayan taya maḍana hajĕṅ maheśwarī;"
+          },
+          {
+            "source": "AbhW",
+            "text": "9.3: wwayeki paprĕp mami sāra śūra / yayan wĕnaṅ dhāraka;"
+          },
+          {
+            "source": "AbhW+",
+            "text": "19.1: nahan liṅ dewī Bāyutanaya yayan dhairya maṅaku (?);"
+          },
+          {
+            "source": "AbhW+",
+            "text": "33.14: awās karahatan yayan pinulihan ri rowaṅ nikā (therefore);"
+          },
+          {
+            "source": "AbhW+",
+            "text": "42.14: pinapak hinamĕr / yayan asumâṅĕlih (even so);"
+          },
+          {
+            "source": "AbhW+",
+            "text": "59.1: lĕṅlĕṅnyâṅadĕg iṅ natar yayan amaryakĕna kalaṅĕn iṅ niśākara (as if to?);"
+          },
+          {
+            "source": "AbhW+",
+            "text": "62.11: na wuwusnya saṅ katuridan yayan aṅisĕk-isĕk winodhanan;"
+          },
+          {
+            "source": "Sl",
+            "text": "46.4: (see under yadyan);"
+          },
+          {
+            "source": "HWj",
+            "text": "2.5: (liman) sāhityâmi#rurū saroruha yayan mĕmbaṅ sĕkarnyâjaga."
+          }
+        ]
+      },
+      {
+        "sub_head": "yayanya, yayanyan",
+        "page_ref": "2362:5.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+        "definition": "even so, nevertheless",
+        "citations": [
+          {
+            "source": "SS",
+            "text": "341.5: kĕnāna gandha mālya kunaṅ ... yayanyan apahita sĕwönya;"
+          },
+          {
+            "source": "SS+",
+            "text": "473.3: parumahan iṅ doṣa tikaṅ aiśwarya ṅaranya, yayanyan tan laṅgĕṅ hananya tan wuruṅ agawe cittawikāra hilaṅnya hananya towi (``for''?);"
+          },
+          {
+            "source": "BY",
+            "text": "44.9: ambö niṅ kuṇapâhamöṅ tuwi yayanya inabhimata gandha niṅ sĕkar;"
+          },
+          {
+            "source": "Sum",
+            "text": "25.3: samaṅkana sira n lumampah aḍarat harĕp iṅ ulah awās yayanyan ahalĕp;"
+          },
+          {
+            "source": "Sut",
+            "text": "99.2: apan yan mantrī bhṛtya haji juga yāya#nya malayū."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "72.6: apan yayā patya nika yan pinatyan;"
+      },
+      {
+        "source": "AgP",
+        "text": "358.1: (see under yadyapin);"
+      },
+      {
+        "source": "SS",
+        "text": "32.2: yan wruha ... yayā tan hyunanya;"
+      },
+      {
+        "source": "SS+",
+        "text": "102.3: yan tūtakĕna gĕlĕṅnya tuwi, yayā juga tan hĕntya ni musuh nika;"
+      },
+      {
+        "source": "SS+",
+        "text": "236.2: ndan yayā juga kadaṅnya kepwan ... ;"
+      },
+      {
+        "source": "SS+",
+        "text": "301.4: apan yaya pwa ikaṅ parikleśa katĕmu denya;"
+      },
+      {
+        "source": "SS+",
+        "text": "377.2: yadyapin tĕlas kakawaśā ... yayā juga tan luputnya riṅ lara;"
+      },
+      {
+        "source": "SS+",
+        "text": "457.4: tan palwaṅ juga ya, yayā laṅgĕṅ;"
+      },
+      {
+        "source": "RY",
+        "text": "16.47: kapibala umaṅan yayâtah warĕg / kadi sujana maṅarjaneṅ mās maṇik / parahita ya ta donya tan bhukti ya (app. ``until completely'');"
+      },
+      {
+        "source": "RY+",
+        "text": "26.14: pisaniṅun papasāha sahāya ya / yaya tatan hana malwaṅ atah rikā;"
+      },
+      {
+        "source": "HW",
+        "text": "19.10: marmâmijahakĕn aṅamĕr yayā sira gupe rumaras asĕmu rĕs;"
+      },
+      {
+        "source": "BY",
+        "text": "36.6: malah maṅke n tan kambwan i rara-raras niṅ wwaṅ i dalĕm / yayā buddhinyâgaryaṅ;"
+      },
+      {
+        "source": "GK",
+        "text": "9.6: hanâtilar i ken ikâṅumak-amik yayâṅumĕk-umĕk;"
+      },
+      {
+        "source": "GK+",
+        "text": "16.1: rĕs niṅ sambhawanĕn yan oruka yayā ta sira rĕṅĕ-rĕṅön;"
+      },
+      {
+        "source": "GK+",
+        "text": "24.1: tĕka ṅ kulĕm tuwi yayā tatan mrĕm;"
+      },
+      {
+        "source": "GK+",
+        "text": "33.2: dĕlĕg aṅaluṅ yayâsĕgĕh akon aṅinuma;"
+      },
+      {
+        "source": "BK",
+        "text": "39.31: pĕtuṅ yaya pinaṇḍi riṅ halas;"
+      },
+      {
+        "source": "Sum",
+        "text": "1.22: kewala kusuma yayā maweh sukha;"
+      },
+      {
+        "source": "Sum+",
+        "text": "26.4: hyaṅ niṅ purī towi yayā sirâhyun;"
+      },
+      {
+        "source": "Sum+",
+        "text": "39.3: (kaḍatwan) göṅnyâpa#rimita / yayâhöt maṅke kārya nira;"
+      },
+      {
+        "source": "Sum+",
+        "text": "142.5: maṅke dadi hyaṅ inalĕmbana sārdhadeha / hah hah yayā bapa hajîbu hajîki liṅku;"
+      },
+      {
+        "source": "Sut",
+        "text": "57.3: nāhan kāraṇa niṅ yayâṅalaṅi don saṅ nātha;"
+      },
+      {
+        "source": "Sut+",
+        "text": "67.9: ndi ṅganya ṅ wwaṅ anĕmwa rājya kadi ramya nika yaya katona riṅ laṅit;"
+      },
+      {
+        "source": "Sut+",
+        "text": "85.10: kombak kombul ikaṅ bahitra yaya rakwa karĕma;"
+      },
+      {
+        "source": "Sut+",
+        "text": "99.2: akweh sojar tan pakaraṇa yayā klīwa masakhī;"
+      },
+      {
+        "source": "Sut+",
+        "text": "117.11: maṅke prāpteki maṅdon yaya riṅ apa mĕnaṅnya;"
+      },
+      {
+        "source": "Nag",
+        "text": "38.3: śrī naranātha lālana yayā ratha nira malaris;"
+      },
+      {
+        "source": "L",
+        "text": "5.1: paḍa masaput-saput hima yayâkĕmul-kĕmul;"
+      },
+      {
+        "source": "PYñ",
+        "text": "11.12: polah nika tan pĕgat makapuput pati nika yaya tan warĕg lara;"
+      },
+      {
+        "source": "PYñ+",
+        "text": "16.1: kawi wāni marūpa maguṇa mapirak / hina dīna tiwas yaya juga hamusuh;"
+      },
+      {
+        "source": "SW",
+        "text": "9.7: mulat sireka ḍatĕṅ iṅ graha ... / yayâmbĕk ira tapwa kepwan;"
+      },
+      {
+        "source": "SW+",
+        "text": "12.6: nyāsanyâṅililan yayâcawita;"
+      },
+      {
+        "source": "AbhW",
+        "text": "5.8: yayā tan dadya (cf Wir 20.7);"
+      },
+      {
+        "source": "AbhW+",
+        "text": "20.6: timira yayâṅrĕsi hati;"
+      },
+      {
+        "source": "HWj",
+        "text": "10.7: maṅkat rakwa sira n panuṅgal aṅĕnĕs yaya dinulur ikaṅ manah lĕṅöṅ;"
+      },
+      {
+        "source": "(?:) HW",
+        "text": "19.7: byaktâlana (read alaha?) nira naranātha Kṛṣṇa ri yayā hana ri kita tuhan (read riya yan?);"
+      },
+      {
+        "source": "HWj",
+        "text": "29.8: limpad taṅ bhuwana kabeh yayā tan andĕl (``and so''?);"
+      },
+      {
+        "source": "TK",
+        "text": "58.14: humuṅ yaya wuntwa ṅ bhuwana. Saṅ hyaṅ iṅ amaraloka yaya ta ḍataṅ aniṅalana;"
+      },
+      {
+        "source": "TK+",
+        "text": "78.15: yaya ta wahwa niṅ masaṅgama;"
+      },
+      {
+        "source": "Kor",
+        "text": "24.14: waluya ... yaye ṅuni;"
+      },
+      {
+        "source": "Kor+",
+        "text": "202.22: yaya pinañjutan rasa niṅ nāla;"
+      },
+      {
+        "source": "KHWj",
+        "text": "1.31a: tameṅ kalaṅun yaya Saraswati;"
+      },
+      {
+        "source": "KHWj+",
+        "text": "2.6a: yaya ratw iṅ tulis;"
+      },
+      {
+        "source": "KS",
+        "text": ", RL etc (in kid. always ``as it were, like'')."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "103",
+    "headword": "yayah",
+    "query": "yayah",
+    "page_ref": "2363:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+    "definition": "father; also for other older relatives, even mother",
+    "sub_entries": [
+      {
+        "sub_head": "ayayah",
+        "page_ref": "2363:1.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+        "definition": "towards one's father (mother)",
+        "citations": [
+          {
+            "source": "AW",
+            "text": "34.7: twaṅ ira n ayayah lāwan akaka (yayah = Kuntī)."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "50.2: kumaluṅ-kaluṅi ri sira yayahta ulā dĕlĕs;"
+      },
+      {
+        "source": "Wir",
+        "text": "67.27: yayah ni ṅhulun ḍaṅ hyaṅ Kṛpa (words of Aśwatthāmā);"
+      },
+      {
+        "source": "BhP",
+        "text": "136.26: wruh pwa yayah nira bhaṭārī Gaṅgā n maṅkanâbhiprāya nira;"
+      },
+      {
+        "source": "Udy",
+        "text": "82.6: sojar yayah ni ṅhulun, ya ika kapat putu rahadyan saṅhulun;"
+      },
+      {
+        "source": "HW",
+        "text": "10.1: amuhun iṅ yayah bibi;"
+      },
+      {
+        "source": "KHWj",
+        "text": "4.84a: tan katuṅkulan de niṅ yayah induṅ;"
+      },
+      {
+        "source": "KHWj+",
+        "text": "5.151a: sih niṅ yayenaṅ;"
+      },
+      {
+        "source": "Td",
+        "text": "4.35a: ri jĕṅ yayenduṅ."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "104",
+    "headword": "yayi",
+    "query": "yayi",
+    "page_ref": "2363:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+    "definition": "younger brother or sister, younger relative (cf <i>ari</i>, <i>rari</i>, <i>rayi</i>)",
+    "sub_entries": [
+      {
+        "sub_head": "yumayi-yayi",
+        "page_ref": "2363:2.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+        "definition": "like younger brother or sister",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "126.5: patĕmu nira winaswās kady anwam yumayi-yayi."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "GK",
+        "text": "17.1: ibu tuhan i ṅhulun yayi, lĕwas ta ... ;"
+      },
+      {
+        "source": "GK+",
+        "text": "26.3: sira yayi ni bapaṅku hundaṅĕn;"
+      },
+      {
+        "source": "AWj",
+        "text": "1.14: akon ri saṅ yayi;"
+      },
+      {
+        "source": "Sut",
+        "text": "52.9: taṅgapana kūṅku kaka suwalĕn iṅ hujar yayi;"
+      },
+      {
+        "source": "KHWj",
+        "text": "1.12a: anak ira kaki Harsa-Wijaya lan yayi Krĕtanagara;"
+      },
+      {
+        "source": "KHWj+",
+        "text": "1.15b: lah ta paman ireki yayi aryâkunĕn bapa;"
+      },
+      {
+        "source": "KHWj+",
+        "text": "1.32a: eman tuhu yayi sori ... (king to queen)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "105",
+    "headword": "yayur",
+    "query": "yayur",
+    "page_ref": "2363:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+    "definition": "= <b>or</b> to be read yajur, see <i>yajuh</i>.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RPWj",
+        "text": "18.8: Rĕk Yayur Sama kabeh pwa tĕlas kapaṅguh."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "106",
+    "headword": "yen",
+    "query": "yen",
+    "page_ref": "2363:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+    "definition": "= <b>yan</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AgP",
+        "text": "349.30: yen hana wintaṅ ... ; 350.3;"
+      },
+      {
+        "source": "Sl",
+        "text": "84.11;"
+      },
+      {
+        "source": "KHWj",
+        "text": ";"
+      },
+      {
+        "source": "KS",
+        "text": ";"
+      },
+      {
+        "source": "Mal",
+        "text": "etc;"
+      },
+      {
+        "source": "Par",
+        "text": "."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "107",
+    "headword": "yodha",
+    "query": "yodha",
+    "page_ref": "2363:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+    "definition": "(Skt) warrior, soldier. See also <i>anindya-</i>, <i>daitya-</i>, <i>mahā-</i>, <i>mahāsenā-</i>, <i>peka-</i>, <i>wīra-</i>, <i>wiśeṣa-</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "yodhā",
+        "page_ref": "2363:5.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+        "definition": "ready for battle?",
+        "citations": [
+          {
+            "source": "BY",
+            "text": "9.10: samaṅkā yodhā Sātyaki majar i saṅ Kṛṣṇa;"
+          },
+          {
+            "source": "BK",
+            "text": "44.4: yodhā tan hana lāla#nâṅinak-inak lumaku."
+          }
+        ]
+      },
+      {
+        "sub_head": "yinodha",
+        "page_ref": "2363:5.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+        "definition": "ready to fight, in fighting spirit",
+        "citations": [
+          {
+            "source": "BK",
+            "text": "8.4: maṅajña bhṛtya sampun yinodha."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "65.20: paḍa harṣâmbĕk ikaṅ yodha kabeh;"
+      },
+      {
+        "source": "Utt",
+        "text": "11.16: dewatâsaṅghya śūra watĕk yodha;"
+      },
+      {
+        "source": "AWj",
+        "text": "4.15: ikaṅ yodha mohâṅgakāra;"
+      },
+      {
+        "source": "AbhW",
+        "text": "28.8: mukhyekaṅ para rāja yodha."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "108",
+    "headword": "yodhabhūmi",
+    "query": "yodhabhūmi",
+    "page_ref": "2363:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+    "definition": "(Skt) battlefield",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BK",
+        "text": "89.5: gaja ratha matumaṅ durgameṅ yo#dhabhūmī."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "109",
+    "headword": "yodhamanta",
+    "query": "yodhamanta",
+    "page_ref": "2363:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+    "definition": "burning with fighting spirit (or: warrior?)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AbhW",
+        "text": "48.3: pārthiwa yodhamanta matuluṅ."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "110",
+    "headword": "yodhamantri",
+    "query": "yodhamantri",
+    "page_ref": "2363:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+    "definition": "(Skt) military officer",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BK",
+        "text": "1.14: para ratu n umarĕk mwaṅ watĕk yodhamantri."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "111",
+    "headword": "yodhamukhya",
+    "query": "yodhamukhya",
+    "page_ref": "2363:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+    "definition": "(Skt) chief warrior, high officer",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "37.31: iniriṅ de niṅ yodhamukhya;"
+      },
+      {
+        "source": "Udy",
+        "text": ";"
+      },
+      {
+        "source": "HWj",
+        "text": "."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "112",
+    "headword": "yoga",
+    "query": "yoga",
+    "page_ref": "2363:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+    "definition": "(Skt) 1. exertion, endeavour, method or practice of mental concentration or penance (to control the senses, arrest the fluctuations (wṛtti) of the mind (citta), obtain supernatural power, achieve union with the deity or liberation). See also adwaya-, ālamba-, amṛta-, anta-, atirodra-, cinta-, dhāraṇa-, dhīra-, dhyāna-, parama-, pra-, prāṇāyama-, pratyāhāra-, ratnatraya-, ṣaḍaṅga-, ṣaḍtanu-, saṅ-, śiwatwa-, sudhīra-, sthiti-, sūkṣma-, wi-.",
+    "sub_entries": [
+      {
+        "sub_head": "ayoga",
+        "page_ref": "2363:10.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+        "definition": "to practise yoga",
+        "citations": [
+          {
+            "source": "Udy",
+            "text": "30.17: ayoga samāhita umanuṣṭhāna saṅ hyaṅ Sanatkumāra;"
+          },
+          {
+            "source": "BrP",
+            "text": "55.25: mayoga bhaṭāra Brahmā, mĕtu taṅ ṛṣi;"
+          },
+          {
+            "source": "AgP",
+            "text": "362.18: anak bhagawān Marīci, ulih nirâyoga ri kāla nirânandana;"
+          },
+          {
+            "source": "VG",
+            "text": "VII 32 f. (860) IIIa: ayoga amūjā asamādhi ajapa."
+          }
+        ]
+      },
+      {
+        "sub_head": "yumoga, yinoga",
+        "page_ref": "2363:10.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+        "definition": "to apply to st., meditate upon, summon (make appear, effect) by yoga",
+        "citations": [
+          {
+            "source": "SD",
+            "text": "7.9: rĕp dhyāna ta sira wĕkasan yumoga para ramya ḍatĕṅ anuluṅa;"
+          },
+          {
+            "source": "Sum",
+            "text": "17.4: saṅyoganta riṅ yogya yogan (see under saṅyoga);"
+          },
+          {
+            "source": "Nag",
+            "text": "64.5: saṅ hyaṅ puṣpa yinoga riṅ wĕṅi linakwan supratiṣṭhakriyā."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "108.10: makanimitta śakti niṅ yoga;"
+      },
+      {
+        "source": "BhP",
+        "text": "98.9: kita pinakayoga, kita pinakasetu niṅ jagat;"
+      },
+      {
+        "source": "BhP+",
+        "text": "100.10: magawe yoga nidrā rikaṅ wwe (Wiṣṇu);"
+      },
+      {
+        "source": "SS",
+        "text": "415.6: yoga ṅaranya cittawṛttinirodha, kahrĕtan iṅ manah;"
+      },
+      {
+        "source": "Wṛh",
+        "text": "25.4: yoga ṅaran iṅ magawe samādhi;"
+      },
+      {
+        "source": "Sl",
+        "text": "73.9: dadi niṅ dewa ṅūni, kuraṅ yoga ya tâṅdadi mānuṣa;"
+      },
+      {
+        "source": "RY",
+        "text": "1.42: kami ikihĕn wiku matapa jñāna lawan yoga;"
+      },
+      {
+        "source": "AW",
+        "text": "5.4: linĕsu nira ṅ yoga sakarĕṅ;"
+      },
+      {
+        "source": "GK",
+        "text": "31.4: amahayu yoga sasmṛti;"
+      },
+      {
+        "source": "Sut",
+        "text": "7.2: pöṅ niṅ yoga nirāśrayekana sĕḍĕṅ hawana niṅ umusir nirātmaka hĕlĕm;"
+      },
+      {
+        "source": "PYñ",
+        "text": "36.1: madan sira yoga sandhi;"
+      },
+      {
+        "source": "KHWj",
+        "text": "5.129a: aṅgĕlar yoga sandi pinuh ri suksma niṅ jñana;"
+      },
+      {
+        "source": "VG",
+        "text": "VII 32 f. (860) IIIb: akaya-kaya makarahina ṅ wĕṅi makasādhana ṅ yogâmrārthanākĕn ri hajöṅa nira."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "113",
+    "headword": "yogābhyāsa",
+    "query": "yogābhyāsa",
+    "page_ref": "2363:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2363&zoom=width",
+    "definition": "(Skt) the practice of yoga; to practise yoga",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AW",
+        "text": "5.6: ikuṅ yogābhyāsâtiśaya bapa kaṇḍĕg ṅwaṅ umulat;"
+      },
+      {
+        "source": "Sut",
+        "text": "33.4: yogābhyāsa rikaṅ girīndra."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "114",
+    "headword": "yogadhāraka",
+    "query": "yogadhāraka",
+    "page_ref": "2364:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) concentration of the mind",
+    "sub_entries": [
+      {
+        "sub_head": "(m)ayogadhāraka, payogadhāraka",
+        "page_ref": "2364:1.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+        "definition": "(subst.) performing concentration of the mind",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "108.14: tan wruh i saṅkan ikaṅ maliṅ apan sĕḍĕṅ nirâyogadhāraka;"
+          },
+          {
+            "source": "BY",
+            "text": "23.7: saṅ paramasādhaka humĕnĕṅ ayogadhāraka;"
+          },
+          {
+            "source": "Sut",
+            "text": "48.2: tan saṅke paramārthadharma ṅ usirĕn karaṇa nira mayogadhāraka;"
+          },
+          {
+            "source": "Sut+",
+            "text": "59.3: kinaraṇan iṅ watĕk hyaṅ i payogadhāraka nireki somya pinalar;"
+          },
+          {
+            "source": "Sut+",
+            "text": "125.10: tĕhĕr ayogadhāraka."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "56.5: gawayakĕn taṅ yogadhāraka;"
+      },
+      {
+        "source": "Sut",
+        "text": "9.8: dhyāyī śrī warabodhisattwa śinarīrakĕn ira saha yogadhāraka."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "115",
+    "headword": "yogādhipa",
+    "query": "yogādhipa",
+    "page_ref": "2364:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) ``lord of yoga'', Śiwa",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BK",
+        "text": "37.31: Yogādhipeśāna sudhīrabuddhi / nityeka yan mamrihakĕn Surendra."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "116",
+    "headword": "yogajñāna",
+    "query": "yogajñāna",
+    "page_ref": "2364:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) the mind (spirit) in yoga",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "SD",
+        "text": "23.7: amuhun mamūjā / yogajñāna nira nirāśrayâmbĕk ahniṅ (or yoga = ayoga?)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "117",
+    "headword": "yogakrama",
+    "query": "yogakrama",
+    "page_ref": "2364:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) the right way of performing yoga, method or practice of yoga",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wṛh",
+        "text": "47.18: ikaṅ tūryapada ya teka ātmasiddhi ṅaranya, mĕne ikaṅ wuwusĕn iṅ yogakrama lawan ikaṅ tūryāntapada;"
+      },
+      {
+        "source": "Sut",
+        "text": "73.9: saṅ huwus tumĕmu pöh niṅ śāstra yogakrama."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "118",
+    "headword": "yogamārga",
+    "query": "yogamārga",
+    "page_ref": "2364:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) the way of yoga",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wṛh",
+        "text": "60.9: sādhana ṅaranya ikaṅ yogamārga, makalarapan daśaśīla."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "119",
+    "headword": "yogamāyā",
+    "query": "yogamāyā",
+    "page_ref": "2364:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) magical power of yoga, power of the deity in creating the world",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "55.9: yogamāyā ni ṅhulun irikeṅ sakalajagat pāwak ni ṅhulun ... , saṅ yogīśwara sira wihikan;"
+      },
+      {
+        "source": "RY",
+        "text": "20.53: pasaṅ tekanaṅ yogamāyā adṛśya."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "120",
+    "headword": "yogaprawṛtti",
+    "query": "yogaprawṛtti",
+    "page_ref": "2364:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) the performance of yoga",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "JñS",
+        "text": "212.6: Īśwarapraṇidhāna ṅaranya ayogaprawṛtti."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "121",
+    "headword": "yogarakṣa",
+    "query": "yogarakṣa",
+    "page_ref": "2364:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) protection by means of yoga",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Sut",
+        "text": "133.1: dhyāyī sakṣaṇa yogarakṣa ya ginöṅ mwaṅ durgamāyāsmṛti."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "122",
+    "headword": "yogasannyāsa",
+    "query": "yogasannyāsa",
+    "page_ref": "2364:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) asceticism through the performance of yoga. See under <i>karmasannyāsa</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "123",
+    "headword": "yogaśāstra",
+    "query": "yogaśāstra",
+    "page_ref": "2364:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) the science of yoga",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "65.17: agiraṅ ta ... de nikaṅ yogaśā#strânugrahe sira."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "124",
+    "headword": "yogasiddhi",
+    "query": "yogasiddhi",
+    "page_ref": "2364:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) perfection or supernatural power of yoga, perfect in yoga, powerful through yoga. See also <i>mahā-</i>.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "4.9: saṅ Śarabhaṅga yogasiddhi;"
+      },
+      {
+        "source": "Sut",
+        "text": "15.3: phala niṅ warayogasiddhi."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "125",
+    "headword": "yogasmaraṇa",
+    "query": "yogasmaraṇa",
+    "page_ref": "2364:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) meditative joga",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Sut",
+        "text": "88.2: ṅhiṅ yogasmaraṇā mamūja sawisik Jinatanu pinakeṣṭi niṅ hiḍĕp."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "126",
+    "headword": "yogasupta",
+    "query": "yogasupta",
+    "page_ref": "2364:13",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) sleep (unconsciousness) through yoga",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Sut",
+        "text": "12.4: rikâmilihi yogasupta wĕkasan rawuh taṅ dina."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "127",
+    "headword": "yogawahni",
+    "query": "yogawahni",
+    "page_ref": "2364:14",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) the fire of yoga",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wṛh",
+        "text": "60.20: tinunwan ireṅ yogawahni."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "128",
+    "headword": "yogayajña",
+    "query": "yogayajña",
+    "page_ref": "2364:15",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) ``sacrifice'', consisting of yoga",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "50.9: hana ta muwah tapayajña ṅaranya, yajña makasādhana ṅ tapa; hana ta yogayajña ṅaranya waneh."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "129",
+    "headword": "yogī, yogi",
+    "query": "yogī, yogi",
+    "page_ref": "2364:16",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt yogin) performer of yoga, ascetic; performing yoga; also for woman = <b>yoginī.</b> See also <i>anindya-</i>, <i>mahāti-</i>, <i>parama-</i>, <i>siddha-</i>.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "53.3: sira ta wiśeṣa niṅ yogī ṅaran ira;"
+      },
+      {
+        "source": "RY",
+        "text": "4.10: sira saṅ rĕṣi siddha dibya yogī;"
+      },
+      {
+        "source": "RY+",
+        "text": "6.111: siraṅ yogī / gumanti maṅanugrahe (= saṅ Śawarī bratī);"
+      },
+      {
+        "source": "RY+",
+        "text": "17.39: saṅ narādhipa sadājapa yogī;"
+      },
+      {
+        "source": "BY",
+        "text": "15.1: sampun maṅkana sira saprahāra yogī / ṅkā n rakwa krĕtawara;"
+      },
+      {
+        "source": "GK",
+        "text": "29.10: saṅ yogī pwa kumawruhe gati nirâpariñci tinuduh;"
+      },
+      {
+        "source": "PYñ",
+        "text": "9.3: ndug sĕḍĕṅ dhyāna yogī (or dhyānayogī)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "130",
+    "headword": "yogīndra",
+    "query": "yogīndra",
+    "page_ref": "2364:17",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) = <b>yogīśwara</b>, q.v. See <i>parama-</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "131",
+    "headword": "yoginī",
+    "query": "yoginī",
+    "page_ref": "2364:18",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) female yogī",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AgP",
+        "text": "361.19: saṅ hyaṅ bhatriṅśa-Yoginī ṅaran ira hyaṅ niṅ huntu."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "132",
+    "headword": "yogipati",
+    "query": "yogipati",
+    "page_ref": "2364:19",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) = <b>yogīśwara</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KS",
+        "text": "1.16b: ṅrĕṅĕ andika saṅ sri yogipati mwaṅ saṅ para ratu."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "133",
+    "headword": "yogīśwara",
+    "query": "yogīśwara",
+    "page_ref": "2364:20",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+    "definition": "(Skt) lord among yogis, lord of the yogis. See also <i>mahā-</i>, <i>siddha-</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "kayogīśwaran",
+        "page_ref": "2364:20.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2364&zoom=width",
+        "definition": "the state of yogīśwara",
+        "citations": [
+          {
+            "source": "BhP",
+            "text": "60.8: umintonakĕn kayogīśwaran ika;"
+          },
+          {
+            "source": "Wṛh",
+            "text": "52.68: maṅjanma muwah, irika ta yan pamaṅgihakĕn kayogīśwaran;"
+          },
+          {
+            "source": "AW",
+            "text": "1.5: siṅhit mātra juga prabheda nika lāwan prih kayogīśwaran;"
+          },
+          {
+            "source": "Sut",
+            "text": "28.3: tumirwa rūmta sa#phalântuk niṅ kayogīśwaran;"
+          },
+          {
+            "source": "Sut+",
+            "text": "73.12: kawahan raras hati babal tekaṅ kayogīśwaran;"
+          },
+          {
+            "source": "Sut+",
+            "text": "145.4: kabalik tekaṅ kayogīśwaran."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "55.4: wwaṅ ahyun wruheṅ sarwatattwa, wwaṅ aṅarjana mās, wwaṅ jñāni yogīśwara;"
+      },
+      {
+        "source": "BhP+",
+        "text": "55.12: ndatan asiṅ wwaṅ wruh ri tattwa ni ṅhulun, saṅ yogīśwara sira wihikan;"
+      },
+      {
+        "source": "Udy",
+        "text": "33.21: apa sinaṅgah yogīśwara: saṅ wruh riṅ pāwak bhaṭāra;"
+      },
+      {
+        "source": "AgP",
+        "text": "376.10: kapaṅguh taṅ kamokṣan de saṅ yogīśwara; ika ta papasah ikaṅ manah lawan śarīra ya ta sinaṅguh yoga ṅaranya;"
+      },
+      {
+        "source": "Wṛh",
+        "text": "33.19: ikaṅ wwaṅ sinaṅguh uttamasiddhi ṅaranya saṅ yogīśwara, saṅ umaṅguhakĕn aṇimādiguṇa; 52.80; 74.5;"
+      },
+      {
+        "source": "RY",
+        "text": "1.38: hana sira Gādhisuta ṛṣi yogīśwara len tapaswi rajarṣi;"
+      },
+      {
+        "source": "RY+",
+        "text": "26.50: saṅ yogīśwara śiṣṭa saṅ sujana śuddha manah ira huwus mace sira;"
+      },
+      {
+        "source": "BK",
+        "text": "108.9: saṅ yogīśwara towi tan wĕnaṅ atarka ri kita humĕnĕṅ kuraṅ hiḍĕp;"
+      },
+      {
+        "source": "Sut",
+        "text": "1.8: aṅutus i sahana niṅ wīrayodha ... / mwaṅ saṅ yogīśwarâṅampĕha ri pamanas iṅ daitya kālāgni tulya;"
+      },
+      {
+        "source": "Sut+",
+        "text": "54.10: yogīśwara ndi n kadi māsku n uttama;"
+      },
+      {
+        "source": "Sut+",
+        "text": "91.8: saṅ yogīśwara towi tan pagamana n prāpterikewĕh tĕmĕn;"
+      },
+      {
+        "source": "Nag",
+        "text": "1.2: riṅ yogīśwara poruṣeṅ kapila jambhala sakala sira n hyaṅ iṅ dhana;"
+      },
+      {
+        "source": "Nag+",
+        "text": "68.2: wwantĕn boddha mahāyanabrata pĕgat riṅ tantra yogīśwara;"
+      },
+      {
+        "source": "Kor",
+        "text": "124.31: pājarĕn ra putu de saṅ yogīśwara (Rāma Paraśu)."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "134",
+    "headword": "yogitapakṣa",
+    "query": "yogitapakṣa",
+    "page_ref": "2365:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+    "definition": "(Skt) sect (school) of the yogita's",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AgP",
+        "text": "385.6: yogādi-paramanerātmya ṅaranya ri saṅ yogitapakṣa."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "135",
+    "headword": "yogya",
+    "query": "yogya",
+    "page_ref": "2365:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+    "definition": "(Skt) suitable, proper, fit, qualified, able. See also <i>a-</i>, <i>rāja-</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "sayogya",
+        "page_ref": "2365:2.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+        "definition": "suitable, proper, fit",
+        "citations": [
+          {
+            "source": "Udy",
+            "text": "50.7: asiṅ sayogya pamūjanta;"
+          },
+          {
+            "source": "RY",
+            "text": "4.41: aku tak sayogya weh / ri kakaṅku t para yogya māsiha;"
+          },
+          {
+            "source": "Sut",
+            "text": "4.2: siṅ sayogyâlapĕn."
+          }
+        ]
+      },
+      {
+        "sub_head": "yinogya",
+        "page_ref": "2365:2.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+        "definition": "= <b>yogya</b>",
+        "citations": [
+          {
+            "source": "SW",
+            "text": "11.25: saniścaya yinogya tĕmĕn rasanya."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅyogyani, yumogyani, yinogyan",
+        "page_ref": "2365:2.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+        "definition": " 1. to approve, assent to, agree 2. to fit, to be proper (for)",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "69.17: umom ta saṅ nātha, yumogyani samaya mami;"
+          },
+          {
+            "source": "Wir",
+            "text": "30.23: syapa yogya paranaṅkwa, ulahaṅkwânuṅ yogyana;"
+          },
+          {
+            "source": "SD",
+            "text": "1.15: saṅ hyaṅ Kāma sira prihĕn sĕkuṅanâmbĕk ra dwija n yogyana;"
+          },
+          {
+            "source": "SD+",
+            "text": "1.17: wuwus Wṛhaspati yinogyan de hyaṅ Indrâṅalĕm;"
+          },
+          {
+            "source": "Sum",
+            "text": "16.6: tan wruh riṅ sahurâwiraṅ mata nira n paṅyogya#ne saṅ prabhu;"
+          },
+          {
+            "source": "Sum+",
+            "text": "94.1: strī-strī paricārikā paḍa humuṅ maṅyogyanî saṅ prabhu;"
+          },
+          {
+            "source": "Sut",
+            "text": "34.10: wruh ike ṅhulun ri guṇa-doṣa niṅ inucapa#kĕnta yogyana."
+          },
+          {
+            "source": "BY",
+            "text": "33.5: hūrĕn taṅ sakarĕṅ lumiṅsira t amet dāyânuṅ aṅyogyana."
+          }
+        ]
+      },
+      {
+        "sub_head": "yinogyakĕn",
+        "page_ref": "2365:2.4",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+        "definition": "(pf) to declare proper (right), to approve",
+        "citations": [
+          {
+            "source": "Sl",
+            "text": "24.2: yinogyakĕn de niṅ göṅ i kakulan iriya;"
+          },
+          {
+            "source": "AWj",
+            "text": "28.1: nihan tikaṅ dharma lĕpas ya tojarĕn / bhūdāna parnahnya tĕkap ni saṅ prabhu / yinogyakĕn riṅ rĕṣi śaiwa sogata;"
+          },
+          {
+            "source": "SW",
+            "text": "36.4: hana kari saṅ mahājana tinonta maṅga sira wĕly anak nira taha / karaṇa nikaṅ swayambara yinogyakĕn ri pasamūhan iṅ prabhu sira;"
+          },
+          {
+            "source": "HWj",
+            "text": "13.7: sināntwa sira saṅ dhanurdhara yinogyakĕn liṅ nira / prabhuṅku paramārtha denta tumahā hiwĕh niṅ hulah."
+          }
+        ]
+      },
+      {
+        "sub_head": "kinayogya, kinayogyakĕn",
+        "page_ref": "2365:2.5",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+        "definition": "(pf) to consider proper (right), approve",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "22.10: kinayogyakĕn pinituhu;"
+          },
+          {
+            "source": "Sut",
+            "text": "57.8: tan kinayogyakĕn taṅ atulak dānânuwarteṅ jagat;"
+          },
+          {
+            "source": "AbhW",
+            "text": "17.4: kinayogya de haji."
+          }
+        ]
+      },
+      {
+        "sub_head": "kayogyan",
+        "page_ref": "2365:2.6",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+        "definition": "suitableness, what is proper, the best thing to do",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "103.10: kayogyan ika pametakĕna ta brāhmaṇa;"
+          },
+          {
+            "source": "Udy",
+            "text": "85.28: kayogyan iṅ kadi kita kĕta ya, ālocitapūrwaka juga ya;"
+          },
+          {
+            "source": "Utt",
+            "text": "127.6: pinintonan ri kayogyan."
+          }
+        ]
+      },
+      {
+        "sub_head": "payogyan",
+        "page_ref": "2365:2.7",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+        "definition": "adviser (where one finds what is yogya)?",
+        "citations": [
+          {
+            "source": "Udy",
+            "text": "137.7: tan lyan ikuṅ Karṇa matika pi#nakapayogyan pinakamitranta, durbuddhi hī#nakaya."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "186.7: tasyasih pwa saṅ hyaṅ Indra, yan yogyekaṅ wwaṅ bajranta;"
+      },
+      {
+        "source": "BhP",
+        "text": "59.14: yan yogya patik haji pintonana rūpa mahādbhuta;"
+      },
+      {
+        "source": "RY",
+        "text": "3.50: kanaka ratna yogya prabhu (cf rājayogya);"
+      },
+      {
+        "source": "RY+",
+        "text": "10.17: yeka mataṅnya n yogya samitrā;"
+      },
+      {
+        "source": "BY",
+        "text": "9.15: yogya taṅgwāna riṅ praṅ;"
+      },
+      {
+        "source": "BY+",
+        "text": "35.4: ḍū yogya tan hana salah ni pakonta nātha;"
+      },
+      {
+        "source": "KHWj",
+        "text": "1.19b: yogya waṅunĕn aji darma niṅ ksatriya."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "136",
+    "headword": "yogyakārya",
+    "query": "yogyakārya",
+    "page_ref": "2365:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+    "definition": "(Skt) proper (correct) conduct or act",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "34.29: tan hana wih yogyakārya waneh yan lena saṅke ..."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "137",
+    "headword": "yogyarakṣaka",
+    "query": "yogyarakṣaka",
+    "page_ref": "2365:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+    "definition": "(Skt) suitable (able) protector or guard",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BK",
+        "text": "2.18: saṅhulun aṅutusa yogyarakṣaka."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "138",
+    "headword": "yojana",
+    "query": "yojana",
+    "page_ref": "2365:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+    "definition": "(Skt) a measure of distance (= <b>4</b> krośas or about 9 miles?)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Udy",
+        "text": "4.10: ibĕkan ikaṅ tĕṅah yojana de niṅ waruṅ-waruṅ;"
+      },
+      {
+        "source": "Utt",
+        "text": "79.29: nĕmaṅ yojana ta sĕṅkĕrnya;"
+      },
+      {
+        "source": "RY",
+        "text": "15.60: watu magöṅ sayojana."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "139",
+    "headword": "yojya",
+    "query": "yojya",
+    "page_ref": "2365:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+    "definition": "(Skt) to be joined or united",
+    "sub_entries": [
+      {
+        "sub_head": "sayojya",
+        "page_ref": "2365:6.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+        "definition": "united",
+        "citations": [
+          {
+            "source": "BhP",
+            "text": "63.5: atĕguha tuhaganâṅabhyāsa yoga, marapwan sayojya lawan ṅhulun."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "140",
+    "headword": "yoni I",
+    "query": "yoni I",
+    "page_ref": "2365:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+    "definition": "(Skt) womb; place of birth, origin. See also <i>brāhmaṇa-</i>, <i>daitya-</i>, <i>dewa-</i>, <i>garbha-</i>, <i>janma-</i>, <i>nāga-</i>, <i>rākṣasa-</i>, sarwa-, sarwabhūta-, śūdra-, swa-, widyādhara-, and ayonija.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "31.21: maṅkana krama nikaṅ jaṅgama n tiga yoninya;"
+      },
+      {
+        "source": "Utt",
+        "text": "83.21: apan pakayoni ṅ apsubhawa;"
+      },
+      {
+        "source": "Wṛh",
+        "text": "3.3: akweh ikaṅ yoni saṅkan iṅ maṅdadi."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "141",
+    "headword": "yoni II",
+    "query": "yoni II",
+    "page_ref": "2365:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+    "definition": "perfect, excellent?",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Par",
+        "text": "11.11: nora tĕḍas yen derâsuduka riṅ kĕris kuraṅ yoninya. Hana panḍe ... , yoni olihe agawe kĕris."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "142",
+    "headword": "yonitattwa",
+    "query": "yonitattwa",
+    "page_ref": "2365:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+    "definition": "what constitutes the actual source or origin",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "30.1: yonitattwa niṅ sinaṅguh jagat, ya ta pājaramwery aku, yatanyan saṅguhĕn tattwajña."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "143",
+    "headword": "yoṅ*",
+    "query": "yoṅ*",
+    "page_ref": "2365:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+    "definition": "(wuyuṅ?)",
+    "sub_entries": [
+      {
+        "sub_head": "kayoṅan",
+        "page_ref": "2365:10.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+        "definition": "affected by anger? (cf <i>kawuyuṅan</i>)",
+        "citations": [
+          {
+            "source": "Ws",
+            "text": "6.54b: tan warsih aṅarih-arih kayoṅan rahaden dewi anĕhak asta."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "144",
+    "headword": "yowana",
+    "query": "yowana",
+    "page_ref": "2365:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2365&zoom=width",
+    "definition": "(Skt yauwana, youth, adolescence, puberty, manhood) youthful, adult, in the prime of life or manhood, in the flower of youth. See also <i>nitya-</i>, <i>sadā-</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "kayowanan",
+        "page_ref": "2365:11.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+        "definition": "youth, adolescence, prime of life",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "83.16: atuhā tan samāsaṅku n tapwan warĕg i ṅhulun kayowanan;"
+          },
+          {
+            "source": "BhP",
+            "text": "43.3: ri sĕḍĕṅnya n paśarīra maṅke kararayan, kayowanan si tuha mara kapaṅguh de nika;"
+          },
+          {
+            "source": "Udy",
+            "text": "97.26: matuha pwa ṅhulun tĕka riṅ kayowanan;"
+          },
+          {
+            "source": "SS",
+            "text": "33.1: pĕṅpöṅĕn ikaṅ kayowanan panĕḍĕṅ niṅ awak;"
+          },
+          {
+            "source": "RY",
+            "text": "18.42: ry anitya nikanaṅ hurip tuwi kayowanan tan lanā;"
+          },
+          {
+            "source": "KY",
+            "text": "5.4: anĕḍĕṅ amĕpĕg ikaṅ kayowanan."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "83.18: maluya kita yowana;"
+      },
+      {
+        "source": "SS",
+        "text": "257.1: wuwuh niṅ śarīra nā ṅ bāla yowana wṛddha;"
+      },
+      {
+        "source": "RY",
+        "text": "6.3: ṅhulun sĕḍĕṅ yowana śaktimanta ya (Rāwaṇa to Sītā);"
+      },
+      {
+        "source": "GK",
+        "text": "2.11: rwa wĕlas tahun tuwuh ira ṅkā ndah sĕḍĕṅ yowana;"
+      },
+      {
+        "source": "Sut",
+        "text": "35.1: pamĕpĕg niṅ wayah yowanânwam;"
+      },
+      {
+        "source": "TK",
+        "text": "20.13: ikaṅ kanyā surūpa yowana;"
+      },
+      {
+        "source": "Kor",
+        "text": "134.28: kadi lawas iṅ wulan yowana nira bhaṭārī Śrī."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "145",
+    "headword": "yowatī",
+    "query": "yowatī",
+    "page_ref": "2366:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+    "definition": "= <b>yuwatī</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Utt",
+        "text": "31.29: tumakwanakĕn kramanta t yowatī maṅhanakĕn tapabrata;"
+      },
+      {
+        "source": "AgP",
+        "text": "383.3: kanyā sĕḍĕṅ yowatī."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "146",
+    "headword": "yu I",
+    "query": "yu I",
+    "page_ref": "2366:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+    "definition": "abbreviation of <i>yuga</i> or yugala",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "CSt",
+        "text": "11 (878) III.5: wĕḍihan raṅga yu 1. Passim in inscr."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "147",
+    "headword": "yu II, yuh",
+    "query": "yu II, yuh",
+    "page_ref": "2366:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+    "definition": "emphatic particle of (contemptuous) address, often after imperative (off! quick! you!)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wir",
+        "text": "90.12: yuh sĕmbah pādukaṅku;"
+      },
+      {
+        "source": "Udy",
+        "text": "60.4: aha yu ko kamuṅ ṛṣi, ya tiku kaharĕpku;"
+      },
+      {
+        "source": "RY",
+        "text": "14.50: milag pwa yu laku mūr;"
+      },
+      {
+        "source": "RY+",
+        "text": "18.27: milag pwa yuh mūr;"
+      },
+      {
+        "source": "RY+",
+        "text": "26.20: syapi ko syapa ko karih / ... tumahu yuh malawas alupâku yuh / bapamu yuh magĕlĕm mapikat puyuh;"
+      },
+      {
+        "source": "BY",
+        "text": "31.24: panĕmbah arah nihan yuh;"
+      },
+      {
+        "source": "GK",
+        "text": "48.4;"
+      },
+      {
+        "source": "AWj",
+        "text": "47.6: laku yuh nihan bapa panĕmbah ṅke ri jöṅ ni ṅhulun."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "148",
+    "headword": "yuddha",
+    "query": "yuddha",
+    "page_ref": "2366:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+    "definition": "(Skt) battle, fight, war. See also <i>dharma-</i>, <i>pāda-</i>, <i>śūra-;</i> cf <i>pātra</i> I.",
+    "sub_entries": [
+      {
+        "sub_head": "(m)ayuddha",
+        "page_ref": "2366:4.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+        "definition": "to fight",
+        "citations": [
+          {
+            "source": "Utt",
+            "text": "28.19: kapwa silih tampuh ayuddha;"
+          },
+          {
+            "source": "RY",
+            "text": "20.20: ambĕknyâyuddha tātann alaṅ-alaṅ;"
+          },
+          {
+            "source": "BK",
+            "text": "82.3: sikĕp iṅ mayuddha takis iṅ gadenaṅĕn-aṅĕn."
+          }
+        ]
+      },
+      {
+        "sub_head": "payuddhan",
+        "page_ref": "2366:4.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+        "definition": "battlefield, fight",
+        "citations": [
+          {
+            "source": "BK",
+            "text": "9.9: mati ri payuddhan;"
+          },
+          {
+            "source": "Sut",
+            "text": "97.2: bwaṅĕn palaywakĕna kārya nikeṅ payuddhan;"
+          },
+          {
+            "source": "KHWj",
+            "text": "1.80b: yan awĕdîṅ payudan tan wun keraṅ-iraṅ iṅ laku."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Sut",
+        "text": "111.3: riṅ yuddha tan popama;"
+      },
+      {
+        "source": "KHWj",
+        "text": "2.17a: andon yuda;"
+      },
+      {
+        "source": "KHWj+",
+        "text": "4.71b: amaṅuna yuda;"
+      },
+      {
+        "source": "Mal",
+        "text": "1.3a: kĕnoh yen pracacah yuda. Passim."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "149",
+    "headword": "yuddhaga",
+    "query": "yuddhaga",
+    "page_ref": "2366:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+    "definition": "(Skt) warrior",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AWj",
+        "text": "68.6: kinon taṅ bala wīra yuddhaga ..."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "150",
+    "headword": "yuddhakāla",
+    "query": "yuddhakāla",
+    "page_ref": "2366:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+    "definition": "(Skt) time of battle",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "MśP",
+        "text": "(SĕkS I 115.7): tugĕl bāhu saṅ Bhūriśrawa de saṅ Arjuna riṅ yuddhakāla."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "151",
+    "headword": "yuddhakārya",
+    "query": "yuddhakārya",
+    "page_ref": "2366:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+    "definition": "(Skt) fighting, war, military exploit",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "44.19: lĕkas ta kita kumaniścaye yuddhakārya;"
+      },
+      {
+        "source": "Udy",
+        "text": "103.2: hala niṅ yuddhakārya ginawe;"
+      },
+      {
+        "source": "BK",
+        "text": "95.2d: kṛtakrĕtya riṅ yuddhakārya."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "152",
+    "headword": "yuddhaikawīra",
+    "query": "yuddhaikawīra",
+    "page_ref": "2366:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+    "definition": "(Skt) of unparalleled valour in battle",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Nag",
+        "text": "40.1: hana sira mahānātha yuddhaikawīra."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "153",
+    "headword": "yuddhodara",
+    "query": "yuddhodara",
+    "page_ref": "2366:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+    "definition": "illustrious in battle (for yuddho#dāra; see <i>udāra</i> II and cf <i><b>RY</b></i> 19.34 under udara I).",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Sut",
+        "text": "127.2: maṅsö sahana-hana nikaṅ yu#ddhodara-gaṇa;"
+      },
+      {
+        "source": "Sut+",
+        "text": "134.1b: adwandwa yuddho#darânindya dhīreṅ raṇa."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "154",
+    "headword": "yuga I",
+    "query": "yuga I",
+    "page_ref": "2366:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+    "definition": "(Skt) age of the world. See also <i>ādi-</i>, <i>catur-</i>, <i>dewa-</i>, <i>dwāpara-</i>, <i>kali-</i>, <i>kṛta-</i>, <i>tretā-</i>.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "104.10: makahīṅan ĕnti niṅ yuga parimāṇa niṅ loka;"
+      },
+      {
+        "source": "AgP",
+        "text": "345.18: pituṅ puluh yuga lĕwih tuṅgal samaṅkana lawas niṅ Manu#nyâṅadĕg;"
+      },
+      {
+        "source": "SS",
+        "text": "492.3: wilaṅ niṅ janmāntara ... riṅ sayuga-sayuga;"
+      },
+      {
+        "source": "Sut",
+        "text": "139.4: yadyan sahasra yuga rakwa dhiranta riṅ rat;"
+      },
+      {
+        "source": "TK",
+        "text": "62.20: dadi lek, dadi tahun, dadi saṅkala mahā mwaṅ yuga pat, dadi Manwantara;"
+      },
+      {
+        "source": "Tk",
+        "text": "1.98a: dadi sana yuga pat dadi yeṅ (?) mwaṅ tahun."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "155",
+    "headword": "yuga II",
+    "query": "yuga II",
+    "page_ref": "2366:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+    "definition": "(Skt) yoke; pair, couple, set (of clothes); cf <i>yugala</i>.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Td",
+        "text": "1.50b: tan dwa taṅ padati prasama wus inuwahan yuga; 1.53a;"
+      },
+      {
+        "source": "OJO",
+        "text": "56 (941) Va.2: wĕḍihan yuga 1;"
+      },
+      {
+        "source": "OJO",
+        "text": "81 (1294) 8a: wĕḍihan sayuga."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "156",
+    "headword": "yuga III",
+    "query": "yuga III",
+    "page_ref": "2366:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+    "definition": "yoga; what is produced by yoga",
+    "sub_entries": [
+      {
+        "sub_head": "(m)ayuga",
+        "page_ref": "2366:12.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+        "definition": "to perform yoga; to produce by yoga",
+        "citations": [
+          {
+            "source": "AgP",
+            "text": "344.11: mayuga ta bhaṭāra Brahmā, mijil taṅ Prajāpati;"
+          },
+          {
+            "source": "PYñ",
+            "text": "37.5: sampun maṅastuti sirâyuga mudra cakra;"
+          },
+          {
+            "source": "Kor",
+            "text": "146.21: kaṅ mayuga riṅ bhaṭāra Guru saṅ hyaṅ Tuṅgal-tuṅgal;"
+          },
+          {
+            "source": "TP",
+            "text": "57.12: rĕp mayuga ta sira riṅ nūsa Yawadipa lawan bhaṭārī Parameśwarī ... malawas ta bhaṭāra maṅanakĕn yuga motus ta sira ri saṅ hyaṅ Brahmā Wiṣṇu magawe mānuṣa; 61.25; 69.14;"
+          },
+          {
+            "source": "TP+",
+            "text": "75.26: saṅ hyaṅ Brahmâyuga rāksaṣa, kami mayuga dewa; 92.21 (99.24: mayoga);"
+          },
+          {
+            "source": "Sud",
+            "text": "1.15; 1.16."
+          }
+        ]
+      },
+      {
+        "sub_head": "makayuga",
+        "page_ref": "2366:12.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+        "definition": "to bring forth by yoga",
+        "citations": [
+          {
+            "source": "AgP",
+            "text": "383.24: bhagawān Orwa ṅaran ira, saṅ makayuga ṅ Waḍawānala."
+          }
+        ]
+      },
+      {
+        "sub_head": "yinuga",
+        "page_ref": "2366:12.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+        "definition": "(pf) to bring forth by yoga",
+        "citations": [
+          {
+            "source": "TP",
+            "text": "75.12: krodha ta bhaṭāra Brahmā, ya ta mataṅnyan yinuga nira kwehnya, kinwan umĕjahana ..."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "TP",
+        "text": "61.28: yuga nira bhaṭāra Guru kacaritanya ṅūni;"
+      },
+      {
+        "source": "TP+",
+        "text": "62.2: paḍa sirâtiṅgal anak yuga gumantya ri sakrama niṅ mānuṣa;"
+      },
+      {
+        "source": "Knt",
+        "text": "74.4: prih yuganta ṅuni."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "157",
+    "headword": "yuga",
+    "query": "yuga",
+    "page_ref": "2366:13",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+    "definition": "^4 child (procreated in a supernatural way?)",
+    "sub_entries": [
+      {
+        "sub_head": "ayuga",
+        "page_ref": "2366:13.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+        "definition": "to beget a child",
+        "citations": [
+          {
+            "source": "Par",
+            "text": "1.17: rowaṅa nirâyugaha;"
+          },
+          {
+            "source": "Par+",
+            "text": "2.3: ĕṅgen irâ#yuga riṅ tĕgal lalatĕṅ."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Par",
+        "text": "2.5: kacacampuran mĕne yuga mami iku; arane yuga mami iku ken Aṅrok."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "158",
+    "headword": "yugakāla",
+    "query": "yugakāla",
+    "page_ref": "2366:14",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2366&zoom=width",
+    "definition": "(Skt) the ages of the world",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "75.29: saṅ hyaṅ Dharma n cala de ni paganti niṅ yugakāla;"
+      },
+      {
+        "source": "SD",
+        "text": "38.9: prāpta ṅ kalī samaya niṅ yugakāla luṅhā."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "159",
+    "headword": "yugakṣaṇa",
+    "query": "yugakṣaṇa",
+    "page_ref": "2367:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+    "definition": "(Skt) the end of a yuga",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "SD",
+        "text": "38.14: riṅ Kāśmiran pratita (prathita?) pustaka saṅ Kumāra / siṅsal yugakṣaṇa śināpa tĕkap bhaṭāra / nūsâtiramya tĕmahanya magöṅ halimpuṅ."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "160",
+    "headword": "yugala",
+    "query": "yugala",
+    "page_ref": "2367:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+    "definition": "(Skt pair, couple) 1. wife, marriage partner, consort; pair, set (of clothes) 2. fitting, proper? (or: to concur?)",
+    "sub_entries": [
+      {
+        "sub_head": "ayugala",
+        "page_ref": "2367:2.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+        "definition": "to be joined in marriage; to be together, fit together",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "15.4: sampun sirâyugala ratna wiśeṣaputrī;"
+          },
+          {
+            "source": "Sum+",
+            "text": "164.5: (asalin jayaphala) paḍâyugala rūmnya jāti kadi kasturi waṅi nika;"
+          },
+          {
+            "source": "Sut",
+            "text": "3.8: ṅhiṅ strīratna wiśeṣa yogya pasuṅe sira mayugala rājaputrikā;"
+          },
+          {
+            "source": "Sut+",
+            "text": "68.4: mayugala riṅ humah sphaṭika ... kalawan narendratanaya;"
+          },
+          {
+            "source": "Sut+",
+            "text": "69.10: awās tan mātrekā kita mayugaleṅ weśma kanaka."
+          }
+        ]
+      },
+      {
+        "sub_head": "makayugala",
+        "page_ref": "2367:2.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+        "definition": "to be a wife",
+        "citations": [
+          {
+            "source": "Sut",
+            "text": "72.7: wruh ika yan narendraduhitā n pakayugala nireṅ Jinālaya."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅyugalani, yumugalani, yinugalan",
+        "page_ref": "2367:2.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+        "definition": "to agree, concur with, endorse",
+        "citations": [
+          {
+            "source": "BY",
+            "text": "7.4: mojar saṅ śrī nṛpati Dhṛtarāṣṭrâṅyu#galani / ri sojar śrī Kṛṣṇa;"
+          },
+          {
+            "source": "BY+",
+            "text": "20.3: aṅliṅ saṅ Bhīmâyugalani (read aṅyugalani);"
+          },
+          {
+            "source": "AbhW",
+            "text": "1.7: yumugalani ṅ aminta sanmata;"
+          },
+          {
+            "source": "AbhW+",
+            "text": "19.12: nahan liṅnya n sampun yinugalan i de śrī nṛpasutā;"
+          },
+          {
+            "source": "AbhW+",
+            "text": "28.4: āyugalani (sic) atiyogya liṅ nira;"
+          },
+          {
+            "source": "HWj",
+            "text": "8.14: tuhun yugalanaṅkwa;"
+          },
+          {
+            "source": "RL",
+            "text": "1.59: mesĕm rahadyan mantri aṅyugalani;"
+          },
+          {
+            "source": "Tk",
+            "text": "4.80a: liṅ niṅ kuwoṅ aṅyugalani;"
+          },
+          {
+            "source": "Sor",
+            "text": "."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Sum",
+        "text": "7.22: tuhun kita dine bhaṭāra yugalanya muwah akurĕnâsihe kita;"
+      },
+      {
+        "source": "Sum+",
+        "text": "16.5: yadyan hyaṅ palakunta māsku yugalantâmrih-mrihâkw aṅhyaṅa;"
+      },
+      {
+        "source": "Nag",
+        "text": "11.1: ndan saṅ śrī nṛpa Siṅha#wardhana kidul saha yugala saputra-putrika;"
+      },
+      {
+        "source": "Nag+",
+        "text": "84.5: śrī nṛpa ri Kaḍintĕn sayugala sāmātya bala ri wuntat;"
+      },
+      {
+        "source": "SW",
+        "text": "15.2: tan winihaṅ tĕkap nṛpawadhū yugala nira;"
+      },
+      {
+        "source": "AbhW",
+        "text": "58.2: kita pwa juga liṅku tan hana waneh yugala rasika; 60.18;"
+      },
+      {
+        "source": "OJO",
+        "text": "9 (873) II.a: wĕḍihan sayugala sowaṅ-sowaṅ;"
+      },
+      {
+        "source": "VG",
+        "text": "VII 32 f. (1373) XIIb: bhaṭāra śrī Rājasawardhanī, mwaṅ yugala nira śrī Raṇamaṅgala."
+      },
+      {
+        "source": "Td",
+        "text": "5.3a: yan kobayan ndya tan yugaleku."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "161",
+    "headword": "yugānta",
+    "query": "yugānta",
+    "page_ref": "2367:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+    "definition": "(Skt) the end of the four ages; also = <b>kali</b> (yuga)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "207.9: sambartakānala, apuy i kāla niṅ yugānta;"
+      },
+      {
+        "source": "BhP",
+        "text": "10.27: kadi gĕntĕr iṅ tasik mapagut lawan rowaṅnya ri kāla niṅ yugānta;"
+      },
+      {
+        "source": "RY",
+        "text": "22.51a: kadi ta sira bhaṭāra Kālâmaṅan sarwabhūte sĕḍĕṅ niṅ yugāntâṅigĕl riṅ śmaśāna;"
+      },
+      {
+        "source": "RY+",
+        "text": "22.80: Merūpama juga ujwala n katejan / de niṅ dwādaśaśata sūrya riṅ yugānta;"
+      },
+      {
+        "source": "BY",
+        "text": "42.7: lwir Kālāntaka riṅ yugānta mala#pâhyun amaṅana jagat;"
+      },
+      {
+        "source": "Sum",
+        "text": "147.19: lākhā#neka dhwajanya pracalita kadi bahnî sĕḍĕṅ niṅ yugānta;"
+      },
+      {
+        "source": "AWj",
+        "text": "61.3: sākṣāt hyaṅ Kāla rodrâmunah amarawaśa ṅ sarwabhūteṅ yugānta;"
+      },
+      {
+        "source": "Sut",
+        "text": "121.1: lwir hyaṅ Paśupati sĕḍĕṅ iṅ yugānta maharĕp lumĕbura bhuwana;"
+      },
+      {
+        "source": "Sut+",
+        "text": "136.5: ghora ṅ wākya baṅun yugānta rumawĕh;"
+      },
+      {
+        "source": "HWj",
+        "text": "29.7: (mṛdaṅga ... ) himpĕr sāgara sĕḍĕṅ iṅ yugānta rodra;"
+      },
+      {
+        "source": "NS",
+        "text": "4.7: yan tĕka niṅ yugānta kali tan hana lĕwiha sakeṅ mahādhana; 4.13."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "162",
+    "headword": "yugāntakāla",
+    "query": "yugāntakāla",
+    "page_ref": "2367:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+    "definition": "the end of the world",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "87.15: kadi kāla niṅ yugāntakāla śakti ni sañjata saṅ Arjuna; 93.5."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "163",
+    "headword": "yugapat",
+    "query": "yugapat",
+    "page_ref": "2367:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+    "definition": "(Skt yugapad ``being in the same yoke'') together, at the same time, simultaneously",
+    "sub_entries": [
+      {
+        "sub_head": "yinugapat",
+        "page_ref": "2367:5.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+        "definition": "(pf) to perform together",
+        "citations": [
+          {
+            "source": "SD",
+            "text": "31.10: riṅ mantrākṣara yoga yinugapat."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "208.1: matag ikaṅ jaladasamāgama, yugapat maṅhudanakĕn warṣa;"
+      },
+      {
+        "source": "BrP",
+        "text": "102.23: sakahyunya parananya, yugapat lawan manahnya;"
+      },
+      {
+        "source": "BrP+",
+        "text": "171.7: yugapat krama saṅ hyaṅ Āditya gumawayakĕn ikaṅ sādhya (sandhyā?);"
+      },
+      {
+        "source": "JñS",
+        "text": "154.5: yugapad darśana, yugapat śrawana, yugapad manana, yugapad wijñāna;"
+      },
+      {
+        "source": "SD",
+        "text": "36.2: suku yugapat pĕgat wiga karĕsrĕs;"
+      },
+      {
+        "source": "Sut",
+        "text": "33.11: sampun rakwa lĕpas manahnya yugapat mamarĕṅi ri manah nṛpātmaja."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "164",
+    "headword": "yugaswabhāwa",
+    "query": "yugaswabhāwa",
+    "page_ref": "2367:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+    "definition": "(Skt) the nature of the age",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "168.20: (gods) tuhun mati kahĕli-hĕli, makanimitta niṅ andĕl niṅ yugaswabhāwa."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "165",
+    "headword": "yuh",
+    "query": "yuh",
+    "page_ref": "2367:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+    "definition": "see <i>yu</i> II.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "166",
+    "headword": "yukti",
+    "query": "yukti",
+    "page_ref": "2367:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+    "definition": "(Skt union, junction, connection; suitableness, fitness, correctness). See also <i>sa-</i>. 1. union, combination 2. suitable, proper, correct (= yogya)",
+    "sub_entries": [
+      {
+        "sub_head": "mayukti",
+        "page_ref": "2367:8.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+        "definition": "proper, correct",
+        "citations": [
+          {
+            "source": "HW",
+            "text": "14.6: hana wacanâtyanta riṅ tan payukti."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅyuktyani, yumuktyani, yinuktyan",
+        "page_ref": "2367:8.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+        "definition": "to approve, assent to",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "46.30: yumuktyana ṅ ujar ira;"
+          },
+          {
+            "source": "SS",
+            "text": "322.2: ikaṅ magawe, ikaṅ makon agawaya, ikaṅ maṅanumata maṅyuktyani;"
+          },
+          {
+            "source": "Sum",
+            "text": "26.1: sojar ikā yinuktyan."
+          }
+        ]
+      },
+      {
+        "sub_head": "yumuktyakĕn, yinuktyakĕn",
+        "page_ref": "2367:8.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2367&zoom=width",
+        "definition": "to declare (consider) proper or correct",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "181.12: tan dadi pwa sira mithyawacana, yinuktyakĕn ta sira de saṅ Yudhiṣṭhira;"
+          },
+          {
+            "source": "Udy",
+            "text": "69.2: yumuktyakĕn śabda bhagawān Kaṇwa."
+          }
+        ]
+      },
+      {
+        "sub_head": "kayuktyan",
+        "page_ref": "2367:8.4",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+        "definition": "correctness, proper attitude",
+        "citations": [
+          {
+            "source": "BrP",
+            "text": "63.18: apan kayuktyan ikaṅ pūjā: ... ;"
+          },
+          {
+            "source": "GK",
+            "text": "43.5: tan apagĕh i kayuktyan iṅ gati;"
+          },
+          {
+            "source": "BK",
+            "text": "2.33: wĕka pwa saṅ aṅuṅsi haywa ni yayah hyun ika ya ta kayuktyan iṅ wĕka."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "174.2: yukti niṅ lima lawan wwalu."
+      },
+      {
+        "source": "Ad",
+        "text": "80.24: yan yogya ... ; yapwan tan yukti ... ;"
+      },
+      {
+        "source": "Ad+",
+        "text": "137.14: tan yukti ulahta iko;"
+      },
+      {
+        "source": "BhP",
+        "text": "44.9: tan hana wih dharma yukti gawayĕn ... yan lena saṅke ... ;"
+      },
+      {
+        "source": "Udy",
+        "text": "3.21: yuktîlwana ri saprayojana;"
+      },
+      {
+        "source": "Udy+",
+        "text": "27.16: hanâtuha de niṅ śīla yukti, mwaṅ atuha de niṅ wayah juga;"
+      },
+      {
+        "source": "Udy+",
+        "text": "45.28: tibāna śabda yukti;"
+      },
+      {
+        "source": "RY",
+        "text": "1.42: tam madwa wuwus narendra yukti tĕmĕn;"
+      },
+      {
+        "source": "RY+",
+        "text": "1.48: kami mawaraha kadi kiteṅ yukti;"
+      },
+      {
+        "source": "RY+",
+        "text": "3.50: ndya yuktya nikihĕn;"
+      },
+      {
+        "source": "RY+",
+        "text": "13.26: naya yukti kiṅkinĕn;"
+      },
+      {
+        "source": "BK",
+        "text": "37.14: kita yukti pūjan."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "167",
+    "headword": "yuktikārya",
+    "query": "yuktikārya",
+    "page_ref": "2368:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "(Skt) proper conduct",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Udy",
+        "text": "51.1: wruh sariko ri yuktikārya."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "168",
+    "headword": "yuktikṛtya",
+    "query": "yuktikṛtya",
+    "page_ref": "2368:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "(Skt) what is proper to be done",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "17.136: sakawĕnaṅa nikā taṅ kāya riṅ yuktikṛtya."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "169",
+    "headword": "yun",
+    "query": "yun",
+    "page_ref": "2368:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "see <i>ayun</i> III, hyun.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "170",
+    "headword": "yuṣa",
+    "query": "yuṣa",
+    "page_ref": "2368:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "= <b>āyuṣa</b>, q.v.",
+    "sub_entries": [
+      {
+        "sub_head": "mayusani",
+        "page_ref": "2368:4.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+        "definition": "? giving life? influenced by (a)mṛtasañjiwani?",
+        "citations": [
+          {
+            "source": "Kor",
+            "text": "64.22: bañunya tan payusani."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "18.2: sapuluh iwu tahun prĕmaṇa ni yuṣanya;"
+      },
+      {
+        "source": "NS",
+        "text": "4.13: tahun iṅ yuṣa cataliṣa hīṅan iṅ hurip."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "171",
+    "headword": "yuta",
+    "query": "yuta",
+    "page_ref": "2368:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "(= <b>ayuta</b>, q.v.) a million",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "4.8: saṅaṅ yuta;"
+      },
+      {
+        "source": "BrP",
+        "text": "78.10: yan sewu yutâwakan ikaṅ Pradhāna ... ;"
+      },
+      {
+        "source": "(?:) BrP",
+        "text": "81.20: sayuta taṅ daśasahasra. Yatika harakeṅ prayuta;"
+      },
+      {
+        "source": "Sum",
+        "text": "147.19: aratha sayuta;"
+      },
+      {
+        "source": "AWj",
+        "text": "4.4: akweh śatayuta mamĕpĕk;"
+      },
+      {
+        "source": "Sut",
+        "text": "100.6: hrū nira rwaṅ yuta; 101.12;"
+      },
+      {
+        "source": "Sut+",
+        "text": "109.3: daśayuta taṅ cakra;"
+      },
+      {
+        "source": "L",
+        "text": "26.2: piraṅ yuta kunĕṅ wilaṅnya."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "172",
+    "headword": "yuwa",
+    "query": "yuwa",
+    "page_ref": "2368:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "(Skt) young, junior (in compounds only).",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 23
+  },
+  {
+    "id": "173",
+    "headword": "yuwamantri",
+    "query": "yuwamantri",
+    "page_ref": "2368:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "(Skt) junior mantri",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Nag",
+        "text": "72.5: saṅ patih Dami tikaṅ yuwamantri."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "174",
+    "headword": "yuwanāgawaṅśa",
+    "query": "yuwanāgawaṅśa",
+    "page_ref": "2368:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "(Skt) young man of nāga lineage",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "113.16: ndah bwat haywa hinĕbaṅ-hĕbaṅ ikaṅ yuwanāgawaṅśa."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "175",
+    "headword": "yuwarāja",
+    "query": "yuwarāja",
+    "page_ref": "2368:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "(Skt) crown prince",
+    "sub_entries": [
+      {
+        "sub_head": "kayuwarājan",
+        "page_ref": "2368:9.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+        "definition": "the status of crown prince",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "69.21: maweha ṅ kayuwarājan riṅ suputra."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Udy",
+        "text": "140.29: ikaṅ rare winehku yuwarāja."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "176",
+    "headword": "yuwarājarājya",
+    "query": "yuwarājarājya",
+    "page_ref": "2368:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "(Skt) the royal status of crown#prince",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "23.40: wineh ta yuwarājarājya sadṛśâṅ inak kadi ratu."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "177",
+    "headword": "yuwatī",
+    "query": "yuwatī",
+    "page_ref": "2368:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "(Skt) youthful, adolescent (of a girl); young woman",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "105.16: wulaṅun aputĕran ṅkāne tĕṅah niṅ palagan, kadi yuwatī sĕḍĕṅ kāmātura;"
+      },
+      {
+        "source": "RY",
+        "text": "4.40: yuwatī kita kanyakā kunĕṅ;"
+      },
+      {
+        "source": "RY+",
+        "text": "6.3: awakta saśrī yuwatī sĕḍĕṅ hayu;"
+      },
+      {
+        "source": "Sut",
+        "text": "50.2: ri ḍatĕṅ Surendra paḍa bhakti tikaṅ yuwatī;"
+      },
+      {
+        "source": "Sut+",
+        "text": "75.7: Indra sira matĕmahan yuwatī;"
+      },
+      {
+        "source": "SW",
+        "text": "14.4: maṅrĕṅö / ri pāywa saṅ wara-yuwatî Dhanañjaya;"
+      },
+      {
+        "source": "KS",
+        "text": "2.119: lwir taruna anon kanya yuwati."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "178",
+    "headword": "yuwawīra",
+    "query": "yuwawīra",
+    "page_ref": "2368:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "(Skt) young warrior (kṣatriya)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wir",
+        "text": "32.19: nihan târinta saṅ Sahadewa prasiddha sinaṅguh yuwawīra rasika; tiṅhali ta rūpa rasika n haneṅ palĕmbwan rūkṣa kāsyasih."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "179",
+    "headword": "yuyu",
+    "query": "yuyu",
+    "page_ref": "2368:13",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "= <b>hayuyu</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Td",
+        "text": "3.18a: wruh ri runtik iṅ yuyu;"
+      },
+      {
+        "source": "Tk",
+        "text": "."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "180",
+    "headword": "yuyut",
+    "query": "yuyut",
+    "page_ref": "2368:14",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "great-grandfather; great-grandchild",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Udy",
+        "text": "113.8: sira saṅ yuyutku sakeṅ sira bapa;"
+      },
+      {
+        "source": "AWj",
+        "text": "1.21: (Brahmā:) maṅkā teki yuyut Wibhīṣaṇa mapa ṅ kāptinta maṅke ry aku;"
+      },
+      {
+        "source": "AWj+",
+        "text": "68.4: yuyut hyaṅ Widhi taṅ mahāsura / si Rāwaṇeka;"
+      },
+      {
+        "source": "Nag",
+        "text": "56.1: kīrti śrī Kṛtanāgara prabhu yuyut nareśwara sira."
+      }
+    ],
+    "group_id": 23
+  },
+  {
+    "id": "181",
+    "headword": "ywa",
+    "query": "ywa",
+    "page_ref": "2368:15",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=2368&zoom=width",
+    "definition": "emphatic particle (± = <b>pwa</b>, ya) ",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wir",
+        "text": "42.37: agĕlĕm ywa mawyasaya buddhi ni ṅhulun; 19.2;"
+      },
+      {
+        "source": "BY",
+        "text": "29.4: harah ṅwaṅ yweraṅ matyana kamu tĕwas campur inucap;"
+      },
+      {
+        "source": "GK",
+        "text": "48.4: tuhun saṅ alaṅö ywa tan tĕka pijĕr lali wiphala tikaṅ wasĕh suku; 35.8;"
+      },
+      {
+        "source": "BK",
+        "text": "48.6: umĕhah ywa mĕṅgah aṅĕlih; 40.19; 42.18; 44.6; 49.3; 66.1; 79.8; 96.5; 96.18; 99.5;"
+      },
+      {
+        "source": "Nag",
+        "text": "38.3: ndan ra kawi ywa mampir i siraṅ sugata; 38.5; 47.3; 59.6; 69.1; 95.4;"
+      },
+      {
+        "source": "L",
+        "text": "3.6: aṅĕlab-ĕlab ywa kombakan; 5.7; 15.5; 24.5;"
+      },
+      {
+        "source": "AbhW",
+        "text": "24.7: akweh ywenidĕkan pĕñĕt kaparacal;"
+      },
+      {
+        "source": "HWj",
+        "text": "30.6; 40.18."
+      }
+    ],
+    "group_id": 23
+  }
+]

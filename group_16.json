@@ -1,0 +1,2224 @@
+[
+  {
+    "id": "1",
+    "headword": "o",
+    "query": "o",
+    "page_ref": "1216:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "an exclamation of address",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "64.4: o Satī, kapana ike lĕwiha saṅkeṅ anakku kabeh;"
+      },
+      {
+        "source": "BrP+",
+        "text": "63.16: o katulus (sic?) dahat ri rahadyan saṅhulun mānak hara bapa;"
+      },
+      {
+        "source": "(?:) RY",
+        "text": "22.26: o līṅa ya tar wnaṅ matuhā / tan katwaṅa saṅ sādhu kunaṅ;"
+      },
+      {
+        "source": "(?:) SD",
+        "text": "35.8: o tiṅhal nya ta sopanamwa ... (Pb. has ū)."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "2",
+    "headword": "obat-abit",
+    "query": "obat-abit",
+    "page_ref": "1216:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "= <b>ubat-abit</b>, see <i>ubat</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "aṅobat-abit",
+        "page_ref": "1216:2.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+        "definition": "to lay about one",
+        "citations": [
+          {
+            "source": "KS",
+            "text": "2.146: aṅduk aṅobat-abit;"
+          },
+          {
+            "source": "RL",
+            "text": "11.212;"
+          },
+          {
+            "source": "Sor",
+            "text": "3.108."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "3",
+    "headword": "obor*",
+    "query": "obor*",
+    "page_ref": "1216:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "(cf <i>ModJ?</i>)",
+    "sub_entries": [
+      {
+        "sub_head": "aṅobor-obor",
+        "page_ref": "1216:3.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+        "definition": "to torture with torches?",
+        "citations": [
+          {
+            "source": "Sl",
+            "text": "40.10: haṅobor-obor iṅ wwaṅ tan padoṣa."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "4",
+    "headword": "odara",
+    "query": "odara",
+    "page_ref": "1216:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "see <i>saodara</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "5",
+    "headword": "ocak*",
+    "query": "ocak*",
+    "page_ref": "1216:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "see <i>ucak</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "iṅocak-ocak",
+        "page_ref": "1216:5.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+        "definition": "(pf) to shake violently",
+        "citations": [
+          {
+            "source": "NR",
+            "text": "31.27: iṅocak-ocak ikaṅ Lawaṇa-udadi."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "6",
+    "headword": "odod",
+    "query": "odod",
+    "page_ref": "1216:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "see <i>odwad</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "7",
+    "headword": "odwad, odod",
+    "query": "odwad, odod",
+    "page_ref": "1216:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": " 1. hanging plant, hanging parasite, climber, creeper, liana 2. vein",
+    "sub_entries": [
+      {
+        "sub_head": "aṅodwad, dak-odode",
+        "page_ref": "1216:7.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+        "definition": "to draw out, pull along, stretch (cf <i>ModJ</i> ṅododake)?",
+        "citations": [
+          {
+            "source": "BK",
+            "text": "83.4: amikul bĕkĕlnya ... / sumĕlaṅ aṅodwad iṅ rabi nika n kumat kabaranaṅ burat-burat abaṅ;"
+          },
+          {
+            "source": "TK",
+            "text": "148.10: dad-odode gulunta kālih, narapwan enak mĕne dentâmāṅsa riṅ saṅ dwija (yuyu to raven and snake); cf Td 4.54a s. v. kiṇḍayut, Tk 4.173a s.v. godog."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "31.26: wṛkṣa ṅaranya kayu tan odwad;"
+      },
+      {
+        "source": "AgP",
+        "text": "381.27: anak bhagawān Pulastya ... nya ṅ odwad, salwir iṅ odwad, sakweh iṅ rumambat mwaṅ dukut pĕtuṅ nyuh hano tal gĕṅaṅ salwir iṅ twaksāra;"
+      },
+      {
+        "source": "Wṛh",
+        "text": "24.12: sthāwara odwad roṇḍon dukut saprakāra niṅ tan kilip, tarmolah riṅ uṅgwanya juga;"
+      },
+      {
+        "source": "BK",
+        "text": "10.11: marukĕt awilĕt odwad riṅ kaywan milu kawilĕt;"
+      },
+      {
+        "source": "Kor",
+        "text": "38.9: latā ṅaran iṅ lulumut tṛṇa odod;"
+      },
+      {
+        "source": "Kor+",
+        "text": "148.29: latā ṅaran iṅ odod;"
+      },
+      {
+        "source": "Kor+",
+        "text": "60.12: runtuh pwa śaroruha (read śiroruha?) nira ya ta mandadi odod;"
+      },
+      {
+        "source": "RL",
+        "text": "5.2: asarakat taṅ odod."
+      },
+      {
+        "source": "Wṛh",
+        "text": "33.65: ikaṅ śuklâtĕmahan ya tahulan odwad sumsum, ikaṅ śwanita dadi dagiṅ rudhira carma;"
+      },
+      {
+        "source": "Wṛh+",
+        "text": "36.1: hana ta nāḍi ṅaranya riṅ śarīra, odwad magöṅ aḍĕmit."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "8",
+    "headword": "ogha",
+    "query": "ogha",
+    "page_ref": "1216:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "lovesick woman. Conn. with Skt ogha (flood, stream; heap or quantity, abundance) seems improbable.",
+    "sub_entries": [
+      {
+        "sub_head": "hinogha",
+        "page_ref": "1216:8.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+        "definition": "made incandescent?",
+        "citations": [
+          {
+            "source": "NS",
+            "text": "4.22: ton hyaṅ bahni hinuṅsi niṅ wĕsi hinogha tanu nika winor sinanmata."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "HW",
+        "text": "49.5: saḍataṅ ireṅ taman kalihatan ta saṅ ogha rapuh;"
+      },
+      {
+        "source": "BY",
+        "text": "5.7: wintaṅ kumĕḍap baṅun mata niṅ oghâlök tĕlas tan raras;"
+      },
+      {
+        "source": "BY+",
+        "text": "6.1: asĕmu bāṅ hyaṅ aruṇa kadi netra niṅ ogha rapuh;"
+      },
+      {
+        "source": "GK",
+        "text": "2.12: hetu nireki rakwa kilalan kūṅ de niṅ oghâṅaraṅ;"
+      },
+      {
+        "source": "GK+",
+        "text": "13.3: (moon) pilih tumolih ri saṅ ogha mūrchita / rikā n katirwan mulat iṅ mukhâwĕnĕs;"
+      },
+      {
+        "source": "GK+",
+        "text": "27.11: nā ta sahur saṅ ogha;"
+      },
+      {
+        "source": "SW",
+        "text": "3.2: kiṅkiṅ niṅ oghâṅaraṅ;"
+      },
+      {
+        "source": "SW+",
+        "text": "16.6: saṅke duṣṭa niṅ ogha lagi pinöm;"
+      },
+      {
+        "source": "HWj",
+        "text": "58.2: gĕntĕr lwīr amarah daśendriya niṅ ogha huwus asĕmi tĕṅgĕk iṅ kapat."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "9",
+    "headword": "ogya",
+    "query": "ogya",
+    "page_ref": "1216:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "= <b>yogya</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Sor",
+        "text": "8.21: tan ogya parĕkĕna."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "10",
+    "headword": "oh",
+    "query": "oh",
+    "page_ref": "1216:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "Oh! (an exclamation of dismay)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Sut",
+        "text": "30.4: ah oh syapekoṅ nara;"
+      },
+      {
+        "source": "Sut+",
+        "text": "94.9: ah oh pilih aneki duhkha ni tuhanku."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "11",
+    "headword": "ojwala",
+    "query": "ojwala",
+    "page_ref": "1216:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "= <b>ujwala</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Sut",
+        "text": "120.5: riṅ rātha maṇy ojwala."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "12",
+    "headword": "ok",
+    "query": "ok",
+    "page_ref": "1216:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "= <b>yak</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "7.30: ok ataṅhi ṅalarâṅaraṅ makūṅ."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "13",
+    "headword": "okih",
+    "query": "okih",
+    "page_ref": "1216:13",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "= <b>ukih</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KHWj",
+        "text": "2.66b: apraṅ sily-okih;"
+      },
+      {
+        "source": "KS",
+        "text": ";"
+      },
+      {
+        "source": "RL",
+        "text": "(beside 11.58: silih ukih);"
+      },
+      {
+        "source": "Sor",
+        "text": "."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "14",
+    "headword": "okok*",
+    "query": "okok*",
+    "page_ref": "1216:14",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "okokan",
+        "page_ref": "1216:14.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+        "definition": "the sound of (cow-)bells (Pn.)",
+        "citations": [
+          {
+            "source": "ST",
+            "text": "5.58: sapine saparan ipun karuṅu kaṅ okokane."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "15",
+    "headword": "ol",
+    "query": "ol",
+    "page_ref": "1216:15",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "= <b>hol</b>, q.v.",
+    "sub_entries": [
+      {
+        "sub_head": "olan",
+        "page_ref": "1216:15.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+        "definition": ", read ol lan",
+        "citations": [
+          {
+            "source": "Mal",
+            "text": "5.78a: apiṅgĕl kĕmitan silih ol lan tulak bot sabraṅ;"
+          },
+          {
+            "source": "Mal+",
+            "text": "11.37b: luṅ niṅ sikari apagut ol lan mandalika."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "16",
+    "headword": "olah I",
+    "query": "olah I",
+    "page_ref": "1216:16",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "(= <b>ulah</b>, q.v.) action, conduct etc.",
+    "sub_entries": [
+      {
+        "sub_head": "aṅolah, umolah",
+        "page_ref": "1216:16.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+        "definition": "(= <b>aṅulah</b>) to move, occupy os. with, etc.",
+        "citations": [
+          {
+            "source": "RL",
+            "text": "11.44: midĕr iṅ papraṅan, umolah astra gatik;"
+          },
+          {
+            "source": "ST",
+            "text": "2.3: sampunyâṅolah gĕluṅ, maṅkin aṅimbuhi ayu."
+          }
+        ]
+      },
+      {
+        "sub_head": "kaholah-olah",
+        "page_ref": "1216:16.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+        "definition": "(pf) to move, shake",
+        "citations": [
+          {
+            "source": "TP",
+            "text": "76.11: sira ta kaholah-olah śarīra nira, mataṅnya liṇḍū bhaṭārī pṛthiwī."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "KS",
+        "text": "2.143: pantĕs olahe prajurit."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "17",
+    "headword": "olah II",
+    "query": "olah II",
+    "page_ref": "1216:17",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "olah-olah",
+        "page_ref": "1216:17.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+        "definition": "to prepare food, cook",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "141.16: kady āsawuṅan asipĕt olah-olah adamar-damar amalaku duh."
+          }
+        ]
+      },
+      {
+        "sub_head": "inolah, iṅolah",
+        "page_ref": "1216:17.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1216&zoom=width",
+        "definition": "(pf) to prepare (food), cook",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "162.26: kinon ira ta yâmeta waṅke ... olahĕn (var. ulahĕn, ulahakĕn) gawayĕn taḍahan saṅ brāhmaṇa;"
+          },
+          {
+            "source": "RL",
+            "text": "4.82: aken ameta taḍah ... pakantuk ira sampun iṅolah uni;"
+          },
+          {
+            "source": "Td",
+            "text": "3.41a: wus kinon olahĕn tumuli ramya de nirâṅinum;"
+          },
+          {
+            "source": "Ww",
+            "text": "1.147b: antuk ira uny añjabuṅ sampun inolah;"
+          },
+          {
+            "source": "CA",
+            "text": "121.27: lawayanya iṅolah kinabasaṅ."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "18",
+    "headword": "olan",
+    "query": "olan",
+    "page_ref": "1217:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "see <i>walan</i> and ol.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "19",
+    "headword": "olap",
+    "query": "olap",
+    "page_ref": "1217:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "see <i>ulap</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "20",
+    "headword": "olĕr*",
+    "query": "olĕr*",
+    "page_ref": "1217:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "olĕr-olĕran",
+        "page_ref": "1217:3.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+        "definition": "?",
+        "citations": [
+          {
+            "source": "AWj",
+            "text": "40.5: lagy aṅgo mirah indranīla ... / len tekaṅ kadi ciṇḍagâgaligiran kadi pisaṅ arĕjolĕr-olĕran (Sup.: in bunches, lit. of many ulĕr)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "21",
+    "headword": "olih",
+    "query": "olih",
+    "page_ref": "1217:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "(= <b>ulih</b>, q.v.) result, yield",
+    "sub_entries": [
+      {
+        "sub_head": "iṅolih-olih",
+        "page_ref": "1217:4.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+        "definition": "(= <b>inulih-ulih</b>) to talk about, etc",
+        "citations": [
+          {
+            "source": "RL",
+            "text": "10.18: ṅur aja iṅolih-olih."
+          }
+        ]
+      },
+      {
+        "sub_head": "molihakĕn",
+        "page_ref": "1217:4.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+        "definition": "= <b>mulihakĕn</b>, q.v.",
+        "citations": [
+          {
+            "source": "Tk",
+            "text": "4.179a: ḍatĕṅ ta ya saṅ wanari molihakĕn taṅ sarwapala winehnya riṅ Nisada."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Kor",
+        "text": "52.28: saolih mamy amicāra śāstra; 88.8;"
+      },
+      {
+        "source": "KHWj",
+        "text": "1.54b: (putri) olih iṅ añjaya satru;"
+      },
+      {
+        "source": "Mal",
+        "text": "3.113b: norana olih ira piṅit;"
+      },
+      {
+        "source": "Ww(A)",
+        "text": "2.44a: akeh olih ira ambrasṭakĕn ripu;"
+      },
+      {
+        "source": "Ws",
+        "text": "1.50a: saoliha niṅ tiwas iṅsun pagu#te;"
+      },
+      {
+        "source": "Ws+",
+        "text": "2.119b: kaya dudu olih iṅ woṅ."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "22",
+    "headword": "olur",
+    "query": "olur",
+    "page_ref": "1217:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "= <b>ulur</b>, q.v.",
+    "sub_entries": [
+      {
+        "sub_head": "olur-olur, olur-oluran",
+        "page_ref": "1217:5.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+        "definition": "= <b>ulur-ulur</b>, q.v.",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "52.4: luṅsir bāṅ pinakolur-olur i pucak-pucak ika kadi luṅgah iṅ kilat;"
+          },
+          {
+            "source": "KD",
+            "text": "11.18: lwir i megha raṇḍi sumahab ri panahab ikaṅ olur-oluran."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ww",
+        "text": "1.145a: duruṅ katawis olur iṅ manah."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "23",
+    "headword": "om",
+    "query": "om",
+    "page_ref": "1217:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "indeed, verily, so be it; also as introduction to ceremonies or respectful address. Cf <i>oṅ</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "umom",
+        "page_ref": "1217:6.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+        "definition": "to say yes to, agree to, concur with",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "69.16: umom ta saṅ nātha yumogyani samaya mami;"
+          },
+          {
+            "source": "Udy",
+            "text": ";"
+          },
+          {
+            "source": "Utt",
+            "text": "59.20: umom bhaṭāra Brahmā ri sapininta nikaṅ Meghanāda;"
+          },
+          {
+            "source": "HW",
+            "text": "4.3: yan umom prayojana ... ;"
+          },
+          {
+            "source": "HWj",
+            "text": "5.5."
+          }
+        ]
+      },
+      {
+        "sub_head": "umomi",
+        "page_ref": "1217:6.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+        "definition": "idem",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "6.201: saṅ Raghuputra umomy anumoda."
+          }
+        ]
+      },
+      {
+        "sub_head": "umomakĕn, inomakĕn",
+        "page_ref": "1217:6.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+        "definition": "idem",
+        "citations": [
+          {
+            "source": "Wir",
+            "text": "55.15: sumahur momakĕne sapintanyeri sira;"
+          },
+          {
+            "source": "BhP",
+            "text": "68.12: takam wĕnaṅ umomakĕn ya;"
+          },
+          {
+            "source": "Utt",
+            "text": "43.2: mataṅ nyan inomakĕn ujar nikaṅ Rāwaṇa;"
+          },
+          {
+            "source": "HWj",
+            "text": "1.9."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "149.7: om ibu mami saṅ tamuy ... ;"
+      },
+      {
+        "source": "BhP",
+        "text": "129.14: om juga rakwa liṅ nira;"
+      },
+      {
+        "source": "BrP",
+        "text": "64.29: om wih inaka nika ṅūni;"
+      },
+      {
+        "source": "RY",
+        "text": "1.56: om om sājñā maharṣi;"
+      },
+      {
+        "source": "HW",
+        "text": "42.1: om indah ta bhaṭāra nātha Madhusūdana;"
+      },
+      {
+        "source": "BY",
+        "text": "51.27: ah om wehĕn siddhā wuwus iki ta Pāṇḍwaṅśa pĕjahi;"
+      },
+      {
+        "source": "BK",
+        "text": "56.1: om siṅgih kaka liṅta;"
+      },
+      {
+        "source": "Sum",
+        "text": "32.5: om haywa saṅśaya ri siddha niṅ antaśāpa;"
+      },
+      {
+        "source": "Sum+",
+        "text": "65.13: om om haywa miṅe;"
+      },
+      {
+        "source": "AWj",
+        "text": "26.4: ``bhoh bhoh saṅ wipra ... mapa kariki ṅ dharmâparimita'' / ``om om om boddha#dharmâkuśala'' sahur ira;"
+      },
+      {
+        "source": "Sut",
+        "text": "4.1: om putraṅku bhaṭāra Buddha;"
+      },
+      {
+        "source": "Sut+",
+        "text": "19.8: om saṅ narendrātmaja mājara ṅhulun;"
+      },
+      {
+        "source": "Sut+",
+        "text": "71.2: om rakryan sipi harṣa ni ṅwaṅ."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "24",
+    "headword": "oma*",
+    "query": "oma*",
+    "page_ref": "1217:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "(conn. with om, q.v. and cf <i>poma?</i>)",
+    "sub_entries": [
+      {
+        "sub_head": "aṅomani",
+        "page_ref": "1217:7.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+        "definition": "to initiate, consecrate?",
+        "citations": [
+          {
+            "source": "CA",
+            "text": "133.37: kinon saṅhulun aṅomani ri kita, kita ṅoṅ sĕḍĕpi."
+          }
+        ]
+      },
+      {
+        "sub_head": "paoman",
+        "page_ref": "1217:7.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+        "definition": "audience-hall?",
+        "citations": [
+          {
+            "source": "Kor",
+            "text": "38.25: magawea paoman uṅgwana niṅ maweh sewa (ib. passim);"
+          },
+          {
+            "source": "TP",
+            "text": "90.22: ikaṅ pustaka ... winawa nira mareṅ jro pahoman (not from homa)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "25",
+    "headword": "ombak",
+    "query": "ombak",
+    "page_ref": "1217:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "= <b>umbak</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KHWj",
+        "text": "5.75a: glĕḍĕg iṅ bĕḍil mwaṅ surak lwir ombak kumutug anĕmpuh paruṅ;"
+      },
+      {
+        "source": "KS",
+        "text": "2.155: lwir ombak iṅ sagara."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "26",
+    "headword": "oṃkāralakṣaṇa",
+    "query": "oṃkāralakṣaṇa",
+    "page_ref": "1217:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "(Skt) realization of the syllable oṃ (see <i>oṅ</i>)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "JñS",
+        "text": "76.4: oṃkāralakṣaṇa, kalakṣyan iṅ oṃkā#ra."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "27",
+    "headword": "on I",
+    "query": "on I",
+    "page_ref": "1217:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "= <b>yan</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "1.53: on lakweki si Rāma lumage muṅsuh maharṣi riṅ patapan / pĕjahâwās ya."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "28",
+    "headword": "on II",
+    "query": "on II",
+    "page_ref": "1217:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "see <i>hwan</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "29",
+    "headword": "ona",
+    "query": "ona",
+    "page_ref": "1217:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "?",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ww",
+        "text": "4.57b: akĕmĕr saha kĕnḍit ona rumakit karaṅ rupa."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "30",
+    "headword": "onta",
+    "query": "onta",
+    "page_ref": "1217:13",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "camel",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KD",
+        "text": "8.19: moṅ onta centĕn ... ; 8.24."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "31",
+    "headword": "oṅ (oṃ",
+    "query": "oṅ (oṃ",
+    "page_ref": "1217:14",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": ") (Skt) the sacred syllable (often as introduction to a mantra or formula of praise). See also <i>om</i>, <i>ahum</i>.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "211.19: maṅastuti ... liṅ nira: oṃ kamu hyaṅ Agni;"
+      },
+      {
+        "source": "BhP",
+        "text": "56.7: hana tâkṣara tuṅgal, oṃ liṅnya, yeka brahmamantra ṅaranya;"
+      },
+      {
+        "source": "RY",
+        "text": "21.140: oṅ riṅ ujār iṅ akṣara akārarūpa ta kita (to Rāma-Wiṣṇu);"
+      },
+      {
+        "source": "AWj",
+        "text": "1.1: oṅ (oṃ) śrī Parwatarājadewa;"
+      },
+      {
+        "source": "Sut",
+        "text": "53.1: oṅ Buddhastuti sĕmbah i ṅhulun;"
+      },
+      {
+        "source": "Nag",
+        "text": "1.1: oṃ nāthāya namo 'stu te stuti niṅ atpada."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "32",
+    "headword": "oṅkāra",
+    "query": "oṅkāra",
+    "page_ref": "1217:15",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "(Skt) the syllable oṅ (oṃ); to utter the syllable oṅ. See also <i>pañca-</i>, <i>sapta-</i>.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BhP",
+        "text": "54.12: riṅ sarwaweda mwaṅ mantra, oṅkāra pinakāwak ni ṅhulun (transl. of praṇa#waḥ); 56.22;"
+      },
+      {
+        "source": "SD",
+        "text": "1.9: oṅkārâdi śiwāṅga sandhi ... ;"
+      },
+      {
+        "source": "Sut",
+        "text": "40.4: oṅkāra praṇaweki muṅgu ri dalĕm twas;"
+      },
+      {
+        "source": "Kor",
+        "text": "14.24: maṅarcana saṅ Pāṇḍawa riṅ bhagawān Byāsa, paḍâṅastu#ti oṅkāra;"
+      },
+      {
+        "source": "Kor+",
+        "text": "22.26: (śiṣya) paḍa oṅkāra ri saṅ hyaṅ mūrti dewatā."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "33",
+    "headword": "oṅkāraśabda",
+    "query": "oṅkāraśabda",
+    "page_ref": "1217:16",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "(Skt) the sound of the syllable oṅ",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wṛh",
+        "text": "57.1: hana oṅkāraśabda umuṅgw iṅ hati, ya teka dhāraṇan. Yapwan hilaṅ ika nora karĕṅö ... yeka Śiwātma ṅaranya."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "34",
+    "headword": "oṅkārātma",
+    "query": "oṅkārātma",
+    "page_ref": "1217:17",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "(Skt) the essence of the syllable oṅ",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "HWj",
+        "text": "1.5: oṅkārātma kiteṅ tri eka atisūkṣma."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "35",
+    "headword": "oṅsi*",
+    "query": "oṅsi*",
+    "page_ref": "1217:18",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+    "definition": "= <b>uṅsi</b>, q.v.",
+    "sub_entries": [
+      {
+        "sub_head": "inoṅsi",
+        "page_ref": "1217:18.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1217&zoom=width",
+        "definition": "= <b>inuṅsi</b>",
+        "citations": [
+          {
+            "source": "KS",
+            "text": "2.5: brata saṅ suradarma-ksatriya rakwa inoṅsi (ib. 4x);"
+          },
+          {
+            "source": "RL",
+            "text": "1.56: pinrih luputenoṅsih."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "36",
+    "headword": "oṅsya",
+    "query": "oṅsya",
+    "page_ref": "1218:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "see <i>hosya</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "37",
+    "headword": "oñjal*",
+    "query": "oñjal*",
+    "page_ref": "1218:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "= <b>uñjal</b>, q.v.",
+    "sub_entries": [
+      {
+        "sub_head": "iṅoñjal",
+        "page_ref": "1218:2.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+        "definition": "(pf) to fetch, bring",
+        "citations": [
+          {
+            "source": "RL",
+            "text": "7.141: kimita taṅ barana iṅoñjal eṅ Maja-Pahit."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "38",
+    "headword": "opadeśa",
+    "query": "opadeśa",
+    "page_ref": "1218:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "= <b>upadeśa</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Kor",
+        "text": "42.13: winarahan paṅopadeśa."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "39",
+    "headword": "opak* I",
+    "query": "opak* I",
+    "page_ref": "1218:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "iṅopak",
+        "page_ref": "1218:4.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+        "definition": "(pf) to make love to? (cf <i>upuk</i>); to strengthen, encourage? (cf <i>opak</i> II)",
+        "citations": [
+          {
+            "source": "Mal",
+            "text": "4.1b: asriṅ iṅopak polah irâṅalisus wisayâgawe papati;"
+          },
+          {
+            "source": "Mal+",
+            "text": "9.153a: muṅguha iṅoṅ kaya iku iṅopak tumuli nora ḍewek ḍewe aṅawag;"
+          },
+          {
+            "source": "Ws",
+            "text": "3.21b: anahuri smita saṅ iṅopak amrahasana aṅisapwan."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "40",
+    "headword": "opak* II",
+    "query": "opak* II",
+    "page_ref": "1218:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "opak-opakan",
+        "page_ref": "1218:5.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+        "definition": "part of a shield (decoration? band to hold it together?)",
+        "citations": [
+          {
+            "source": "ST",
+            "text": "7.81: opak-opakĕn (read opak-opakan) paresi kombala putih lyan abaṅ."
+          }
+        ]
+      },
+      {
+        "sub_head": "iṅopak-opak",
+        "page_ref": "1218:5.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+        "definition": "(pf) to provide with an opak-opakan?",
+        "citations": [
+          {
+            "source": "RL",
+            "text": "11.204: (parisya) iṅopak-opak atutuṅkul mas adi."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "41",
+    "headword": "opaya",
+    "query": "opaya",
+    "page_ref": "1218:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "= <b>upāya</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RL",
+        "text": "1.77: kĕneṅ opaya sidi."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "42",
+    "headword": "opeksa",
+    "query": "opeksa",
+    "page_ref": "1218:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "= <b>upekṣa</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RL",
+        "text": "4.116: anamar tan opeksa (ib. 3x)."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "43",
+    "headword": "opwan",
+    "query": "opwan",
+    "page_ref": "1218:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "= <b>yapwan</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RY",
+        "text": "22.37: opwan linawan weh tinukar / kepwan pwa ya maṅkin magalak."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "44",
+    "headword": "or*",
+    "query": "or*",
+    "page_ref": "1218:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "= <b>wor</b>, mingled",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KHWj",
+        "text": "2.72b: bĕḍil kumutug aor lawan surak; 2.108b."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "45",
+    "headword": "ora",
+    "query": "ora",
+    "page_ref": "1218:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "not (cf <i>tanora</i>, <i>nora</i>)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Kor",
+        "text": "102.30: orâweh mami ibu; 108.11;"
+      },
+      {
+        "source": "Kor+",
+        "text": "198.27: ``ora lawas nikaṅ gopura ... duk kinarya?''. ``Nora lawas tanayaṅku'';"
+      },
+      {
+        "source": "KS",
+        "text": "2.207: oreṅsun pacidra, meṅĕt eṅ krama sura;"
+      },
+      {
+        "source": "RL",
+        "text": "8.21: kaṅ iya sida ora;"
+      },
+      {
+        "source": "RL+",
+        "text": "9.82: iya ujar ira oreṅsun pacidra;"
+      },
+      {
+        "source": "RL+",
+        "text": "11.94: towi yan dalu apraṅ, salah sĕṅguh dudu uṅsi, kaṅ iya ora atĕmah yukti;"
+      },
+      {
+        "source": "Ws",
+        "text": "2.11b: ora kaya praṅ buruh praṅ iki;"
+      },
+      {
+        "source": "Ws+",
+        "text": "2.90a: ora sasar saṅ prabu;"
+      },
+      {
+        "source": "Sor",
+        "text": "1.60: ada (?) ya ora mon tan katujw iṅ ati;"
+      },
+      {
+        "source": "Sor+",
+        "text": "3.21: sida ya ora mon kita tâmisiṅgih (read tan misiṅgih?)."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "46",
+    "headword": "oragāstra",
+    "query": "oragāstra",
+    "page_ref": "1218:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "(= <b>uragāstra</b>) serpent-arrow",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Knt",
+        "text": "18.9: śīrṇa niṅ oragāstra."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "47",
+    "headword": "oraṅ",
+    "query": "oraṅ",
+    "page_ref": "1218:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "(mal.) people",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KS",
+        "text": "1.16a: kabar oraṅ iṅ parahu, duta sirânak ira sampun aṅombali."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "48",
+    "headword": "orasaputra",
+    "query": "orasaputra",
+    "page_ref": "1218:13",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "(Skt aurasaputra) own son, legitimate son",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "71.5: tumon iṅ Sarwadamana sākṣāt orasaputra."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "49",
+    "headword": "orĕg",
+    "query": "orĕg",
+    "page_ref": "1218:14",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "in commotion (cf <i>wrĕg</i>)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KS",
+        "text": "1.36a: orĕg sanagareṅ Sunḍa ... praya luṅhâṅajawi;"
+      },
+      {
+        "source": "KS+",
+        "text": "2.37: orĕg aguḍuhan;"
+      },
+      {
+        "source": "RL",
+        "text": "3.1: orĕg sarajya de niṅ tabuh-tabuhan;"
+      },
+      {
+        "source": "RL+",
+        "text": "7.107: orĕg woṅ Dahâgiṅsir;"
+      },
+      {
+        "source": "RL+",
+        "text": "11.230: abĕnturan minanya orĕg umĕsat;"
+      },
+      {
+        "source": "Mal",
+        "text": "9.52b: orĕg saṅ mantrî prapta nira Pañji;"
+      },
+      {
+        "source": "Tk",
+        "text": "4.335b: paḍa mĕgil orĕg tĕkeṅ tribuwana gadgada."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "50",
+    "headword": "ori",
+    "query": "ori",
+    "page_ref": "1218:15",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "see <i>hori</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "51",
+    "headword": "orob* (ṅorob*",
+    "query": "orob* (ṅorob*",
+    "page_ref": "1218:16",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "?)",
+    "sub_entries": [
+      {
+        "sub_head": "aṅorob",
+        "page_ref": "1218:16.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+        "definition": "to blaze, burn",
+        "citations": [
+          {
+            "source": "Td",
+            "text": "3.78b: ah paran anahut wisane sandi (read mandi?) sumĕk ṅantĕk aṅorob."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "52",
+    "headword": "oru*",
+    "query": "oru*",
+    "page_ref": "1218:17",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "koruhoru",
+        "page_ref": "1218:17.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+        "definition": "?",
+        "citations": [
+          {
+            "source": "Ww",
+            "text": "1.51b: pan sesṭipraya koruhoru sinamapteṅ kapti acaṅkrameṅ pasir parwata."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "53",
+    "headword": "os",
+    "query": "os",
+    "page_ref": "1218:18",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "see <i>hos</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "54",
+    "headword": "oṣadha",
+    "query": "oṣadha",
+    "page_ref": "1218:19",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "(Skt auṣadha, herbs used in medicine, drugs, medicine in general) medicine. See also <i>bāhya-</i>, <i>mahā-</i>, <i>nir-</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "maṅoṣadhani",
+        "page_ref": "1218:19.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+        "definition": "to administer medicine to",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "51.25: prayojana nira n maṅoṣadhanane saṅ prabhu;"
+          },
+          {
+            "source": "RY",
+            "text": "26.30: saṅ kāsih-āsih alulut sira toṣadhāna;"
+          },
+          {
+            "source": "AbhW",
+            "text": "67.5: tan inoṣadhan."
+          }
+        ]
+      },
+      {
+        "sub_head": "koṣadhan",
+        "page_ref": "1218:19.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+        "definition": "(pvs)",
+        "citations": [
+          {
+            "source": "Wir",
+            "text": "7.18: (Kṛṣṇa Dwaipāyana) saṅ widagdha ri koṣadhan iṅ strī kalĕkasan āpaddharma."
+          }
+        ]
+      },
+      {
+        "sub_head": "paṅoṣadha",
+        "page_ref": "1218:19.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+        "definition": "medicine",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "60.1: pupur nika wĕnaṅ paṅoṣadha pilĕk iṅ iruṅ;"
+          },
+          {
+            "source": "AbhW",
+            "text": "11.11: paṅoṣadha nikaṅ rimaṅ."
+          }
+        ]
+      },
+      {
+        "sub_head": "poṣadhan",
+        "page_ref": "1218:19.4",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+        "definition": "place where one seeks a cure",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "60.1: agĕluṅ ahayu poṣadhan lulut."
+          }
+        ]
+      },
+      {
+        "sub_head": "tan poṣadhan",
+        "page_ref": "1218:19.5",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+        "definition": "incurable",
+        "citations": [
+          {
+            "source": "Udy",
+            "text": "113.22: tan poṣadhan hĕnĕk nikaṅ hati;"
+          },
+          {
+            "source": "BK",
+            "text": "24.7: (hati) tan poṣadhan i manista maṅlare twas."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "52.10: aparan ikaṅ oṣadhanta yan huwus i tĕka niṅ patinya;"
+      },
+      {
+        "source": "Ad+",
+        "text": "52.14: aku tumambāna riṅ mantroṣadha sarpabiṣa; 51.24;"
+      },
+      {
+        "source": "Udy",
+        "text": "39.7: ika si kawaluyan iṅ rājya ri saṅ Pāṇḍawa, aṅhiṅ ya wĕnaṅa paramāmṛtoṣadha;"
+      },
+      {
+        "source": "BrP",
+        "text": "111.29: tan hana dharma, syuh taṅ wana-gahana-parwa#tādi, ilaṅ taṅ oṣadha (w. read for oṣadhi?);"
+      },
+      {
+        "source": "Sl",
+        "text": "51.5: ikaṅ oṣadha maweh sukha mamarasa#kĕn iṅ awak;"
+      },
+      {
+        "source": "RY",
+        "text": "5.77: kita yatikâmṛtoṣadha niraṅ kĕna kāmaśara;"
+      },
+      {
+        "source": "RY+",
+        "text": "6.28: ri hati nirâṅhiṅ Maithilī oṣadhâtah;"
+      },
+      {
+        "source": "RY+",
+        "text": "8.125: aku toṣadhā lumipura ṅ putĕk hati;"
+      },
+      {
+        "source": "BK",
+        "text": "32.13: apa ta pakoṣadha ni ṅwaṅ akūṅ;"
+      },
+      {
+        "source": "Sum",
+        "text": "54.3: tambā rāga siroṣadha prihati jampi turida pinakāmṛteṅ rimaṅ;"
+      },
+      {
+        "source": "Sut",
+        "text": "94.3: tayoṣadha tayâwlas."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "55",
+    "headword": "oṣadhawedya",
+    "query": "oṣadhawedya",
+    "page_ref": "1218:20",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "(for widyā?) the knowledge of medicine",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Wir",
+        "text": "11.24: wruheṅ kalpaśāstra tĕkeṅ oṣadhawedya paṅriṅriṅ kuda."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "56",
+    "headword": "oṣadhi",
+    "query": "oṣadhi",
+    "page_ref": "1218:21",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1218&zoom=width",
+    "definition": "(Skt herb, plant, esp. any medicinal herb) See also <i>mahā-</i>, <i>parama-</i>. 1. herbs 2. medicinal herb, medicine",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "133.3: ikaṅ gunuṅ ... kapwa kinahanan riṅ oṣadhi latā;"
+      },
+      {
+        "source": "BrP+",
+        "text": "154.9: ṅkāna ta paṅalapan bhaṭārâświnodewa oṣadhi;"
+      },
+      {
+        "source": "AgP",
+        "text": "382.1: wṛkṣa tṛṇoṣadhi gulma latā wanaspati prabhṛtih;"
+      },
+      {
+        "source": "RY",
+        "text": "2.28: oṣadhi anuṅ tinanĕm maharṣi. Among the implements of a sacrifice:"
+      },
+      {
+        "source": "BhP",
+        "text": "56.19: ṅhulun yajña ṅhulun swadhā, ṅhulun oṣadhi, ṅhulun mantra, ṅhulun miñak, ṅhulun śiwāgni, ṅhulun pinakapūjā;"
+      },
+      {
+        "source": "RY",
+        "text": "1.29: oṣadhi len phala mūla mwaṅ kĕmbaṅ gandha dhūpādi."
+      },
+      {
+        "source": "RY",
+        "text": "25.92: (kaṇḍuyuhan) pinakoṣadhi ya prasiddha;"
+      },
+      {
+        "source": "GK",
+        "text": "38.4: wiṣa paramārtha duhkha nira Pārthaputra sira tâṅkĕn oṣadhilatā;"
+      },
+      {
+        "source": "AWj",
+        "text": "66.1: saṅ hyaṅ hyaṅ iṅ Narmadā / ... amawâṅ oṣadhi;"
+      },
+      {
+        "source": "AWj+",
+        "text": "66.3: tan dwa yar kucurakĕn taṅ tīrtha śuddhoṣadhi;"
+      },
+      {
+        "source": "Sut",
+        "text": "4.9: lwir tīrtha śuddhoṣadhi;"
+      },
+      {
+        "source": "Sut+",
+        "text": "36.6: tamboṣadhîṅ aṅga;"
+      },
+      {
+        "source": "KHWj",
+        "text": "1.11b: tatan ana osadi wĕnaṅ#yan amarasana;"
+      },
+      {
+        "source": "KS",
+        "text": "3.63: marma niṅ agriṅ akiṅkiṅ tan ana niṅ osadi."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "57",
+    "headword": "oṣadhilatā",
+    "query": "oṣadhilatā",
+    "page_ref": "1219:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+    "definition": "(Skt) medicinal (creeping or winding) plant",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "133.3: kinahanan riṅ oṣadhilatā;"
+      },
+      {
+        "source": "RY",
+        "text": "23.31: maluyâṅhurip śawa sawet ni siddhi nikanaṅ mahoṣadhilatā;"
+      },
+      {
+        "source": "SD",
+        "text": "4.17: söṅsöṅ niṅ oṣadhilatā kumĕñar damarnya."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "58",
+    "headword": "osah, hosah",
+    "query": "osah, hosah",
+    "page_ref": "1219:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+    "definition": "(the base-word is apparently osah; an unambiguous usah does not occur and <i><b>RY</b></i> has once hosah)",
+    "sub_entries": [
+      {
+        "sub_head": "osah, mosah, ahosah",
+        "page_ref": "1219:2.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+        "definition": "uneasy, disquieted, restless; to move restlessly, to toss and turn.",
+        "citations": [
+          {
+            "source": "BhP",
+            "text": "120.15: bhawiṣyâkĕcap osah aṅĕṭṭahāsa sira ... abaṅ mata nira sawet niṅ krodha;"
+          },
+          {
+            "source": "RY",
+            "text": "6.23: maṅĕlih mosah gĕlānomĕhah;"
+          },
+          {
+            "source": "RY+",
+            "text": "6.26: mosah mosyan asiṅ paran tinut;"
+          },
+          {
+            "source": "RY+",
+            "text": "6.31: salahasa sira mosah;"
+          },
+          {
+            "source": "RY+",
+            "text": "6.55: awak apanas ahosah de nikaṅ krodhabahni;"
+          },
+          {
+            "source": "RY+",
+            "text": "9.21: makabalasah durbala paḍa mosah;"
+          },
+          {
+            "source": "RY+",
+            "text": "12.9: n pawuṅu ya mosah maṅlih;"
+          },
+          {
+            "source": "RY+",
+            "text": "15.55: mosah aṅĕsah;"
+          },
+          {
+            "source": "RY+",
+            "text": "17.2: mosah prapañca balisah;"
+          },
+          {
+            "source": "RY+",
+            "text": "19.85: mosah mosik asāk tinūt ya malayū;"
+          },
+          {
+            "source": "RY+",
+            "text": "21.242: tinūtakĕn anūtakĕn osah osyan;"
+          },
+          {
+            "source": "RY+",
+            "text": "21.175: glānomĕṅgah mosah aṅĕmbus hana mūrchā;"
+          },
+          {
+            "source": "HW",
+            "text": "20.6: wihaṅ osah kinayuh lume lumiṅsir;"
+          },
+          {
+            "source": "GK",
+            "text": "5.12: akĕdal-kĕdalan osah onĕk awĕdi n lumakw aḍarata;"
+          },
+          {
+            "source": "GK+",
+            "text": "14.6: turuṅ mrĕm osah aṅĕsah mĕhah makusikan;"
+          },
+          {
+            "source": "GK+",
+            "text": "15.1: twas ira rumaras osah tan śobhâkĕtĕ-kĕtĕgĕn;"
+          },
+          {
+            "source": "GK+",
+            "text": "26.11: inarĕkan osah aṅrĕṅih;"
+          },
+          {
+            "source": "GK+",
+            "text": "46.4: osah aṅisĕk-isĕk epu;"
+          },
+          {
+            "source": "SD",
+            "text": "14.4: wwai niṅ pañcuran osah ardha kapiluh tĕkap i taṅis ira;"
+          },
+          {
+            "source": "SD+",
+            "text": "14.11: prihatin osah amulati tawaṅ;"
+          },
+          {
+            "source": "SD+",
+            "text": "40.2: osah priṅnya;"
+          },
+          {
+            "source": "Sum",
+            "text": "24.1: kady āhöm turidanya n osah akĕcap lwir anicipi manis nṛpātmaja;"
+          },
+          {
+            "source": "AWj",
+            "text": "60.6: awrĕg osah alayū;"
+          },
+          {
+            "source": "Sut",
+            "text": "15.5: mapa hetu niṅ osah ambĕk;"
+          },
+          {
+            "source": "Sut+",
+            "text": "54.3: (Śiwa et al.) jrih kumyus osah tĕkap iṅ mahāsura;"
+          },
+          {
+            "source": "Sut+",
+            "text": "114.11: mīnosah kakĕbur pĕjah kalinĕtan;"
+          },
+          {
+            "source": "PYñ",
+            "text": "37.9: madrĕs wĕtunya ri matâmuharosah aṅlih;"
+          },
+          {
+            "source": "AbhW",
+            "text": "30.21: tan anumaneṅ ... anaknya sapijĕrnya mosah alayū;"
+          },
+          {
+            "source": "Knt",
+            "text": "4.14: tĕkap i (w)usuk ikosah sampun sah lĕwas ananā;"
+          },
+          {
+            "source": "Knt+",
+            "text": "6.14: swargâkweh kāṇḍĕh osah katawurag alayū;"
+          },
+          {
+            "source": "Knt+",
+            "text": "25.7: Korawabala mawrĕg osah ambĕk;"
+          },
+          {
+            "source": "KD",
+            "text": "6.41: bañu nikaṅ tasik ardha mosah;"
+          },
+          {
+            "source": "Kor",
+            "text": "202.1: trayala ṅaran iṅ prihatin osah ambĕk kalaran;"
+          },
+          {
+            "source": "Kor+",
+            "text": "202.12: kĕneṅ osah mĕṅgah kĕsah;"
+          },
+          {
+            "source": "Mal",
+            "text": "11.31a: osah wuluh kaṅinan;"
+          },
+          {
+            "source": "Mal+",
+            "text": "11.37b: aṅsoka kumlab katub iṅ aṅin lwir osah;"
+          },
+          {
+            "source": "Ws",
+            "text": "4.25a: padapa kaṅinan mlĕcut lwir osah iṅ hasta anĕhak jaja."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅosahi",
+        "page_ref": "1219:2.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+        "definition": "to trouble, molest?",
+        "citations": [
+          {
+            "source": "Mal",
+            "text": "2.75a: pĕcuknyâṅosahi waliwis amet maṅsa aṅrĕbut;"
+          },
+          {
+            "source": "Ww(A)",
+            "text": "1.97a: manuk pĕcuknyâṅosahi ulam muṅgw iṅ groṅ niṅ paraṅ."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "59",
+    "headword": "oṣṭha",
+    "query": "oṣṭha",
+    "page_ref": "1219:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+    "definition": "(Skt) lip",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AWj",
+        "text": "4.9: kumĕtĕr toṣṭha saṅ Rāwaṇojar;"
+      },
+      {
+        "source": "Sut",
+        "text": "31.9: oṣṭhanya cañcala baṅun gaja matta rodra."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "60",
+    "headword": "oṣṭra, hoṣṭra, koṣṭra, ṅoṣṭra",
+    "query": "oṣṭra, hoṣṭra, koṣṭra, ṅoṣṭra",
+    "page_ref": "1219:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+    "definition": "(?) (= <b>uṣṭra</b>, q.v.) camel",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "AWj",
+        "text": "22.5: kagyat de niṅ kudoṣṭrâṅhrik;"
+      },
+      {
+        "source": "AWj+",
+        "text": "49.14: 46.6: huṅ niṅ gaja ratha kuda ṅoṣṭra śaṅkha tinulup;"
+      },
+      {
+        "source": "Sut",
+        "text": "90.7: kuda nira len gajoṣṭra; 130.15;"
+      },
+      {
+        "source": "Sut+",
+        "text": "97.10: hastīndra len turaga gardabha ṅoṣṭra bhasman;"
+      },
+      {
+        "source": "RPWj",
+        "text": "17.14: lwir hoṣṭrâdhama tinawan sakeṅ wanādri / ṅkāne pañjara (Rāwaṇa); 49.1c(8): sawaṅ siṅha rodrā manon hoṣṭra;"
+      },
+      {
+        "source": "KD",
+        "text": "33.6: aśwa koṣṭra (read hoṣṭra?) paḍa māti."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "61",
+    "headword": "ośwāsa",
+    "query": "ośwāsa",
+    "page_ref": "1219:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+    "definition": "(= <b>uśwāsa</b>, q.v.) breath",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "HWj",
+        "text": "30.6: aṅdadi bāyubajra mĕsĕs ośwāsa#nya;"
+      },
+      {
+        "source": "KD",
+        "text": "31.2: rawis nira sinirir iṅ ośwasomĕ#sĕs."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "62",
+    "headword": "osya",
+    "query": "osya",
+    "page_ref": "1219:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+    "definition": "see <i>hosya</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "63",
+    "headword": "otar",
+    "query": "otar",
+    "page_ref": "1219:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+    "definition": "see <i>utar</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "64",
+    "headword": "otĕk",
+    "query": "otĕk",
+    "page_ref": "1219:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+    "definition": "(= <b>utĕk</b>, q.v.) brains",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "RPWj",
+        "text": "49.1a(9): multak otĕknya;"
+      },
+      {
+        "source": "Knt",
+        "text": "22.1d."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "65",
+    "headword": "otot, otwat",
+    "query": "otot, otwat",
+    "page_ref": "1219:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+    "definition": "muscle",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "149.26: ibĕk otot awak nira de niṅ kuru;"
+      },
+      {
+        "source": "BrP(k)",
+        "text": "13.8: otwat kewala tan hana n dagiṅ ira kurw awĕnĕs;"
+      },
+      {
+        "source": "RY",
+        "text": "19.85: mār maṅkĕp kanin iṅ kĕneṅ tĕtĕk urat hototnya sampun pĕgat;"
+      },
+      {
+        "source": "SD",
+        "text": "8.15: otwat mār jariji pĕgat hilaṅ kukunya (sic KBW; Pb. reads utwat);"
+      },
+      {
+        "source": "Kor",
+        "text": "130.22: saṅ hyaṅ atal-ĕpit iṅ otot; 130.30;"
+      },
+      {
+        "source": "NR",
+        "text": "45.9: Metri riṅ otot; 46.2."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "66",
+    "headword": "otwat",
+    "query": "otwat",
+    "page_ref": "1219:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+    "definition": "see <i>otot</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 16
+  },
+  {
+    "id": "67",
+    "headword": "owah",
+    "query": "owah",
+    "page_ref": "1219:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+    "definition": "(= <b>uwah</b>, q.v.) to change",
+    "sub_entries": [
+      {
+        "sub_head": "tan owah",
+        "page_ref": "1219:11.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+        "definition": "unchanging, steadfast",
+        "citations": [
+          {
+            "source": "KHWj",
+            "text": "1.48a: kahyun isun tan owaha riṅ sapum;"
+          },
+          {
+            "source": "KHWj+",
+            "text": "3.70a: tan owah kapti."
+          }
+        ]
+      },
+      {
+        "sub_head": "iṅowah",
+        "page_ref": "1219:11.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+        "definition": "(pf) to change (tr.)",
+        "citations": [
+          {
+            "source": "RL",
+            "text": "9.14: maṅke koṅaṅ iṅowah."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅowahi, inowahan",
+        "page_ref": "1219:11.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1219&zoom=width",
+        "definition": " 1. to change (tr.), deviate from, evade 2. to cause so. to change (his mind)?",
+        "citations": [
+          {
+            "source": "Kor",
+            "text": "94.15: ayogañca ṅaran iṅ aṅowahi ambĕk kadurga;"
+          },
+          {
+            "source": "Kor+",
+            "text": "114.8: maharṣi ṅaran iṅ aṅowahi ciptâlĕtuh;"
+          },
+          {
+            "source": "KHWj",
+            "text": "3.88a: andulu liwat derâpanuju tan aṅowahi panon;"
+          },
+          {
+            "source": "KHWj+",
+            "text": "5.31b: maseṅsun aṅowahi malih sojare uwâdipati;"
+          },
+          {
+            "source": "KHWj+",
+            "text": "6.4b: asambaweṅsun aṅowahi samayeṅ uni;"
+          },
+          {
+            "source": "Td",
+            "text": "1.42a: tan paṅowahi dulu kascaryan; 4.40b;"
+          },
+          {
+            "source": "Ws",
+            "text": "4.44b;"
+          },
+          {
+            "source": "NR",
+            "text": "47.23: tan sabdacapala ṅaranya tan paṅowahi sabda."
+          },
+          {
+            "source": "Mal",
+            "text": "5.31a: srĕṅĕn aṅucap: paran rĕko dosa niṅsun iṅowahan budi."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "NR",
+        "text": "84.15: owah rupa nira."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "68",
+    "headword": "owĕl",
+    "query": "owĕl",
+    "page_ref": "1220:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1220&zoom=width",
+    "definition": "reluctant to be separated, dejected at being separated",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ws",
+        "text": "1.45b: aḍuh ĕnti owĕl iṅsun yen sira tulusa mati."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "69",
+    "headword": "oya I",
+    "query": "oya I",
+    "page_ref": "1220:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1220&zoom=width",
+    "definition": "(= <b>wwaya</b>, q.v., in kidungs) to be (there, present). See also <i>woya</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "oyan",
+        "page_ref": "1220:2.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1220&zoom=width",
+        "definition": "= <b>hanan</b>, see <i>hana</i>.",
+        "citations": [
+          {
+            "source": "SS",
+            "text": "470.2: oyan uṅgwa riṅ ākāśa ... oyan uṅgwa riṅ lĕmah."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "KHWj",
+        "text": "1.40a: sampun oyâneṅ paṅastryan;"
+      },
+      {
+        "source": "KHWj+",
+        "text": "2.29a: sri paduka sori oya riṅ witana;"
+      },
+      {
+        "source": "RL",
+        "text": "1.142: oya sira yayestri;"
+      },
+      {
+        "source": "Td",
+        "text": ";"
+      },
+      {
+        "source": "Tk",
+        "text": ";"
+      },
+      {
+        "source": "Ww",
+        "text": ";"
+      },
+      {
+        "source": "Sor",
+        "text": "."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "70",
+    "headword": "oya II",
+    "query": "oya II",
+    "page_ref": "1220:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1220&zoom=width",
+    "definition": "= <b>honya</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Kor",
+        "text": "104.1: winehakĕn pwa ya: oya ibu (here it is!)."
+      }
+    ],
+    "group_id": 16
+  },
+  {
+    "id": "71",
+    "headword": "oyuh",
+    "query": "oyuh",
+    "page_ref": "1220:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=1220&zoom=width",
+    "definition": "an exclamation of defiance or contempt. Cf <i>yuh</i>. ",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Sum",
+        "text": "32.2: oyuh gajah tĕmahanamwa maran mari hyaṅ;"
+      },
+      {
+        "source": "AWj",
+        "text": "8.3: oyuh koṅ rākṣasâdhah gada tarima;"
+      },
+      {
+        "source": "AWj+",
+        "text": "56.5: oyuh koṅ bala tucchabuddhi;"
+      },
+      {
+        "source": "Sut",
+        "text": "56.1: oyuh t aṅsö payuddha."
+      }
+    ],
+    "group_id": 16
+  }
+]

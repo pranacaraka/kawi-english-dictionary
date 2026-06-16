@@ -1,0 +1,4923 @@
+[
+  {
+    "id": "1",
+    "headword": "öb",
+    "query": "öb",
+    "page_ref": "453:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "see <i>höb</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "2",
+    "headword": "ĕbab",
+    "query": "ĕbab",
+    "page_ref": "453:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "see <i><b>BY</b></i> 29.14 under ĕbak.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "3",
+    "headword": "ĕbak, hĕbak*",
+    "query": "ĕbak, hĕbak*",
+    "page_ref": "453:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "(<i><b>KBW</b></i> gives hinĕbak under hĕbak and aṅĕbak under kĕbak; there is no evidence for a base-word kĕbak)",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕbak, hinĕbak",
+        "page_ref": "453:4.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+        "definition": "to attack, rush forward, bear down, wade in?",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "15.55: wijah aṅĕbak parĕṅ tumĕḍun iṅ lĕbak;"
+          },
+          {
+            "source": "BY",
+            "text": "27.10: mātaṅgâṅdĕmak sewu maṅuliṅ aṅĕbak śīrṇa kombak sakāmbah;"
+          },
+          {
+            "source": "BY+",
+            "text": "27.14: śīghrâṅsö Bāyuputrâṅĕbak aṅubat-abit riṅ gadā;"
+          },
+          {
+            "source": "BY+",
+            "text": "28.1: Bhīmâṅĕbak lĕpas amūk;"
+          },
+          {
+            "source": "BY+",
+            "text": "29.1: gumuntur taṅ pekâśwa gaja maṅĕbak lwir giri rĕbah;"
+          },
+          {
+            "source": "BY+",
+            "text": "29.14: mamĕluk olih pyah inĕbak (thus KBW; Gunning reads inĕbab, but with var. inĕbak, inĕbĕb; ĕbab otherwise not found, while ĕbĕb is);"
+          },
+          {
+            "source": "SD",
+            "text": "34.2: sĕḍĕṅ i pamūk saṅ asurapati maṅkin aṅĕbak apulaṅ rudhira gĕrĕgĕtĕn;"
+          },
+          {
+            "source": "BK",
+            "text": "32.4: śīghra maṅĕbak mahawan palapat;"
+          },
+          {
+            "source": "BK+",
+            "text": "88.21: rodra paḍâṅhĕbak malaga riṅ rudhira macacaban;"
+          },
+          {
+            "source": "Sut",
+            "text": "63.2: luh aṅĕbak ri pipi sumarasah mareṅ kapö (here = aṅĕbĕk, see kĕbĕk?);"
+          },
+          {
+            "source": "Sut+",
+            "text": "74.4: kapoyuh aṅĕbak paḍa tĕlĕs amarantyakĕn guyu (= aṅĕbĕk?);"
+          },
+          {
+            "source": "Sut+",
+            "text": "132.6: sākṣāt guntur ... maṅĕbak riṅ Kurukṣetrabhūmi (= aṅĕbĕk?);"
+          },
+          {
+            "source": "AbhW",
+            "text": "30.3: ndan agah-agah maṅambah i watĕk-watĕknya maṅĕbak paḍâlap-alapan;"
+          },
+          {
+            "source": "AbhW+",
+            "text": "33.7: asĕlur saroṣâṅĕbak;"
+          },
+          {
+            "source": "HWj",
+            "text": "46.2: maṅkin syuh hinĕbak bubar binuru niṅ gajendra;"
+          },
+          {
+            "source": "Knt",
+            "text": "50.2: len tekaṅ maṅĕbak rikeṅ rudhirasāgara;"
+          },
+          {
+            "source": "AS(A)",
+            "text": "13.9: priṅga-priṅga wiśīrṇa hĕnti kapipis de niṅ rathāṅgâṅĕbak;"
+          },
+          {
+            "source": "Rtn",
+            "text": "11.7;"
+          },
+          {
+            "source": "Sor",
+            "text": "8.84: Lĕmbu-Pĕtĕṅ pramuka niṅ bala wirâṅĕbak aṅobat-abit kadi gajah alas."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕbakakĕn",
+        "page_ref": "453:4.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+        "definition": "to drive, urge forward",
+        "citations": [
+          {
+            "source": "AbhW",
+            "text": "50.10: kapwâmrih maṅduk iṅ tomara maṅĕbakakĕn sāmajâsraṅ lumaṅkuṅ."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "4",
+    "headword": "ĕban",
+    "query": "ĕban",
+    "page_ref": "453:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "= <b>krĕṇḍa</b>, see <i>s</i>.v. <i><b>KBW</b></i> s.v.) ĕban and bun III thinks that the reading should be ĕbun.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "5",
+    "headword": "ĕbaṅ",
+    "query": "ĕbaṅ",
+    "page_ref": "453:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "see <i>hĕbaṅ</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "6",
+    "headword": "ĕbas*",
+    "query": "ĕbas*",
+    "page_ref": "453:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "inĕbas",
+        "page_ref": "453:7.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+        "definition": "(pf) to cut off?",
+        "citations": [
+          {
+            "source": "HWj",
+            "text": "49.18: bāhunya rampuṅ inĕbas kapalanya runtuh."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "7",
+    "headword": "ĕbĕb*",
+    "query": "ĕbĕb*",
+    "page_ref": "453:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "= <b>ĕbab</b>, ĕbak (see <i><b>BY</b></i> 29.14 under ĕbak)? = <b>ĕbas</b>, q.v.?",
+    "sub_entries": [
+      {
+        "sub_head": "inĕbĕb",
+        "page_ref": "453:8.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+        "definition": "",
+        "citations": [
+          {
+            "source": "Knt",
+            "text": "43.2: dudwekaṅ tinĕwĕr gulūnya n inĕbĕb rahnyâcrĕt."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "8",
+    "headword": "ĕbun I",
+    "query": "ĕbun I",
+    "page_ref": "453:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "see <i>bun</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "9",
+    "headword": "ĕbun II",
+    "query": "ĕbun II",
+    "page_ref": "453:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "the same as, or to be read, ĕbuṅ; see <i>buṅ</i>.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BY",
+        "text": "1.15: tan paśrī tĕka riṅ pĕtuṅ gaḍiṅ ĕbu#nya paḍa tumut apawwahan gaḍiṅ."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "10",
+    "headword": "ĕbuṅ",
+    "query": "ĕbuṅ",
+    "page_ref": "453:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "see <i>buṅ</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "11",
+    "headword": "ĕbus, ĕmbus",
+    "query": "ĕbus, ĕmbus",
+    "page_ref": "453:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "perhaps better: ṅĕbus, ṅĕmbus q.v.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "12",
+    "headword": "ĕcok*",
+    "query": "ĕcok*",
+    "page_ref": "453:13",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "ṅĕcok",
+        "page_ref": "453:13.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+        "definition": "to put up a (higher) stake, to top (a stake) by 5 to 4 (See <i><b>KBW</b></i> s.v. <i>cok</i>)",
+        "citations": [
+          {
+            "source": "Sor",
+            "text": "2.87: mĕne ṅĕcok aṅgasala (read: aṅga#ṅsala?)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "13",
+    "headword": "öd*",
+    "query": "öd*",
+    "page_ref": "453:14",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "umöd",
+        "page_ref": "453:14.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+        "definition": "short, shrunken, contracted? Cf <i>bal</i>. ĕhĕd.",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "25.83: lwa paṇḍak puḍak apĕḍĕk umöd (see under kumĕd)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "14",
+    "headword": "ĕḍĕk*",
+    "query": "ĕḍĕk*",
+    "page_ref": "453:15",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "= <b>ĕṇḍĕk</b>, q.v.",
+    "sub_entries": [
+      {
+        "sub_head": "mĕḍĕk",
+        "page_ref": "453:15.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+        "definition": "to bow, bend the body forward",
+        "citations": [
+          {
+            "source": "ST",
+            "text": "2.12: mĕḍĕk paḍânĕmbah; 3.35;"
+          },
+          {
+            "source": "Sud",
+            "text": "1.36."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "15",
+    "headword": "ĕḍĕm*",
+    "query": "ĕḍĕm*",
+    "page_ref": "453:16",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "(or pĕḍĕm?)",
+    "sub_entries": [
+      {
+        "sub_head": "mĕḍĕm",
+        "page_ref": "453:16.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+        "definition": "extinguished, lustreless",
+        "citations": [
+          {
+            "source": "ST",
+            "text": "5.131: mĕḍĕm matanya mululu."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "16",
+    "headword": "ĕḍĕṅ*",
+    "query": "ĕḍĕṅ*",
+    "page_ref": "453:17",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "umĕḍĕṅ",
+        "page_ref": "453:17.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+        "definition": "?",
+        "citations": [
+          {
+            "source": "AgP",
+            "text": "390.16: niṣparabyāpāra, kewalya hĕniṅ nira kinulan ira, umĕḍĕṅ umetakĕn awak nira, kadi hudan lwir nikaṅ wwaṅ ri sira (reading dubious; var. x has umatĕma for umĕḍĕṅ umetakĕn)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "17",
+    "headword": "ĕdok*",
+    "query": "ĕdok*",
+    "page_ref": "453:18",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "= <b>ḍok</b> III, q.v.",
+    "sub_entries": [
+      {
+        "sub_head": "iṅĕdokakĕn",
+        "page_ref": "453:18.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+        "definition": "(pf) to place on or in <i><b>Sud</b></i> 3.18: iṅĕdokakĕn eṅ pamade.",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "18",
+    "headword": "ĕduk",
+    "query": "ĕduk",
+    "page_ref": "453:19",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "see <i>hĕduk</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "19",
+    "headword": "ĕdul*",
+    "query": "ĕdul*",
+    "page_ref": "453:20",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕdul",
+        "page_ref": "453:20.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+        "definition": "tenacious, stubborn, striving after st. by all means?",
+        "citations": [
+          {
+            "source": "AW",
+            "text": "12.5: hana mara janma tan papihutaṅ brata yoga tapa / aṅĕdul aminta wīrya sukha niṅ widhi sāhasika (is aṅĕdul the correct reading? KBW s.v.) kĕṭul reads aṅĕṭul; bal. com. has maṅĕntal, which is also used to render kĕṭul of RY 12.52)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "20",
+    "headword": "ĕgap, gap, ĕgĕp*",
+    "query": "ĕgap, gap, ĕgĕp*",
+    "page_ref": "453:21",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕgap-ĕgap, aṅĕgĕp, mĕgap",
+        "page_ref": "453:21.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+        "definition": "to gasp for breath",
+        "citations": [
+          {
+            "source": "Utt",
+            "text": "42.14: opĕk apĕga ahosan aṅĕgap-ĕgap;"
+          },
+          {
+            "source": "Utt+",
+            "text": "128.2: tumĕḍun i tĕlĕṅ niṅ antahrada; wahw aṅĕgap-ĕgap atah sira ... ;"
+          },
+          {
+            "source": "RPWj",
+            "text": "41.5: maṅĕgap-ĕgap kumambaṅ i tĕṅah nikanaṅ rudhira;"
+          },
+          {
+            "source": "KD",
+            "text": "14.12: mīnanya liwran aṅĕgĕp ṅkaneṅ rĕnĕk;"
+          },
+          {
+            "source": "KK",
+            "text": "63.24: mĕgap tan molah aṅel."
+          }
+        ]
+      },
+      {
+        "sub_head": "āgap, māgap, gumap",
+        "page_ref": "453:21.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=453&zoom=width",
+        "definition": "(always with negation:) to be unable to breathe (from fear); have no time for a gasp, ``without a gasp''",
+        "citations": [
+          {
+            "source": "BY",
+            "text": "11.11: bhṛtya ṛṣi Bhīṣmâwrĕg rusak tan pagap;"
+          },
+          {
+            "source": "BY+",
+            "text": "17.9: syuh sakweh nikaṅ wīra mamapagi sirârĕs punah tan hanâgap;"
+          },
+          {
+            "source": "BY+",
+            "text": "50.10: tan pāgap sira ... sinep sotan taṅ aṅgöṅ turū;"
+          },
+          {
+            "source": "SD",
+            "text": "39.6: tuñjuṅ mesi lawönya tan wani gumap kepwan ri tiṅhal nira;"
+          },
+          {
+            "source": "Sut",
+            "text": "115.5: (sākṣāt hyaṅ parameṣṭhi Kāla) paṅliṅgan ri kadewamūrtin ira tan hana gumap irikaṅ watĕk ratu;"
+          },
+          {
+            "source": "Nag",
+            "text": "54.2: kinris pĕjah tan pagap;"
+          },
+          {
+            "source": "SW",
+            "text": "13.2: swaṅ awaṅi gandha niṅ kusuma tan pagap ardha marĕs;"
+          },
+          {
+            "source": "AbhW",
+            "text": "30.4: tan pagap linurugan ya tan wruh ajageṅ musuhnya wĕwĕgĕn;"
+          },
+          {
+            "source": "AbhW+",
+            "text": "40.3: tan hanâgap ripukula;"
+          },
+          {
+            "source": "AbhW+",
+            "text": "44.2: umūr taṅgap (read tan gap) wrĕg taṅ ratha;"
+          },
+          {
+            "source": "AbhW+",
+            "text": "48.3: alara tan pagap karĕrĕṅ epw alök tĕkap niṅ panah;"
+          },
+          {
+            "source": "HWj",
+            "text": "9.4: tan pāgap manis iṅ guladrawa paran mantuk manisnye sira;"
+          },
+          {
+            "source": "HWj+",
+            "text": "36.3: tātan pāgap majaga kinucupan; 40.10 alayū tan pagap;"
+          },
+          {
+            "source": "HWj+",
+            "text": "45.2: paṅharĕp wiwudha tan pāgap rinok durbala;"
+          },
+          {
+            "source": "RPWj",
+            "text": "(3x)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "21",
+    "headword": "ĕgĕh*",
+    "query": "ĕgĕh*",
+    "page_ref": "454:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "inĕgĕh",
+        "page_ref": "454:1.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+        "definition": "?",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "25.2: rarânwam inĕgĕh parĕṅ mijil amaṅguṅ asĕmu-sĕmu lakṣmi niṅ masa kapat."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "22",
+    "headword": "ĕgĕp",
+    "query": "ĕgĕp",
+    "page_ref": "454:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "see <i>ĕgap</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "23",
+    "headword": "ĕhah*",
+    "query": "ĕhah*",
+    "page_ref": "454:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "(u)mĕhah",
+        "page_ref": "454:3.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+        "definition": "to sigh, moan",
+        "citations": [
+          {
+            "source": "Udy",
+            "text": "38.4: tan paturū ... mahosan umĕhah tan pāntara;"
+          },
+          {
+            "source": "RY",
+            "text": "2.26: siṅhomĕhah ya malapâkuru;"
+          },
+          {
+            "source": "AW",
+            "text": "33.3: agigu mĕhah tiki kinisapu;"
+          },
+          {
+            "source": "HW",
+            "text": "20.13: mĕhah osah;"
+          },
+          {
+            "source": "HW+",
+            "text": "47.4: mĕhah aṅĕsah sirepu;"
+          },
+          {
+            "source": "AWj",
+            "text": "36.1: mĕhah pinaṅkwakĕn;"
+          },
+          {
+            "source": "HWj",
+            "text": "14.13: makilusū mĕhah asĕmu huyaṅ kinĕlwakĕn;"
+          },
+          {
+            "source": "HWj+",
+            "text": "44.1: (bala) kahala katūb mĕhah;"
+          },
+          {
+            "source": "HWj+",
+            "text": "55.2: maputĕk mĕhah salahasa (passim in kak.)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "24",
+    "headword": "ĕhĕb",
+    "query": "ĕhĕb",
+    "page_ref": "454:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "= <b>höb</b>, q.v.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KY",
+        "text": "36.9: söh surabhi rajasa tañjuṅ ĕhĕbnya."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "25",
+    "headword": "ĕkah*",
+    "query": "ĕkah*",
+    "page_ref": "454:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "= <b>ĕkĕh</b>, q.v.",
+    "sub_entries": [
+      {
+        "sub_head": "umĕkah",
+        "page_ref": "454:5.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+        "definition": "to sigh, moan",
+        "citations": [
+          {
+            "source": "BK",
+            "text": "86.9: maṅohan umĕkah."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "26",
+    "headword": "ĕkas",
+    "query": "ĕkas",
+    "page_ref": "454:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "see <i>ĕṅkas</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "27",
+    "headword": "ĕkĕh*",
+    "query": "ĕkĕh*",
+    "page_ref": "454:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "(u)mĕkĕh",
+        "page_ref": "454:7.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+        "definition": "to sigh, moan",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "19.124: maṅohan umĕkĕh;"
+          },
+          {
+            "source": "RY+",
+            "text": "23.29: umĕkĕh milū;"
+          },
+          {
+            "source": "HW",
+            "text": "36.19: mūrchā kantĕb kalĕṅgak sira mĕkĕh akĕdö tan māti tumuli;"
+          },
+          {
+            "source": "SD",
+            "text": "8.16: mānaṅ mĕkĕh anaṅis;"
+          },
+          {
+            "source": "SD+",
+            "text": "18.4: paṅnyâṅulyat aghāṣa kadi mĕkĕh;"
+          },
+          {
+            "source": "AWj",
+            "text": "63.4: Daśāsya humĕnĕṅ mĕkĕh manuhu mepu wet niṅ lara;"
+          },
+          {
+            "source": "Sut",
+            "text": "84.2: wruh maṅĕsah mĕkĕh linukaran tapih;"
+          },
+          {
+            "source": "SW",
+            "text": "16.16: maṅkin tībra sira n mĕkĕh asĕkĕl;"
+          },
+          {
+            "source": "HWj",
+            "text": "35.4: ḍöh höhöh taṅ mĕkĕh pṛṣṭha nikana dinĕkuṅ;"
+          },
+          {
+            "source": "KK",
+            "text": "71.2: mĕkĕh prāṇāntika sadākāla saṅsāra;"
+          },
+          {
+            "source": "KHWj",
+            "text": "2.83a: ana mĕkĕh aṅaḍuh."
+          }
+        ]
+      },
+      {
+        "sub_head": "makĕh",
+        "page_ref": "454:7.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+        "definition": "idem (or read mĕkĕh?)",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "21.73: maṅhiḍĕp lara makĕh siromĕhah."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "28",
+    "headword": "ĕla",
+    "query": "ĕla",
+    "page_ref": "454:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "see <i>hĕla</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "29",
+    "headword": "ĕlak",
+    "query": "ĕlak",
+    "page_ref": "454:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "(see also <i>lak</i>)",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕlak, paṅĕlak",
+        "page_ref": "454:9.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+        "definition": "(avs) to lie open, with a gaping opening",
+        "citations": [
+          {
+            "source": "KK",
+            "text": "58.34: kinon maliwata ri paṅĕlak nikaṅ gunuṅ wĕsi;"
+          },
+          {
+            "source": "KBW",
+            "text": "(s.v. ṅĕlak, Manik Aṅkĕran): kadugi saṅ naga Basukih aṅĕlak mijil mas riṅ mukha agĕṅ rĕba (?) pasusukan ira."
+          }
+        ]
+      },
+      {
+        "sub_head": "ĕlak-ĕlakan",
+        "page_ref": "454:9.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+        "definition": "throat, gullet",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "19.26: ṅwaṅ mapraṅ priṅga muṅgw ī hĕlak-ĕlakan ikaṅ mṛtyu mewĕh uripnya."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "30",
+    "headword": "ĕlar",
+    "query": "ĕlar",
+    "page_ref": "454:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "see <i>hĕlar</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "31",
+    "headword": "ĕlö* I",
+    "query": "ĕlö* I",
+    "page_ref": "454:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "see <i>hĕlö</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "32",
+    "headword": "ĕlö*",
+    "query": "ĕlö*",
+    "page_ref": "454:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "II. See also <i>alö</i>.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Sum",
+        "text": "149.30: nāhan taṅ ölwan asĕlur karĕṅö karĕsrĕs / maṅde bhayānaka pasaṅgha nikā gumĕntĕr / len taṅ mahātiśaya rodra paṅalw-alönya / wīrâṅgĕtĕm nĕhĕr aṅohan i mehnya matya. Apparently ĕlwan and aṅalö-alö ``to howl''; cf halulu and KBW ulun."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "33",
+    "headword": "ĕlĕb-ĕlĕb",
+    "query": "ĕlĕb-ĕlĕb",
+    "page_ref": "454:13",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "butcher's boy? (<i><b>KBW</b></i>: kawula niṅ ajagal)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Kor",
+        "text": "138.10: gṛha niṅ abapuh sĕḍĕṅ pwâṅĕrĕb iwak sira ĕlĕb-ĕlĕb (sirâ-ĕlĕb-ĕlĕb?)."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "34",
+    "headword": "ĕlĕd",
+    "query": "ĕlĕd",
+    "page_ref": "454:14",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "see <i>hĕlĕd</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "35",
+    "headword": "ĕlĕg",
+    "query": "ĕlĕg",
+    "page_ref": "454:15",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "the same as, or to be read, kĕlĕg, q.v.",
+    "sub_entries": [
+      {
+        "sub_head": "inĕlĕgan",
+        "page_ref": "454:15.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+        "definition": "aroused, ready to fight",
+        "citations": [
+          {
+            "source": "RL",
+            "text": "7.120: kabeh saṅ mantri lwir inĕlĕgan samâtur atoh pati."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "36",
+    "headword": "ĕlek*",
+    "query": "ĕlek*",
+    "page_ref": "454:16",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "mĕlek",
+        "page_ref": "454:16.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+        "definition": "to keep the eyes open",
+        "citations": [
+          {
+            "source": "Swd",
+            "text": "16.28a: sama turu kadi siniram de niṅ hyaṅ tan ana kaṅ woṅ mĕleka;"
+          },
+          {
+            "source": "Sud",
+            "text": "4.9: lamun ṅoṅ mĕleka maṅke;"
+          },
+          {
+            "source": "Sud+",
+            "text": "4.13: wus mĕlek maṅko panone."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕlekakĕn",
+        "page_ref": "454:16.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+        "definition": "to open (the eyes)",
+        "citations": [
+          {
+            "source": "CA",
+            "text": "121.16: ya tika huripakĕna; binaywan-baywan ya si Wĕksirsa maṅĕlekakĕn drĕsṭi."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "37",
+    "headword": "ĕli",
+    "query": "ĕli",
+    "page_ref": "454:17",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "see <i>hĕli</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "38",
+    "headword": "ĕlik*",
+    "query": "ĕlik*",
+    "page_ref": "454:18",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕlik",
+        "page_ref": "454:18.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+        "definition": "= <b>aṅalik-alik</b> (see <i>alik</i>)? of the call of hĕlaṅ and walik.",
+        "citations": [
+          {
+            "source": "AbhW",
+            "text": "2.11: hĕlaṅ aṅĕlik aṅumbaṅ sambat niṅ halas anawak;"
+          },
+          {
+            "source": "AbhW+",
+            "text": "72.2: aṅde kūṅ madraka walik aṅĕlik;"
+          },
+          {
+            "source": "KD",
+            "text": "41.6: kālaṅkyaṅnya ṅĕlik rĕṅih ri hirĕṅ iṅ jaladhi wĕdi sinambĕr iṅ khaga."
+          }
+        ]
+      },
+      {
+        "sub_head": "lik-ĕlik",
+        "page_ref": "454:18.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+        "definition": "idem",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "25.19: si walik kĕkĕl kawĕlikan lik-ĕlik."
+          }
+        ]
+      },
+      {
+        "sub_head": "lik-lik-alik",
+        "page_ref": "454:18.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+        "definition": "(to be read thus?) idem? or a certain bird or insect?",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "24.109: katkat luklak saluk lik-lik-alik alulut iṅ larwan niwi walik (separation uncertain)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "39",
+    "headword": "ĕlu",
+    "query": "ĕlu",
+    "page_ref": "454:19",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "see <i>ṅĕlu</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "40",
+    "headword": "ĕluh",
+    "query": "ĕluh",
+    "page_ref": "454:20",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=454&zoom=width",
+    "definition": "(= <b>luh</b>) tears",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KHWj",
+        "text": "3.73a: wuryan iṅ ĕluh asarambahan iṅ wĕhaṅ."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "41",
+    "headword": "ĕluk",
+    "query": "ĕluk",
+    "page_ref": "455:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "bend, curve",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕluk, inĕluk, aṅĕluk-ĕluk, inĕluk-ĕluk",
+        "page_ref": "455:1.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": ",",
+        "citations": []
+      },
+      {
+        "sub_head": "paṅĕluk",
+        "page_ref": "455:1.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": "(avs) to bend",
+        "citations": [
+          {
+            "source": "SS",
+            "text": "344.2: (wĕsi) kawĕnaṅ ya inĕluk tinuṅkulakĕn;"
+          },
+          {
+            "source": "Sum",
+            "text": "5.7: molah kadînĕluk-ĕluk luṅ ikaṅ gaḍuṅ mrik;"
+          },
+          {
+            "source": "Sum+",
+            "text": "10.16: lāwan taṅ paṅĕluk lĕṅĕn wiphala yeka karaṇa ni halis nira n tikĕl;"
+          },
+          {
+            "source": "Sum+",
+            "text": "116.4: mogâtön aṅusap jajâṅĕluk-ĕluk lĕṅĕn;"
+          },
+          {
+            "source": "TK",
+            "text": "150.12: tan inĕluk ikaṅ kayu, yan tan yogya ĕlukĕn;"
+          },
+          {
+            "source": "Td",
+            "text": "4.56b: tan yogyenĕluk taṅ taru;"
+          },
+          {
+            "source": "Tk",
+            "text": "4.169a."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Sum",
+        "text": "129.3: putus mara tĕṅö para mpu bini moga salah ĕluk ulih nirâḍake."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "42",
+    "headword": "ĕluṅ*",
+    "query": "ĕluṅ*",
+    "page_ref": "455:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "= <b>luṅ</b>, q.v. ?",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕluṅ",
+        "page_ref": "455:2.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": "= <b>aṅluṅ</b>",
+        "citations": [
+          {
+            "source": "GK",
+            "text": "33.2: dĕlĕg aṅĕluṅ yayâsĕgĕh akon aṅinuma bañu (var. aṅaluṅ)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "43",
+    "headword": "ölwan",
+    "query": "ölwan",
+    "page_ref": "455:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "see <i>ĕlö</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "44",
+    "headword": "ĕmas",
+    "query": "ĕmas",
+    "page_ref": "455:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "see <i>mas</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "45",
+    "headword": "ĕmbak*",
+    "query": "ĕmbak*",
+    "page_ref": "455:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕmbak-ĕmbak",
+        "page_ref": "455:5.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": "wide open, lying bare, gaping (wound)",
+        "citations": [
+          {
+            "source": "SD",
+            "text": "33.7: (gajapati) gambhīrâṅĕmbak-ĕmbak dalĕman ika;"
+          },
+          {
+            "source": "BK",
+            "text": "95.1d: alwâmbĕk-ambĕk kaninya n lanâṅĕmbak-ĕmbak mibab yan babak;"
+          },
+          {
+            "source": "Sum",
+            "text": "149.27: bāhunya runtuh asakit trus aṅĕmbak-ĕmbak;"
+          },
+          {
+            "source": "L",
+            "text": "26.3: ṅ kanin aṅĕmbak-ĕmbak i jajanya."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "46",
+    "headword": "ĕmban",
+    "query": "ĕmban",
+    "page_ref": "455:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "see <i>hĕmban</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "47",
+    "headword": "ĕmbaṅ",
+    "query": "ĕmbaṅ",
+    "page_ref": "455:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "head of a religious community (hermitage)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KHWj",
+        "text": "2.112a: ni ĕmbaṅ maṅke rawuh sakiṅ paṅubonan dinulur iṅ indaṅ-indaṅ;"
+      },
+      {
+        "source": "KHWj+",
+        "text": "2.113b: saṅ yatiwara wontĕn iṅ made aluṅguh, ni ĕmbaṅ tĕka wot sari;"
+      },
+      {
+        "source": "KHWj+",
+        "text": "2.116b: lah ni Galuh ... dumunuṅa riṅ lalaṅwan, ni ĕmbaṅ kaṅ lumakw iṅ ayun;"
+      },
+      {
+        "source": "Ws",
+        "text": "6.64a: wontĕn utusan ... sira ĕmbaṅ akweh andulur para kily alit-alit;"
+      },
+      {
+        "source": "ST",
+        "text": "1.48b: manawi taṅi ki ĕmbaṅ, tuhu si yen iṅampura;"
+      },
+      {
+        "source": "Par",
+        "text": "7.18: samaṅka ta srĕṅĕn sira ken Aṅrok, moga hana ĕmbaṅ riṅ panapen; sinuduk de nira ken Aṅrok."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "48",
+    "headword": "ĕmbat*",
+    "query": "ĕmbat*",
+    "page_ref": "455:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "= <b>ambĕt</b>, q.v.",
+    "sub_entries": [
+      {
+        "sub_head": "mĕmbat",
+        "page_ref": "455:8.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": "(= <b>mambĕt</b>) supple, lithe",
+        "citations": [
+          {
+            "source": "Mal",
+            "text": "15.35b: panĕpi mĕmbat aṅgaluṅgaṅ alaris;"
+          },
+          {
+            "source": "Mal+",
+            "text": "17.23b: mĕmbat iṅ madyâṅrawit;"
+          },
+          {
+            "source": "Td",
+            "text": "4.36b: mĕmbat niṅ asta alurus; 5.69a;"
+          },
+          {
+            "source": "Ww",
+            "text": "3.99b: mĕmbat madapa kaṅinan;"
+          },
+          {
+            "source": "Ws",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "sub_head": "iṅĕmbat-ĕmbat",
+        "page_ref": "455:8.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": "(pf) to set in undulating motion",
+        "citations": [
+          {
+            "source": "NR",
+            "text": "30.27: (in battle) yaya iṅĕmbat-ĕmbat ikaṅ prĕtiwi; 31.26."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "49",
+    "headword": "ĕmbĕk*",
+    "query": "ĕmbĕk*",
+    "page_ref": "455:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕmbĕk-ĕmbĕk",
+        "page_ref": "455:9.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": "to stifle one's sobs",
+        "citations": [
+          {
+            "source": "GK",
+            "text": "5.4: yeka ṅ aṅĕmbĕk-ĕmbĕk amĕgöṅ taṅisnya n apĕgâwĕdi n kawĕḍara."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "50",
+    "headword": "ĕmbĕṅ*",
+    "query": "ĕmbĕṅ*",
+    "page_ref": "455:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "cf <i>kĕmbĕṅ</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "aĕmbĕṅ-ĕmbĕṅ",
+        "page_ref": "455:10.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": "standing in the eyes, filling the eyes (tears)",
+        "citations": [
+          {
+            "source": "KHWj",
+            "text": "4.57b: aĕmbĕṅ-ĕmbĕṅ tirta niṅ driya."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "51",
+    "headword": "ĕmbe*",
+    "query": "ĕmbe*",
+    "page_ref": "455:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "= <b>ĕmbih</b>, q.v. ?",
+    "sub_entries": [
+      {
+        "sub_head": "ṅĕmbe",
+        "page_ref": "455:11.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": "to weep silently?",
+        "citations": [
+          {
+            "source": "PYñ",
+            "text": "10.3: saṅ Bhīma yeka mahiwaṅ panaṅisnya ṅĕmbe."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "52",
+    "headword": "ĕmben",
+    "query": "ĕmben",
+    "page_ref": "455:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "see <i>mben</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "53",
+    "headword": "ĕmbeñjiṅ",
+    "query": "ĕmbeñjiṅ",
+    "page_ref": "455:13",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "see <i>beñjiṅ</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "54",
+    "headword": "ĕmbesuk",
+    "query": "ĕmbesuk",
+    "page_ref": "455:14",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "see <i>besuk</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "55",
+    "headword": "ĕmbi",
+    "query": "ĕmbi",
+    "page_ref": "455:15",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "see <i>ĕmbih</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "56",
+    "headword": "ĕmbih, ĕmbi, hĕmbih*",
+    "query": "ĕmbih, ĕmbi, hĕmbih*",
+    "page_ref": "455:16",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕmbih, aṅĕmbih-ĕmbih, aṅĕmbi-ĕmbi",
+        "page_ref": "455:16.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": ",",
+        "citations": []
+      },
+      {
+        "sub_head": "mĕmbih",
+        "page_ref": "455:16.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": "to weep (having the eyes filled with tears?)",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "26.8: hilu tĕhĕr atura ṅkā ndātan ĕmbah tan ĕmbih;"
+          },
+          {
+            "source": "RY+",
+            "text": "26.10: paḍa maṅimbuh aṅĕmbih ameri luh / ikana taṅ lara tan lara yan larad;"
+          },
+          {
+            "source": "BK",
+            "text": "95.1d: maṅkin ta yâṅĕmbih-ĕmbih tibā luhnya;"
+          },
+          {
+            "source": "L",
+            "text": "3.1: kayâṅĕmbih ikaṅ cawintĕn asaput mukha;"
+          },
+          {
+            "source": "Ww",
+            "text": "3.130a: cawiri &lt;ri&gt;nupa kaya aṅĕmbi-ĕmbi."
+          }
+        ]
+      },
+      {
+        "sub_head": "mahĕmbi-hĕmbihan",
+        "page_ref": "455:16.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": "idem",
+        "citations": [
+          {
+            "source": "AW",
+            "text": "15.13: ṅ cawiri piṇḍa manaṅisa mahĕmbi-hĕmbihan."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "57",
+    "headword": "ĕmbul",
+    "query": "ĕmbul",
+    "page_ref": "455:17",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "see <i>ambul</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "58",
+    "headword": "ĕmbun, ĕmbun-ĕmbunan",
+    "query": "ĕmbun, ĕmbun-ĕmbunan",
+    "page_ref": "455:18",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "fontanel, crown of the head",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "NR",
+        "text": "46.27: adalana riṅ ĕmbun-ĕmbunan;"
+      },
+      {
+        "source": "CA",
+        "text": "140.24: iṅĕnahakĕn riṅ ĕmbun-ĕmbunan ira; 144.21;"
+      },
+      {
+        "source": "CA+",
+        "text": "143.28: ĕnahakĕneṅ ĕmbun ira."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "59",
+    "headword": "ĕmbuṅ",
+    "query": "ĕmbuṅ",
+    "page_ref": "455:19",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "see under <i>pakis</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "60",
+    "headword": "ĕmbus",
+    "query": "ĕmbus",
+    "page_ref": "455:20",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "see <i>ĕbus</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "61",
+    "headword": "ĕmbut*",
+    "query": "ĕmbut*",
+    "page_ref": "455:21",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕmbut-ĕmbut",
+        "page_ref": "455:21.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": "?",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "26.23a: wija-wijah arĕbut-rĕbut wānarâ#ṅĕmbut-ĕmbut tikĕl taṅ tĕbu. Bal. com. dohos-dohos, panting, heaving. Does it refer to wānara or to tĕbu? In the latter case perhaps: to bend."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "62",
+    "headword": "ĕmpal",
+    "query": "ĕmpal",
+    "page_ref": "455:22",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "flesh, meat?",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Kor",
+        "text": "130.19: ĕmpal ṅaran iṅ dagiṅ;"
+      },
+      {
+        "source": "KD",
+        "text": "4.9: binubak pyahnya hĕmpal gilutnya. Here prob. balinism for sĕmpal; but what is gilut?"
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "63",
+    "headword": "ĕmpan*",
+    "query": "ĕmpan*",
+    "page_ref": "455:23",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕmpani",
+        "page_ref": "455:23.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": "to light, start a fire (cf <i>ModJ</i>)",
+        "citations": [
+          {
+            "source": "SwS",
+            "text": "36b.16: gawenya anduduli aṅĕmpani añuñukul iṅ mūḍha aṅgogotek tan sipi-sipi."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "64",
+    "headword": "ĕmpas",
+    "query": "ĕmpas",
+    "page_ref": "455:24",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "see <i>pas</i> I.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "65",
+    "headword": "ĕmpit",
+    "query": "ĕmpit",
+    "page_ref": "455:25",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "see <i>ĕpit</i> II.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "66",
+    "headword": "ĕmpol*",
+    "query": "ĕmpol*",
+    "page_ref": "455:26",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "ĕmpol-ĕmpolan",
+        "page_ref": "455:26.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": "thumb, big toe",
+        "citations": [
+          {
+            "source": "Kor",
+            "text": "130.32: ĕmpol-ĕmpolan iṅ suku."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "67",
+    "headword": "ĕmpu",
+    "query": "ĕmpu",
+    "page_ref": "455:27",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "see <i>mpu</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "68",
+    "headword": "ĕmput*",
+    "query": "ĕmput*",
+    "page_ref": "455:28",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "inĕmput",
+        "page_ref": "455:28.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=455&zoom=width",
+        "definition": "(dubious)",
+        "citations": [
+          {
+            "source": "Wir",
+            "text": "37.27: inulir inĕmput tinikĕlan pāṇipāda nira (emend. Fokker: inulir rinĕmpu tinikĕlan)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "69",
+    "headword": "ĕmu",
+    "query": "ĕmu",
+    "page_ref": "456:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+    "definition": "see <i>hĕmū</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "70",
+    "headword": "ĕmuh*",
+    "query": "ĕmuh*",
+    "page_ref": "456:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+    "definition": "= <b>hĕmū</b>, q.v.",
+    "sub_entries": [
+      {
+        "sub_head": "inĕmuh",
+        "page_ref": "456:2.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+        "definition": "(= <b>hinĕmū</b>)",
+        "citations": [
+          {
+            "source": "RL",
+            "text": "7.130: gula inĕmuh ika lwir tan awiwala."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "71",
+    "headword": "ĕmuk, hĕmuk*",
+    "query": "ĕmuk, hĕmuk*",
+    "page_ref": "456:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "ahĕmuk",
+        "page_ref": "456:3.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+        "definition": "to cover, form a cover",
+        "citations": [
+          {
+            "source": "AW",
+            "text": "3.12: kambaṅnya n panĕlat rikaṅ kasay aniṅgahi halis ahĕmuk tĕkeṅ kapö;"
+          },
+          {
+            "source": "RL",
+            "text": "11.192: wok ahĕmuk tĕkeṅ kopiṅ;"
+          },
+          {
+            "source": "(?:) RY",
+            "text": "26.25 (36): taman sipi riṅ mahĕmuk tulam iṅ rĕcahan ta pĕcĕl-pĕcĕlan ..."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕmuki, (h)inĕmukan, kāmukan",
+        "page_ref": "456:3.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+        "definition": "to cover, veil",
+        "citations": [
+          {
+            "source": "HW",
+            "text": "5.1: niśākara ... hinĕmuk-ĕmukan himânipis;"
+          },
+          {
+            "source": "HW+",
+            "text": "19.5: urut anipis ... sapupur mrik aṅĕmuki kapö;"
+          },
+          {
+            "source": "HW+",
+            "text": "22.4: (limut) aṅĕmuki kaywan (BY 22.10);"
+          },
+          {
+            "source": "HW+",
+            "text": "53.11: kāmukan himâwrā;"
+          },
+          {
+            "source": "BY",
+            "text": "1.9: Gajāhwayapurâhawuk inĕmukan iṅ hudan riwut;"
+          },
+          {
+            "source": "BK",
+            "text": "30.4: tiṅhal ... kāmukan luh kumĕmbĕṅ;"
+          },
+          {
+            "source": "Sum",
+            "text": "164.6: lĕṅĕṅ watu karaṅnya manda tan awās kadi gaṇapati kāmukan sĕkar;"
+          },
+          {
+            "source": "Sum+",
+            "text": "168.1: hinĕmukan i kukus niṅ ampuhan;"
+          },
+          {
+            "source": "KY",
+            "text": "29.2: (anak-anakan) turu-turun hĕmuk-ĕmukana suswa#suswana;"
+          },
+          {
+            "source": "AWj",
+            "text": "22.11: kāmukan saṅhub awrā (Sum 115.1);"
+          },
+          {
+            "source": "AWj+",
+            "text": "11.1: inĕmukan iṅ lamad-lamad (Sum 7.15);"
+          },
+          {
+            "source": "Sut",
+            "text": "80.6: kadi tajug kāmukan roma mawrā;"
+          },
+          {
+            "source": "PYñ",
+            "text": "41.3: (daluwaṅ) pasĕnötan iṅ bala hajöṅ wruh aṅĕmuk-ĕmuki."
+          }
+        ]
+      },
+      {
+        "sub_head": "inĕmukakĕn",
+        "page_ref": "456:3.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+        "definition": "(pf) to put st. as a cover (on st.)",
+        "citations": [
+          {
+            "source": "BY",
+            "text": "38.12: (wastra) śeṣanyârawayan muwah pinahajĕṅ nirenĕmukakĕn."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "72",
+    "headword": "ĕna",
+    "query": "ĕna",
+    "page_ref": "456:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+    "definition": "together with? Cf <i>ĕnah</i> II.",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KHWj",
+        "text": "6.106b: yadin saṅ wus ĕna mwaṅ ratw iṅ indrabawana siniwi de niṅ dewarsi."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "73",
+    "headword": "ĕnah* I",
+    "query": "ĕnah* I",
+    "page_ref": "456:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕnah, umĕnah, inĕnah",
+        "page_ref": "456:5.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+        "definition": "to place, establish, put in position. See also under <i>rĕnah</i> II.",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "98.32: inĕnah nireṅ ratha ikaṅ kanyā;"
+          },
+          {
+            "source": "BhP",
+            "text": "56.3: t ĕnah ta ri wunwunan saṅ hyaṅ prāṇa bāyu;"
+          },
+          {
+            "source": "RY",
+            "text": "1.27: sampun bhaṭāra inĕnah tinitisakĕn taṅ miñak;"
+          },
+          {
+            "source": "RY+",
+            "text": "21.37: śīghra ya / n ĕnah sireṅ ratnapalaṅka;"
+          },
+          {
+            "source": "RY+",
+            "text": "21.205: (astra) inĕnah riṅṅ āyudha (BK;  HWj);"
+          },
+          {
+            "source": "Sum",
+            "text": "154.7: ṅkāna śrī naranāthaputra maṅĕnah kakawin ulih irâṅdadak-dadak; 168.4;"
+          },
+          {
+            "source": "KY",
+            "text": "40.2: hinĕmban inĕnah riṅ ratha;"
+          },
+          {
+            "source": "KHWj",
+            "text": "6.95a: sampun inĕnah baṭara inustanakĕn (sic?) ry aṅga sri narapati;"
+          },
+          {
+            "source": "Tk",
+            "text": "4.243a: kaṅ kunapa inĕnahnyeṅ wiwara."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕnahi, inĕnahan",
+        "page_ref": "456:5.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+        "definition": "to place on or in <i><b>Ad</b></i> 124.23: hana ta pasabhan piṅgir iṅ wwai inĕnahan ira madirā taḍah;",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "80.1: ṅhulun yaśana rāga māsku pakadharman ĕnahana raras niṅ aṅrĕṅih;"
+          },
+          {
+            "source": "Sum+",
+            "text": "135.3: muṅgah aṅanti riṅ pasamayan saṅ hyaṅ-hyaṅ iṅ pamrĕman / marmâsih paḍa de nirâṅĕnahi rāga;"
+          },
+          {
+            "source": "Kor",
+            "text": "18.26: (Duryodhana) inĕnahan sarwa galak."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕnahakĕn, inĕnahakĕn",
+        "page_ref": "456:5.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+        "definition": "to place, give its place, put in position",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "15.6: ikaṅ kuṇḍala inĕnahakĕn ireṅ bhūtala;"
+          },
+          {
+            "source": "SS",
+            "text": "68.3: inĕnahakĕn patīrthana panĕmwana wara-warah, ndan mūrkha;"
+          },
+          {
+            "source": "SS+",
+            "text": "433.3: jala pukĕt payaṅ an inĕnahakĕn paṅalap iwak;"
+          },
+          {
+            "source": "RY",
+            "text": "15.57: kapuk hiḍĕpnya rikanaṅ gunuṅ n ĕnahakĕn ya riṅ karatala;"
+          },
+          {
+            "source": "Sum",
+            "text": "25.13: tupis-tupis i de nirâṅĕnahakĕn manah ira tumibe narendratanaya; 180.1;"
+          },
+          {
+            "source": "HWj",
+            "text": "11.9: prawala de nira n aṅĕnahakĕn prawandha biṣama;"
+          },
+          {
+            "source": "TK",
+            "text": "168.32: petĕn ĕnahakĕneṅ ghaṭa;"
+          },
+          {
+            "source": "Ww",
+            "text": "4.45b: (pupunḍutan) inĕnahakĕn iṅ harsa nira nrĕpati."
+          }
+        ]
+      },
+      {
+        "sub_head": "paṅĕnahan",
+        "page_ref": "456:5.4",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+        "definition": "womb, uterus",
+        "citations": [
+          {
+            "source": "Kor",
+            "text": "136.3: cucupu maṇik iṅ paṅĕnahan."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "74",
+    "headword": "ĕnah II, hĕnah",
+    "query": "ĕnah II, hĕnah",
+    "page_ref": "456:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+    "definition": "collection, total amount? See also <i>ĕna</i> and ṅĕnah",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "BrP",
+        "text": "103.13: sotpādana lawan sira sahĕnah ni guṇa nira;"
+      },
+      {
+        "source": "Kor",
+        "text": "92.19: rinok pwa ya kabeh ĕnah i kasturi ergulo."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "75",
+    "headword": "ĕnaṅ",
+    "query": "ĕnaṅ",
+    "page_ref": "456:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+    "definition": "see under <i>hĕniṅ</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "76",
+    "headword": "ĕnaṅ-ĕniṅ",
+    "query": "ĕnaṅ-ĕniṅ",
+    "page_ref": "456:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+    "definition": "in perfect tranquillity and serenity",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Kor",
+        "text": "168.16: ĕnaṅ-ĕniṅ buddhi nira."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "77",
+    "headword": "ĕṇḍah (ĕṇḍa",
+    "query": "ĕṇḍah (ĕṇḍa",
+    "page_ref": "456:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+    "definition": ")",
+    "sub_entries": [
+      {
+        "sub_head": "pakis ĕṇḍa(h)",
+        "page_ref": "456:9.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+        "definition": "a part. kind of pakis?",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "37.1: ambö niṅ pakis ĕṇḍah iṅ walahar aṅlĕwihi waṅi ni gandha niṅ pupur;"
+          },
+          {
+            "source": "RPWj",
+            "text": "36.6: sinwam niṅ pakis ĕṇḍa murya mahijo."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "78",
+    "headword": "ĕṇḍas",
+    "query": "ĕṇḍas",
+    "page_ref": "456:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+    "definition": "(= <b>tĕṇḍas</b>, q.v.) head",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Ww",
+        "text": "2.17a: arĕp amraṅ ĕnḍasmu."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "79",
+    "headword": "ĕṇḍĕg",
+    "query": "ĕṇḍĕg",
+    "page_ref": "456:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+    "definition": "see <i>ĕṇḍĕk</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "80",
+    "headword": "ĕṇḍĕk I, aṇḍĕk, ĕṇḍĕg",
+    "query": "ĕṇḍĕk I, aṇḍĕk, ĕṇḍĕg",
+    "page_ref": "456:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+    "definition": "subst. to mĕṇḍĕk",
+    "sub_entries": [
+      {
+        "sub_head": "(u)mĕṇḍĕk",
+        "page_ref": "456:12.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+        "definition": "to assume a lower position, stoop, bend down, bend low; to sit down, squat; to go downwards, sink down",
+        "citations": [
+          {
+            "source": "Udy",
+            "text": "127.7: mĕṇḍĕk ta sira kabeh mataṅkil;"
+          },
+          {
+            "source": "BrP",
+            "text": "163.4: ya tâdilah mĕṇḍĕk ya hīṅan ika yan rob;"
+          },
+          {
+            "source": "RY",
+            "text": "8.65: kapwa mĕṇḍĕk maluṅguh;"
+          },
+          {
+            "source": "RY+",
+            "text": "19.20: kweh kapöyöh umĕṇḍĕk;"
+          },
+          {
+            "source": "RY+",
+            "text": "25.3: (Windhya) maṇḍĕh mĕṇḍĕk māri manuṇḍul;"
+          },
+          {
+            "source": "BY",
+            "text": "35.6: mĕṇḍĕk taṅ Arjuna luput;"
+          },
+          {
+            "source": "BK",
+            "text": "92.11: mĕṇḍĕk sira n aṅgulakĕn laras nira;"
+          },
+          {
+            "source": "BK+",
+            "text": "93.13: linĕpasan mĕṇḍĕk juga sira;"
+          },
+          {
+            "source": "AWj",
+            "text": "4.15: rĕp śīghra mĕṇḍĕk makiḍupuh i wijil śrī mahāyakṣanātha;"
+          },
+          {
+            "source": "AWj+",
+            "text": "21.5: sakweh niṅ marĕk arja mĕṇḍĕk adĕdĕṅ midĕr;"
+          },
+          {
+            "source": "Nag",
+            "text": "59.7: sahana nikaṅ wwaṅ iṅ lĕbuh umĕṇḍĕk arĕs mararĕm;"
+          },
+          {
+            "source": "KHWj",
+            "text": "1.37b: mĕnḍĕk lagy awot sari (ib. passim;  KS; RL etc)."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕṇḍĕk, iṅĕṇḍĕk-ĕṇḍĕk",
+        "page_ref": "456:12.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=456&zoom=width",
+        "definition": "to lower, press down; lower the surface of st., cut out in places?",
+        "citations": [
+          {
+            "source": "BK",
+            "text": "5.4: amawa tulis rahadyan aku yan paṅĕ#ṇḍĕka ri donku siddha manahur;"
+          },
+          {
+            "source": "TP",
+            "text": "120.5: saṅ hyaṅ pratima muṅguheṅ jro, inukir taja (sic) iṅĕṇḍĕk-ĕṇḍĕk."
+          }
+        ]
+      },
+      {
+        "sub_head": "kaṇḍĕk",
+        "page_ref": "456:12.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+        "definition": "ka-pass. to aṅĕṇḍĕk(akĕn): lowered, gone down, sunk",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "19.12: kadi ta ya siwaka ṅ aṇḍa koṇḍak ya kaṇḍĕk;"
+          },
+          {
+            "source": "RY+",
+            "text": "22.44: molah taṅ pṛthiwī prakampa gumiwaṅ kaṇḍĕk kadi syūha ya;"
+          },
+          {
+            "source": "BY",
+            "text": "31.16: śīghrâṅdĕdĕl ratha saroh kapĕtĕk ya kaṇḍĕk / aṇḍĕk nikaṅ ratha ri tĕmpuh iṅ astra ... ;"
+          },
+          {
+            "source": "AbhW",
+            "text": "10.9: bĕntar kaṇḍĕk ḍaḍal twasnya;"
+          },
+          {
+            "source": "AbhW+",
+            "text": "21.4: bapra kaṇḍĕk akĕtĕr."
+          }
+        ]
+      },
+      {
+        "sub_head": "kaṇḍĕg",
+        "page_ref": "456:12.4",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+        "definition": "= <b>kaṇḍĕk</b>",
+        "citations": [
+          {
+            "source": "AW",
+            "text": "25.3: brahmāṇḍa kaṇḍĕg rĕṅat;"
+          },
+          {
+            "source": "PYñ",
+            "text": "32.1: pĕpĕt ikaṅ brahmāṇḍa kaṇḍĕg siwak."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "AWj",
+        "text": "10.15: aṇḍĕknya tan dwa kapipit bhuja saṅ Daśāsya;"
+      },
+      {
+        "source": "BY",
+        "text": "31.16: (see under kaṇḍĕk)."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "81",
+    "headword": "ĕṇḍĕk II",
+    "query": "ĕṇḍĕk II",
+    "page_ref": "457:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+    "definition": "apparently part of a gamĕlan-melody, poss. the introductory part.",
+    "sub_entries": [
+      {
+        "sub_head": "aĕṇḍĕk",
+        "page_ref": "457:1.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+        "definition": "with the ĕṇḍĕk ...",
+        "citations": [
+          {
+            "source": "KHWj",
+            "text": "1.66b: akakaṅsen caraṅ santun aĕnḍĕk salah ilu cacamarane gaṅgoṅ;"
+          },
+          {
+            "source": "KHWj+",
+            "text": "1.72a: muni taṅ gamĕlan asru aĕnḍĕk luṅ iṅ lulut amamaṅgĕl salah ilu cacamaranyâlaṅu."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕṇḍĕki",
+        "page_ref": "457:1.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+        "definition": "to play the ĕṇḍĕk to, join in with the ĕṇḍĕk?",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "160.1: dondonan inucap ira ramya-ramya niṅ aṅĕṇḍĕki turuṅ inucap."
+          }
+        ]
+      },
+      {
+        "sub_head": "ĕṇḍĕk-ĕṇḍĕkan",
+        "page_ref": "457:1.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+        "definition": "to play the ĕṇḍĕk?",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "112.7: mṛdaṅga sampun sumĕneha paṅruhun / hanâtĕkap len sinameni riṅ kiduṅ / ṇḍĕk-ĕṇḍĕkan prāya ni de nikā muni."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "82",
+    "headword": "ĕṇḍĕm*",
+    "query": "ĕṇḍĕm*",
+    "page_ref": "457:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "inĕṇḍĕm-ĕṇḍĕm",
+        "page_ref": "457:2.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+        "definition": "(pf) to foster, feel deeply",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "153.3: wīrâtya niṅ wani n inatyan inĕṇḍĕm-ĕṇḍĕm / agyâpraṅâṅgĕtĕm."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "83",
+    "headword": "ĕṇḍĕp",
+    "query": "ĕṇḍĕp",
+    "page_ref": "457:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "ĕṇḍĕp-ĕṇḍĕp",
+        "page_ref": "457:3.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+        "definition": "small glittering or sparkling particles of dust as seen in a sunbeam. See also <i>s</i>.v. namu-namu; and cf <i>ModJ</i> (<i><b>GR</b></i>): ĕnḍĕp amun-amun.",
+        "citations": [
+          {
+            "source": "SD",
+            "text": "7.3: (cakra) tan pāṅkura kadi tatur ĕṇḍĕp-ĕṇḍĕp asuluṅ-suluṅ;"
+          },
+          {
+            "source": "BK",
+            "text": "109.1: abhrā warṇâṇḍĕp-ĕṇḍĕp kilat ahulap ikaṅ bhūṣaṇâkweh maṇiknya;"
+          },
+          {
+            "source": "Kor",
+            "text": "194.35: mara#hap ĕṇḍĕp-ĕṇḍĕp makĕtĕb māruta;"
+          },
+          {
+            "source": "ST",
+            "text": "2.27: basmibuta ṅko lĕbur, ĕnḍĕp-ĕnḍĕp namu-namu;"
+          },
+          {
+            "source": "ST+",
+            "text": "3.41: muwah aṅruṅua maṅke, ĕnḍĕp-ĕnḍĕp namu-namu sumusupa riṅ tan parah;"
+          },
+          {
+            "source": "NR",
+            "text": "54.10: kadi ĕnḍĕp-ĕnḍĕp lwir niṅ suksma;"
+          },
+          {
+            "source": "NR+",
+            "text": "80.13: dadi ĕnḍĕp-ĕnḍĕp namu-namu riṅ madya niṅ akasa."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕṇḍĕp-ĕṇḍĕp",
+        "page_ref": "457:3.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+        "definition": "to glitter, sparkle; like ĕṇḍĕp-ĕṇḍĕp",
+        "citations": [
+          {
+            "source": "SD",
+            "text": "30.8: kumĕḍap aṅĕṇḍĕp-ĕṇḍĕp ahulap kadi latu-latu mör;"
+          },
+          {
+            "source": "BK",
+            "text": "1.9: lumarap ahulap bhāswarâṅĕṇḍĕp-ĕṇḍĕp;"
+          },
+          {
+            "source": "AbhW",
+            "text": "8.16: prabhāswara maṅĕṇḍĕp-ĕṇḍĕp ahulap;"
+          },
+          {
+            "source": "HWj",
+            "text": "52.10: ikaṅ dhanuh aṅĕṇḍĕp-ĕṇḍĕp i harĕp nira;"
+          },
+          {
+            "source": "AS(A)",
+            "text": "6.4: kram niṅ maṇik sphaṭika wintaṅ aṅĕṇḍĕp-ĕṇḍĕp;"
+          },
+          {
+            "source": "Knt",
+            "text": "24.18: (śara) söṅ-söṅ ni dilah asĕmu ṅĕṇḍĕp-ĕṇḍĕp;"
+          },
+          {
+            "source": "Knt+",
+            "text": "62.1: mahomandĕl i megha cĕt tan ari n ĕṇḍĕp-ĕṇḍĕp katon;"
+          },
+          {
+            "source": "KD",
+            "text": "26.13: ṅĕṇḍĕp-hĕṇḍĕp jĕnu kanaka cūrṇa."
+          }
+        ]
+      },
+      {
+        "sub_head": "ĕṇḍĕp-ĕṇḍĕpĕn",
+        "page_ref": "457:3.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+        "definition": "seeing stars",
+        "citations": [
+          {
+            "source": "Wir",
+            "text": "64.29: mahulap ĕṇḍĕp-ĕṇḍĕpĕn mata niṅ tumiṅhal ri sira."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "84",
+    "headword": "ĕndi",
+    "query": "ĕndi",
+    "page_ref": "457:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+    "definition": "(= <b>ndi</b>) where? which one?",
+    "sub_entries": [
+      {
+        "sub_head": "pun ĕndi",
+        "page_ref": "457:4.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+        "definition": "how? where?",
+        "citations": [
+          {
+            "source": "RL",
+            "text": "1.139: maṅke kadi pun ĕndi;"
+          },
+          {
+            "source": "RL+",
+            "text": "4.56: ken Sorâmalakw iṅ arti: pun ĕndi dewa ... ;"
+          },
+          {
+            "source": "RL+",
+            "text": "4.78: pun ĕndi ulĕsan ika Sita citrane lĕwih;"
+          },
+          {
+            "source": "RL+",
+            "text": "7.20: kadi pun ĕndi karsa prameswara de nipun tani desa kinalaneṅ Maja-Pahit;"
+          },
+          {
+            "source": "Par",
+            "text": "9.11: sakiṅ pun ĕndi sira."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Sum",
+        "text": "11.2: prabhuṅku kita kālih ĕndi parananta;"
+      },
+      {
+        "source": "Kor",
+        "text": "82.23: ĕndi ta umah mami;"
+      },
+      {
+        "source": "Kor+",
+        "text": "200.12: kaṅ ĕndi pwa sinaṅguh tiga pātāla;"
+      },
+      {
+        "source": "KHWj",
+        "text": "2.11b: sakiṅ ĕndi sira;"
+      },
+      {
+        "source": "KS",
+        "text": "."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "85",
+    "headword": "ĕṇḍog",
+    "query": "ĕṇḍog",
+    "page_ref": "457:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+    "definition": "egg",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Tk",
+        "text": "4.108b: ilaṅ niṅ ĕnḍognya."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "86",
+    "headword": "ĕṇḍuh*",
+    "query": "ĕṇḍuh*",
+    "page_ref": "457:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+    "definition": "(or <b>mĕṇḍuh?)</b>",
+    "sub_entries": [
+      {
+        "sub_head": "(u)mĕṇḍuh",
+        "page_ref": "457:6.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+        "definition": "heavily laden with fruit or flowers",
+        "citations": [
+          {
+            "source": "Sl",
+            "text": "36.6: wwah-wwahan mĕṇḍuh paḍa matasak;"
+          },
+          {
+            "source": "RY",
+            "text": "2.28: poh ambawaṅ wawaṅ atöb ya kabeh umĕṇḍuh;"
+          },
+          {
+            "source": "RY+",
+            "text": "9.42: kweh paṅnyâmĕṇḍuh (or: paṅnyā mĕṇḍuh?) paḍa ya satakuraṅ;"
+          },
+          {
+            "source": "RY+",
+            "text": "9.54: karūgan kapuṇḍuṅ umĕṇḍuh ya kāṇḍĕh;"
+          },
+          {
+            "source": "RY+",
+            "text": "11.55: kayunya ... anĕḍĕṅ / matöb ya mĕṇḍuh tumĕluṅ tĕkeṅ lĕmah;"
+          },
+          {
+            "source": "RY+",
+            "text": "16.36: mĕṇḍur mĕṇḍuh paḍa-paḍa manĕḍĕṅ;"
+          },
+          {
+            "source": "BK",
+            "text": "4.11: gaḍuṅ moṇḍuṅ mĕṇḍuh siluk ika sugandha;"
+          },
+          {
+            "source": "KY",
+            "text": "20.3: anĕḍĕṅ wwah ni maṅgarnya mĕṇḍuh;"
+          },
+          {
+            "source": "RPWj",
+            "text": "27.5: nyū danta makuniṅ hane tĕpinya mĕṇḍuh;"
+          },
+          {
+            "source": "Knt",
+            "text": "4.8: sawaṅ aṅusuma mĕṇḍuh lwirnyâwwat phala sumaji;"
+          },
+          {
+            "source": "KD",
+            "text": "18.11: maṇḍuh mandāsuli sulasih i sor;"
+          },
+          {
+            "source": "KHWj",
+            "text": "2.107a: tirisan pucaṅ gaḍiṅ anḍap-anḍap awoh mĕnḍuh."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "87",
+    "headword": "ĕṇḍuṅ*",
+    "query": "ĕṇḍuṅ*",
+    "page_ref": "457:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "umĕṇḍuṅ",
+        "page_ref": "457:7.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+        "definition": "in luxuriant growth? or: hanging down?",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "9.54: gaḍuṅ soṇḍuṅ-oṇḍuṅ umĕṇḍuṅ katuṇḍuṅ / karūgan kapuṇḍuṅ ..."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "88",
+    "headword": "ĕṇḍut",
+    "query": "ĕṇḍut",
+    "page_ref": "457:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+    "definition": "mud",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "SS",
+        "text": "484.3: liman atuha kapĕtĕk riṅ ĕṇḍut;"
+      },
+      {
+        "source": "KHWj",
+        "text": "2.80a: apraṅ aneṅ ĕnḍut;"
+      },
+      {
+        "source": "KHWj+",
+        "text": "5.135a: lyan taṅ malayu kaput riṅ ĕnḍut;"
+      },
+      {
+        "source": "RL",
+        "text": "1.55: bĕk eṅ ĕnḍut watreṅ rahi;"
+      },
+      {
+        "source": "Mal",
+        "text": "11.24;"
+      },
+      {
+        "source": "Ws",
+        "text": "2.21b: kadi mirah tibeṅ ĕnḍut."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "89",
+    "headword": "ĕnö, hĕnö*",
+    "query": "ĕnö, hĕnö*",
+    "page_ref": "457:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕnö, mĕnö, paṅĕnö",
+        "page_ref": "457:9.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=457&zoom=width",
+        "definition": "(avs) to sprinkle, water",
+        "citations": [
+          {
+            "source": "SS",
+            "text": "26.1: kady aṅgan iṅ wwai maṅĕnö tĕbu, tan ikaṅ tĕbu juga kānugrahan de nikā;"
+          },
+          {
+            "source": "RY",
+            "text": "11.47: kadînĕnö riṅṅ amṛtekanaṅ hati; 19.102 (hinĕnö);"
+          },
+          {
+            "source": "RY+",
+            "text": "19.92: ika hariṅĕt ta drawa ya mĕnö ya;"
+          },
+          {
+            "source": "RY+",
+            "text": "24.92: sakweh-kweh nikanaṅ nanā ya hinĕnö de saṅ hyaṅ Indrâmalĕs;"
+          },
+          {
+            "source": "Sum",
+            "text": "3.2: hati nira n ibĕk sukĕt aṅrahabi / inĕnö ni rajah tamah ira karaṇanya n aron asĕwö;"
+          },
+          {
+            "source": "SW",
+            "text": "24.19: ras nikaṅ ulah amaweṅ turida / inĕnö nireṅ dhṛti samādhi yâlilaṅ (leave-taking);"
+          },
+          {
+            "source": "HWj",
+            "text": "44.2: (śarawara) latu-latu tulya yeka paṅĕnö nira kapwa bisa."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "90",
+    "headword": "ĕnĕb",
+    "query": "ĕnĕb",
+    "page_ref": "458:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+    "definition": "see <i>nĕb</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "91",
+    "headword": "ĕnĕk",
+    "query": "ĕnĕk",
+    "page_ref": "458:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+    "definition": "= <b>hĕnĕk</b>, q.v. See also <i>nĕknĕk</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕnĕk-ĕnĕk",
+        "page_ref": "458:2.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+        "definition": "sad, heavy of heart",
+        "citations": [
+          {
+            "source": "BhP",
+            "text": "124.23: maṅĕn-aṅĕn ta mahārāja Yudhiṣṭhira, aṅĕnĕk-ĕnĕk de ni kawyawasāya-wikraman bhagawān Bhīṣma (or read aṅnĕknĕk?)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "92",
+    "headword": "ĕnĕm",
+    "query": "ĕnĕm",
+    "page_ref": "458:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+    "definition": "see <i>nĕm</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "93",
+    "headword": "ĕnĕṅ",
+    "query": "ĕnĕṅ",
+    "page_ref": "458:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+    "definition": "see <i>hĕnĕṅ</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "94",
+    "headword": "ĕnĕr",
+    "query": "ĕnĕr",
+    "page_ref": "458:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+    "definition": "direction",
+    "sub_entries": [
+      {
+        "sub_head": "ānĕr",
+        "page_ref": "458:5.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+        "definition": "taking the direction of",
+        "citations": [
+          {
+            "source": "RL",
+            "text": "7.10: iya bapa ika senapatya anĕra mĕtw aṅalor sireki."
+          }
+        ]
+      },
+      {
+        "sub_head": "inĕnĕr",
+        "page_ref": "458:5.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+        "definition": "(pf) to aim",
+        "citations": [
+          {
+            "source": "Knt",
+            "text": "14.3: umulat Bhrukampa masikĕp lipuṅ Kṣata nikenĕnĕrnya tinujunya sāhasa manūt."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Knt",
+        "text": "32.8: yar pupuhakĕn ḍawuhnya ri śirah#mu tan salah ĕnĕr."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "95",
+    "headword": "ĕnĕs*",
+    "query": "ĕnĕs*",
+    "page_ref": "458:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕnĕs",
+        "page_ref": "458:6.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+        "definition": "unobserved, secretly, alone",
+        "citations": [
+          {
+            "source": "BhP",
+            "text": "126.22: lumampah ta sira mare bhagawān Bhīṣma ... aṅĕnĕs maluput kawacâstra;"
+          },
+          {
+            "source": "RY",
+            "text": "3.15: śīghra miṅgat aṅĕnĕs;"
+          },
+          {
+            "source": "AW",
+            "text": "14.6: aṅĕnĕs waneh mapi turū;"
+          },
+          {
+            "source": "AW+",
+            "text": "17.8: sākṣāt handaru maṅĕnĕs hiḍĕpku;"
+          },
+          {
+            "source": "AW+",
+            "text": "31.7: mijil aṅĕnĕs i tambwaṅ iṅ wulan;"
+          },
+          {
+            "source": "HW",
+            "text": "12.2: aṅĕnĕs ndatan katon;"
+          },
+          {
+            "source": "HW+",
+            "text": "23.5: huraṅ aṅĕnĕs i rĕṅkā-rĕṅkā niṅ karaṅ;"
+          },
+          {
+            "source": "BY",
+            "text": "44.17: aṅĕnĕs layat anilibi pamrĕm i ṅhulun;"
+          },
+          {
+            "source": "Sum",
+            "text": "1.7: luma#mpahânaku mamañcana maṅĕnĕsa tan parowaṅa;"
+          },
+          {
+            "source": "HWj",
+            "text": "10.7: maṅkat rakwa sira n panuṅgal aṅĕnĕs yaya dinulur ikaṅ manah lĕṅöṅ (pass. in kak.);"
+          },
+          {
+            "source": "KHWj",
+            "text": "3.26b: ri prapta nira saṅ kadi Smarâṅĕnĕs eṅ Caṅgu;"
+          },
+          {
+            "source": "RL",
+            "text": "4.57: prapta aṅĕnĕs mijil."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "96",
+    "headword": "ĕniṅ",
+    "query": "ĕniṅ",
+    "page_ref": "458:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+    "definition": "see <i>hĕniṅ</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "97",
+    "headword": "ĕntak*",
+    "query": "ĕntak*",
+    "page_ref": "458:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕntak-ĕntak",
+        "page_ref": "458:8.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+        "definition": "to groan, moan constantly",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "19.83: lambuṅnya tambis pĕgat / mĕṅgah ta pwa maṅĕntak-ĕntak inusuṅ saṅsāra sāreṅ lara;"
+          },
+          {
+            "source": "BY",
+            "text": "45.3: ndatan wawaṅ māti maṅĕntak-ĕntak / Sugandhikā lot inawe śinabdan;"
+          },
+          {
+            "source": "SD",
+            "text": "8.22: hyaṅ Puṣpāyudha tinasak maṅĕntak-ĕntak / kaṣṭâtyanta dadi linūd sireṅ triśūla;"
+          },
+          {
+            "source": "L",
+            "text": "9.2: mrĕm tan polah aṅĕntak-ĕntak umiṅĕl tinañan i kalaranya tan sahur;"
+          },
+          {
+            "source": "L+",
+            "text": "22.2: waneh kĕna trus ya maṅĕntak-ĕntak / tapwan linūd śabda nirâsrĕt alwan;"
+          },
+          {
+            "source": "Td",
+            "text": "4.48b: kari taṅ wre lara bara aṅĕntak-ĕntak akuru aṅiḍĕp saṅsara."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "98",
+    "headword": "ĕntal*",
+    "query": "ĕntal*",
+    "page_ref": "458:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕntal, inĕntal",
+        "page_ref": "458:9.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+        "definition": "to rob",
+        "citations": [
+          {
+            "source": "WtS",
+            "text": "9.35: anayaba, anumpwa, maṅĕntala, salwira niṅ ulah tan sadu ulah nira;"
+          },
+          {
+            "source": "Adg",
+            "text": "7.16: ambegal, aṅĕntal, aṅgĕmpol woṅ;"
+          },
+          {
+            "source": "Adg+",
+            "text": "28.4: wwaṅ amasaṅ kala iṅĕr-iṅĕr, wwaṅ aṅĕntal, wwaṅ mbegal; (KBW:) inĕntal de niṅ durjana."
+          }
+        ]
+      },
+      {
+        "sub_head": "paṅĕntal-ĕntalan",
+        "page_ref": "458:9.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+        "definition": "place where highwaymen lurk",
+        "citations": [
+          {
+            "source": "BK",
+            "text": "39.24: riṅ A. kahalintaṅan huwus / ri tĕlasnya wiṣṭi ya paṅĕntal-ĕntalan."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "99",
+    "headword": "ĕntas*",
+    "query": "ĕntas*",
+    "page_ref": "458:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+    "definition": "(sometimes antas, prob. only a different spelling)",
+    "sub_entries": [
+      {
+        "sub_head": "mĕntas",
+        "page_ref": "458:10.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+        "definition": " 1. to come out of the water, onto dry land 2. to have crossed (over, OJ iṅ) 3. to overcome (suffering etc), be freed from, released 4. to be finished, to have just (done something)",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "78.9: mĕntas ta ... de nirâdyus;"
+          },
+          {
+            "source": "HW",
+            "text": "36.11: (tasik rah) mĕntas rikaṅ gunuṅ waṅkay;"
+          },
+          {
+            "source": "AWj",
+            "text": "57.5: umĕntas umareṅ mahantĕn i samīpa niṅ lwah;"
+          },
+          {
+            "source": "Sut",
+            "text": "48.8: ikaṅ wahu mĕntas aṅririhi roma nika; 73.1;"
+          },
+          {
+            "source": "Wṛt",
+            "text": "43: sampunyâdyus ... mĕntas;"
+          },
+          {
+            "source": "KHWj",
+            "text": "6.38b: wahu mĕntas asiram. Passim."
+          },
+          {
+            "source": "Wir",
+            "text": "28.12: kady ambĕk niṅ mĕntas iṅ lwah amaṅguh parahu;"
+          },
+          {
+            "source": "RY",
+            "text": "13.22: umĕntaseṅ tasik;"
+          },
+          {
+            "source": "RY+",
+            "text": "21.22: wĕnaṅ mĕntas ikaṅ samudra;"
+          },
+          {
+            "source": "AW",
+            "text": "25.7: mĕntas riṅ rudhirârṇawa;"
+          },
+          {
+            "source": "OJO",
+            "text": "83 (1323) 4b: maṅidul mĕntas iṅ lwah;"
+          },
+          {
+            "source": "MY",
+            "text": "(1446) 8B.3: mĕntas iṅ kaly aṅalor amnĕr ḍĕpa 86."
+          },
+          {
+            "source": "Wir",
+            "text": "67.12: prayojananya mĕntaseṅ apuy sĕḍĕṅ durgâṅarab-arab;"
+          },
+          {
+            "source": "Wir+",
+            "text": "73.33: mantas sĕlā ni tampuh niṅ warayaṅ, malayū ta saṅ dwijeśwara;"
+          },
+          {
+            "source": "BhP",
+            "text": "106.14: paḍĕm teja niṅ āditya, tĕlas umantas i śṛṅga niṅ astaparwata;"
+          },
+          {
+            "source": "SS",
+            "text": "16.2: tatan ĕntas saṅkeṅ saṅsāra;"
+          },
+          {
+            "source": "NPr",
+            "text": "2.3: mĕntasa ri sarwabhūmi ṅ usirĕn;"
+          },
+          {
+            "source": "NPr+",
+            "text": "8.3: mĕntas sakeṅ aweci;"
+          },
+          {
+            "source": "KS",
+            "text": "1.32a: palar anuwuha waṅsa niṅ rawit, marga niṅ wĕnaṅ mantasa maweh bubur suruh;"
+          },
+          {
+            "source": "Td",
+            "text": "1.54b: bagya yan ana dwijarsi ko paminta mĕntase Nandaka (perh. tr. = aṅĕntas, ``to hold a funeral for'');"
+          },
+          {
+            "source": "CA",
+            "text": "130.16: lah mĕntas kita lukat."
+          },
+          {
+            "source": "SW",
+            "text": "22.1: sampun rakwa sireka mĕntas apupul;"
+          },
+          {
+            "source": "SW+",
+            "text": "53.5: wĕṅi niyata kaluṅhā mĕntas taṅ ghaṭita nika;"
+          },
+          {
+            "source": "RL",
+            "text": "1.118: sawah mĕntas ginarw aradin;"
+          },
+          {
+            "source": "RL+",
+            "text": "3.1: mĕntas saṅ aṅinum amit;"
+          },
+          {
+            "source": "RL+",
+            "text": "3.19: mĕntas saṅ asasaraman;"
+          },
+          {
+            "source": "RL+",
+            "text": "4.54: muṅgw iṅ krĕtas mĕntas tatas kaṅ cicitran;"
+          },
+          {
+            "source": "Mal",
+            "text": "8.45b: punapeṅucap malih mĕntas gamĕlan puniki;"
+          },
+          {
+            "source": "Ww",
+            "text": "1.58b: sampun mĕntas anaṅkil;"
+          },
+          {
+            "source": "Ww+",
+            "text": "2.70b: mĕntas ipun uni ayuda tĕka aṅlih;"
+          },
+          {
+            "source": "Ww+",
+            "text": "3.69b: mĕntas sakeṅ pa(n)diwasrayan;"
+          },
+          {
+            "source": "Ww+",
+            "text": "4.22b: trĕpti panaḍah ira sami mĕntas amucaṅ."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕntas, inĕntas",
+        "page_ref": "458:10.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=458&zoom=width",
+        "definition": "to pull out of the water (a well); to free, release, rescue (= <b>-akĕn</b>, which is more usual)",
+        "citations": [
+          {
+            "source": "Sl",
+            "text": "10.11: ndya taṅ inĕntas sakeṅ naraka;"
+          },
+          {
+            "source": "TK",
+            "text": "132.20: sampun juga inĕntas ikaṅ mānuṣa; ikaṅ moṅ kewala ... inĕntas;"
+          },
+          {
+            "source": "Tk",
+            "text": "4.115a;"
+          },
+          {
+            "source": "NR",
+            "text": "69.21: ``sapa aṅĕntas iṅoṅ?''; ``aku kaṅ aṅĕntasakĕn kita''."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕntasi, mĕntasi, inĕntasan",
+        "page_ref": "458:10.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+        "definition": "to come ashore out of st., cross over; escape from, be freed from",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "148.7: parahwantâṅĕntasana ṅ duhkhārṇawa;"
+          },
+          {
+            "source": "Udy",
+            "text": "38.15: biṣṭi tan patĕpi norana parahu wĕnaṅ mĕntasana ya;"
+          },
+          {
+            "source": "SS",
+            "text": "510.4: kāraṇa niṅ mĕntasa ṅ bhāwasāgara;"
+          },
+          {
+            "source": "BY",
+            "text": "21.12: aharĕp maṅĕntasana sāgara;"
+          },
+          {
+            "source": "BY+",
+            "text": "44.6: rah lwahnya lot inĕntasan;"
+          },
+          {
+            "source": "BK",
+            "text": "32.14: aṅĕntasi wah turida;"
+          },
+          {
+            "source": "BK+",
+            "text": "40.4: lwah Sarayū ... sampun inĕntasan;"
+          },
+          {
+            "source": "SW",
+            "text": "11.17: icchānta mantasana karma nikaṅ triloka."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕntasakĕn, umĕntasakĕn, inĕntasakĕn",
+        "page_ref": "458:10.4",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+        "definition": ",",
+        "citations": []
+      },
+      {
+        "sub_head": "kantas, kantasan",
+        "page_ref": "458:10.5",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+        "definition": "(pvs) to set on land, carry across, pull out (of a well), rescue; to free (from sin etc, from taxation), rescue; (with sin etc as object) to wipe out",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "26.30: maṅĕn-aṅĕn iṅ daya de saṅ bapa hĕntasa (read kantasa?) saṅkeṅ saṅsāra;"
+          },
+          {
+            "source": "Ad+",
+            "text": "62.19: kinon ... mamarahwakĕna wwaṅ maṅaliwati Yamunā, inĕntasakĕn ira;"
+          },
+          {
+            "source": "Ad+",
+            "text": "78.25: ma#ṅĕntasakĕna kita sakeṅ sumur;"
+          },
+          {
+            "source": "BhP",
+            "text": "65.8: wĕnaṅ ṅhulun mantasakĕna saṅke gawenya hala;"
+          },
+          {
+            "source": "Udy",
+            "text": "82.9: anak ni ṅhulun ... yatiki umĕntasakĕna rahadyan saṅhulun iṅ hayu;"
+          },
+          {
+            "source": "SS",
+            "text": "8.2: kunaṅ pan ĕntasakĕna riṅ śubhakarma juga ikaṅ aśubhakarma, phala niṅ dadi wwaṅ;"
+          },
+          {
+            "source": "SS+",
+            "text": "24.3: dharma mantasakĕn ikaṅ triloka;"
+          },
+          {
+            "source": "SS+",
+            "text": "171.2: maṅĕntasakĕn saṅkeṅ kapri#hatin;"
+          },
+          {
+            "source": "SS+",
+            "text": "135.3: (yajña ... ) sor tika de niṅ kasatyan riṅ kapwâṅĕntasakĕn;"
+          },
+          {
+            "source": "SS+",
+            "text": "408.7: tan hana ṅ kaprajñan iriya; awaknya towi tan kantas denya;"
+          },
+          {
+            "source": "SS+",
+            "text": "484.2: manĕhĕr tika kakĕlĕm ewĕh kantasanya;"
+          },
+          {
+            "source": "SW",
+            "text": "11.5: donku n humĕntasakĕne kita duhkhakāla;"
+          },
+          {
+            "source": "AbhW",
+            "text": "43.8: taha karika ya kantas de niṅ jñāna kapuruṣan;"
+          },
+          {
+            "source": "TK",
+            "text": "92.26: umĕntasakĕna ṅ pāpa kleśa ni ṅhulun;"
+          },
+          {
+            "source": "KK",
+            "text": "65.5: ĕntasakĕna tâku sakeṅ Yamani;"
+          },
+          {
+            "source": "TBG",
+            "text": "74.285 f. (903) A.5: umantasakĕna saṅ mahawan; B.12: saluira nikanaṅ inantasakĕnya tan pintāna atah upahan;"
+          },
+          {
+            "source": "INI",
+            "text": "38 f. (1296) IIa.3: maṅĕntasakĕn sīma niṅ tuha-tuha;"
+          },
+          {
+            "source": "OJO",
+            "text": "83 (1323) 3a: mĕntasakĕna ṅ kulawarga riṅ T. mwaṅ K., marya kaparatantra;"
+          },
+          {
+            "source": "Traw",
+            "text": ". I (1358) 8 vo 1: ikaṅ anambaṅy aṅĕntasakĕn saṅkeṅ nadītīra."
+          }
+        ]
+      },
+      {
+        "sub_head": "paṅhĕntasan",
+        "page_ref": "458:10.6",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+        "definition": "? the person from whom one seeks the means of release?",
+        "citations": [
+          {
+            "source": "Udy",
+            "text": "85.15: ū wih liṅa yan hana saṅ Bhīṣma Droṇa ... paṅhĕntasana dharmopadeśa de niṅ kadi kita (one would expect something like pamalakwana)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "100",
+    "headword": "ĕntĕk*",
+    "query": "ĕntĕk*",
+    "page_ref": "459:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+    "definition": "(ĕṇṭĕk? ṅĕntĕk?)",
+    "sub_entries": [
+      {
+        "sub_head": "ṅĕntĕkan",
+        "page_ref": "459:1.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+        "definition": "drawn in? (ModJ ṅĕṇṭĕk swarane, to hold in, check, restrain)",
+        "citations": [
+          {
+            "source": "KY",
+            "text": "21.6: buntĕk moha bisâṅhalaṅ-halaṅi siṅ sakaraṇa ni wĕtĕṅnya ṅĕntĕkan."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "101",
+    "headword": "ĕnti",
+    "query": "ĕnti",
+    "page_ref": "459:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+    "definition": "see <i>hĕnti</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "102",
+    "headword": "ĕntul*",
+    "query": "ĕntul*",
+    "page_ref": "459:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕntul",
+        "page_ref": "459:3.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+        "definition": "(among the misdeeds punished in hell) to have an affair with another's wife? (cf. <i><b>KBW</b></i> s.v. <i>hĕntul</i>)",
+        "citations": [
+          {
+            "source": "ST",
+            "text": "5.131: papa niṅ watĕk aṅĕntul bole ako#leran maṅke, mĕḍĕm matanya mululu."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕntulakĕn",
+        "page_ref": "459:3.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+        "definition": "?",
+        "citations": [
+          {
+            "source": "KBW",
+            "text": "maṅĕntulakĕn iṅ kanindan iṅ adharma matilara ri saṅ nareśwara (Sut 116.3). The reading maṅĕn tulaka niṅ adharma seems preferable."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "103",
+    "headword": "ĕntut",
+    "query": "ĕntut",
+    "page_ref": "459:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+    "definition": "fart, wind",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕntut",
+        "page_ref": "459:4.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+        "definition": "to fart, break wind",
+        "citations": [
+          {
+            "source": "Wṛh",
+            "text": "33.85: ikaṅ pāywindriya ... pinakakāraṇa niṅ ātma n paṅisiṅ aṅĕntut pakĕnanya; 42.2;"
+          },
+          {
+            "source": "NR",
+            "text": "45.1."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "KS",
+        "text": "1.68a: uwabmu lwir ntut iṅ gasir."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "104",
+    "headword": "ĕnu",
+    "query": "ĕnu",
+    "page_ref": "459:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+    "definition": "see <i>hĕnū</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "105",
+    "headword": "ĕnuk*",
+    "query": "ĕnuk*",
+    "page_ref": "459:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+    "definition": "?",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕnuk",
+        "page_ref": "459:6.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+        "definition": "? (wrong transliteration for alök)",
+        "citations": [
+          {
+            "source": "BrP",
+            "text": "149.26: awĕnĕs aṅlih aṅĕnuk tiṅhal nira."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "106",
+    "headword": "ĕṅay",
+    "query": "ĕṅay",
+    "page_ref": "459:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+    "definition": "(?)",
+    "sub_entries": [
+      {
+        "sub_head": "paṅĕṅayan",
+        "page_ref": "459:7.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+        "definition": "a part. kind of boat (see under <i>laṅkapan</i>).",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "107",
+    "headword": "ĕṅĕn",
+    "query": "ĕṅĕn",
+    "page_ref": "459:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+    "definition": "see <i>mĕṅĕn</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "108",
+    "headword": "ĕṅĕṅ",
+    "query": "ĕṅĕṅ",
+    "page_ref": "459:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+    "definition": "see <i>mĕṅĕṅ</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "109",
+    "headword": "ĕṅĕs I",
+    "query": "ĕṅĕs I",
+    "page_ref": "459:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+    "definition": "see under <i>ṅĕs</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "110",
+    "headword": "ĕṅĕs* II",
+    "query": "ĕṅĕs* II",
+    "page_ref": "459:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+    "definition": "cf <i>iṅis</i>; see also <i>mrĕṅĕs</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "mĕṅĕs, umĕṅĕs",
+        "page_ref": "459:11.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=459&zoom=width",
+        "definition": " 1. bared, drawn, exposed 2. the meaning is not so clear in:",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "19.82: (warayaṅ) laṇḍĕp mĕṅĕs;"
+          },
+          {
+            "source": "BY",
+            "text": "45.2;"
+          },
+          {
+            "source": "Sut",
+            "text": "122.14: kadga tīkṣṇomĕṅĕs; (114.7: tīkṣṇâmĕṅĕs, read -omĕṅĕs?);"
+          },
+          {
+            "source": "AbhW",
+            "text": "48.2: ardhacandra ya mĕṅĕs lwir nāgadaṅṣṭrâluṅid;"
+          },
+          {
+            "source": "AbhW+",
+            "text": "17.1: moga tatan mĕṅĕs juga laṭinya paḍa maguñĕpan ndatan humuṅ;"
+          },
+          {
+            "source": "HWj",
+            "text": "30.7: kantarnyogra hinulwalanya dumilah malwā mĕṅĕs bhīṣaṇa;"
+          },
+          {
+            "source": "AS(B)",
+            "text": "45.4."
+          },
+          {
+            "source": "Sum",
+            "text": "110.2: katon paḍâkucĕm / tiḍĕm waja nirâsamun mari lumöṅ hinilan ira sĕrĕh mĕṅĕs-mĕṅĕs (of the disappointed and dismayed kings);"
+          },
+          {
+            "source": "BK",
+            "text": "2.14: mĕhah sira mĕṅĕs wawaṅ wĕtu ni luh nira (bal. com. madĕkĕsan, groaning; suṅsut);"
+          },
+          {
+            "source": "AbhW",
+            "text": "57.8: (kapūhan sira ... ) asoway umĕṅĕs ta saṅ nṛpati tan dwa mojar sira: ... (when the Pāṇḍawas show themselves in their true forms). Could it be: ``gaping'' or ``grimacing'' with sadness; openmouthed with amazement? It is something else again in the description of beautiful court ladies:"
+          },
+          {
+            "source": "Sum",
+            "text": "10.6: (saṅke swarga hulun tuhâṅgĕh ira ṅūni ... ) wwaṅ riṅ jro juru niṅ mĕṅĕs pinarĕk iṅ wagĕd amirit i hatwikiṅ manis (KBW s.v. pirit: wagĕd amirit hatwâkiṅ manis, metrically impossible);"
+          },
+          {
+            "source": "SW",
+            "text": "15.4: kweh paricārikânwam aṅiriṅ ri sira tuwin arūm paḍomĕṅĕs."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕṅĕsi",
+        "page_ref": "459:11.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+        "definition": "? from ṅĕs?",
+        "citations": [
+          {
+            "source": "BK",
+            "text": "81.35: twas tan atis titisnya pĕlĕm iṅ barabas aṅĕṅĕsi."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "111",
+    "headword": "ĕṅĕt",
+    "query": "ĕṅĕt",
+    "page_ref": "460:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+    "definition": "a kind of whitish insect which eats paper and clothing (ModJ)",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KM",
+        "text": "110.1: surat pawitan rusak de niṅ bubuk, de niṅ ĕṅĕt."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "112",
+    "headword": "ĕṅga",
+    "query": "ĕṅga",
+    "page_ref": "460:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+    "definition": "see <i>aṅga</i> III.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "113",
+    "headword": "ĕṅgah*",
+    "query": "ĕṅgah*",
+    "page_ref": "460:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "(u)mĕṅgah",
+        "page_ref": "460:3.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+        "definition": "to sigh, breathe heavily, gasp for breath",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "19.83: mĕṅgah ta pwa maṅĕntak-ĕntak;"
+          },
+          {
+            "source": "RY+",
+            "text": "20.5: rākṣasa mĕṅgah ya mĕhah;"
+          },
+          {
+            "source": "RY+",
+            "text": "21.175: glānomĕṅgah mosah aṅĕmbus;"
+          },
+          {
+            "source": "GK",
+            "text": "41.5: kabwaṅ tan pamalar hurip luyuk arĕs mĕṅgah kaṅelan kawĕs;"
+          },
+          {
+            "source": "BK",
+            "text": "48.6: umĕhah ywa mĕṅgah aṅĕlih;"
+          },
+          {
+            "source": "Sum",
+            "text": "123.1: mār gupe kawĕnĕsan / mĕṅgah awuṅw anoliha paran tikāṅ inusapan;"
+          },
+          {
+            "source": "Sut",
+            "text": "122.3: (bala) mĕṅgah-mĕṅgah ikaṅ kahoṅan umaṅap;"
+          },
+          {
+            "source": "Sut+",
+            "text": "127.11: mĕṅgah-mĕṅgah kahoṅan suku nika kumĕter;"
+          },
+          {
+            "source": "SW",
+            "text": "16.4: lot mĕṅgah karĕṅö maṅisĕk-isĕk;"
+          },
+          {
+            "source": "TK",
+            "text": "68.15: mĕṅgah mamĕkasi hurip;"
+          },
+          {
+            "source": "KHWj",
+            "text": "1.76b: mĕṅgah sarwy anolih;"
+          },
+          {
+            "source": "KHWj+",
+            "text": "1.77a: aliṅgih aneṅ wijil pisan mĕṅgah nĕhĕr sirâṅiduṅ;"
+          },
+          {
+            "source": "KHWj+",
+            "text": "2.92a: tumuli mĕṅgah akĕcap waspa nirâdrĕs;"
+          },
+          {
+            "source": "KHWj+",
+            "text": "2.92b: mĕṅgah aṅaḍuh;"
+          },
+          {
+            "source": "KHWj+",
+            "text": "6.46a: mĕṅgah aṅayuh tapih;"
+          },
+          {
+            "source": "KS",
+            "text": "3.34: aṅlilir mĕṅgah aṅaḍuh;"
+          },
+          {
+            "source": "RL",
+            "text": "4.63: saṅ inaturan mĕṅgah lĕṅlĕṅ tan paṅliṅ;"
+          },
+          {
+            "source": "Mal",
+            "text": "8.72b: tan molah ... aguliṅ / aṅiṅ mĕṅgah akĕcap;"
+          },
+          {
+            "source": "Td",
+            "text": "1.52b: mĕṅgah aṅaṅsur."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕṅgah-ĕṅgah",
+        "page_ref": "460:3.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+        "definition": "idem (with greater intensity?)",
+        "citations": [
+          {
+            "source": "BK",
+            "text": "95.1d: paḍâṅĕṅgah-ĕṅgah masambat bapa mwaṅ bibi."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "114",
+    "headword": "ĕṅgĕp*",
+    "query": "ĕṅgĕp*",
+    "page_ref": "460:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "mĕṅgĕp",
+        "page_ref": "460:4.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+        "definition": "to have the appearance of, looking like, apparently; to assume the appearance of, pretend, feign",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "57.1: ike saṅ brāhmaṇa mĕṅgĕp wāla tātan rare sira, atuha ri hiḍĕp ni ṅhulun;"
+          },
+          {
+            "source": "Ad+",
+            "text": "67.23: saḍatĕṅ nireṅ āśrama ... , mĕṅgĕp ta sirâmĕṅ-amĕṅ;"
+          },
+          {
+            "source": "Ad+",
+            "text": "182.16: ḍatĕṅ ta saṅ Dhṛṣṭadyumna mĕṅgĕp tan hana wihikan, miṅĕtakĕn polah saṅ Pāṇḍawa;"
+          },
+          {
+            "source": "Wir",
+            "text": "54.22: mĕṅgĕp api hīnaśakti;"
+          },
+          {
+            "source": "RY",
+            "text": "10.51: guragaḍa juga mĕṅgĕp wruh;"
+          },
+          {
+            "source": "RY+",
+            "text": "11.94: kabwatnya n nipuṇa ... / ndan mĕṅgĕp ṅhulun awarah kita;"
+          },
+          {
+            "source": "AW",
+            "text": "30.3: mĕṅgĕp aṅuwahi gĕluṅnya tan lukar;"
+          },
+          {
+            "source": "HW",
+            "text": "10.13: mĕṅgĕp acum kuraṅ wuwus i len i wuyuṅ ira;"
+          },
+          {
+            "source": "HW+",
+            "text": "34.6: saṅ prabhu ... arukuh kāñcana / mĕṅgĕp sampun abhūṣaṇâni#haṅakĕn cakra;"
+          },
+          {
+            "source": "SD",
+            "text": "28.12: yeka pakrak bhaṭārī / mulat i wĕka nirâwak dewa mĕṅgĕp gajendra;"
+          },
+          {
+            "source": "Sum",
+            "text": "28.6: umah atiśaya denyâporaṅ mĕṅgĕp aṅililan;"
+          },
+          {
+            "source": "Sum+",
+            "text": "74.7: kālap denta manahku mĕṅgĕp amanis rūpanta duṣṭe hati;"
+          },
+          {
+            "source": "TK",
+            "text": "140.7: mĕṅgĕp śāntabuddhi makārya hala;"
+          },
+          {
+            "source": "KHWj",
+            "text": "4.30b: mĕṅgĕp sasolah ipun kanagarin;"
+          },
+          {
+            "source": "KS",
+            "text": "1.11a: solah ira mĕṅgĕp raspati. Passim in kid."
+          }
+        ]
+      },
+      {
+        "sub_head": "kamĕṅgĕpan",
+        "page_ref": "460:4.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+        "definition": "(with mĕṅgĕp as secondary base-word) the assuming of the appearance of",
+        "citations": [
+          {
+            "source": "Knt",
+            "text": "33.8: ri kamĕṅgĕpanmu magĕlĕṅ hatinta duṣṭa."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "115",
+    "headword": "ĕṅgon",
+    "query": "ĕṅgon",
+    "page_ref": "460:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+    "definition": "(= <b>uṅgwan</b>, see <i>uṅgu</i>) place",
+    "sub_entries": [
+      {
+        "sub_head": "ĕṅgone",
+        "page_ref": "460:5.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+        "definition": "used to substantivate a verb or an adjective; cf. ModJ.",
+        "citations": [
+          {
+            "source": "Kor",
+            "text": "104.28: ĕṅgone apopolahan lawan si Sundarī."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ws",
+        "text": "4.51b: saĕṅgon-ĕṅgon irâguliṅ."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "116",
+    "headword": "ĕṅguk*",
+    "query": "ĕṅguk*",
+    "page_ref": "460:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "mĕṅguk",
+        "page_ref": "460:6.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+        "definition": "to nod contentedly",
+        "citations": [
+          {
+            "source": "KS",
+            "text": "3.50: saṅ dwija praptâṅajĕṅin (sic) mĕ#ṅguk-mĕṅguk molih daksina."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "117",
+    "headword": "ĕṅkab*",
+    "query": "ĕṅkab*",
+    "page_ref": "460:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+    "definition": "(cf <i>iṅkab</i>)",
+    "sub_entries": [
+      {
+        "sub_head": "mĕṅkab",
+        "page_ref": "460:7.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+        "definition": "to open, unfold, develop, expand",
+        "citations": [
+          {
+            "source": "Kor",
+            "text": "26.30: ana kadi kilat mĕṅkab yan tilĕm;"
+          },
+          {
+            "source": "Kor+",
+            "text": "202.14: milu pwa saṅ Anantabhoga osah, ya ta mĕṅkab ḍaḍa Baḍawaṅ-nala."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "118",
+    "headword": "ĕṅkas (ĕkas",
+    "query": "ĕṅkas (ĕkas",
+    "page_ref": "460:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+    "definition": "? ) in (so much time from now)",
+    "sub_entries": [
+      {
+        "sub_head": "anĕkas",
+        "page_ref": "460:8.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+        "definition": "= <b>ĕṅkas</b> (<i><b>KBW</b></i> s.v. <i>tĕkas</i>: ``often a graphical error for ĕṅkas'')",
+        "citations": [
+          {
+            "source": "Ww(A)",
+            "text": "3.19a: rwaṅ dinânĕkas masa niṅ wiwaha (var. ṅkas, wĕkas);"
+          },
+          {
+            "source": "Ww(A)+",
+            "text": "3.82a: malih dasa dinânĕkas patotoyan ira."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ww(A)",
+        "text": "2.4a: nĕm dinâṅkas maṅkata kaharĕp iṅsun;"
+      },
+      {
+        "source": "CA",
+        "text": "145.8: tĕluṅ tahun ĕkas (sic?)."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "119",
+    "headword": "ĕṅkĕh*",
+    "query": "ĕṅkĕh*",
+    "page_ref": "460:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+    "definition": "(cf <i>ĕkĕh</i>)",
+    "sub_entries": [
+      {
+        "sub_head": "mĕṅkĕh",
+        "page_ref": "460:9.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+        "definition": "to sigh",
+        "citations": [
+          {
+            "source": "Sut",
+            "text": "140.7: anaṅis / muwah sakweh watĕk nātha / manaṅ mĕṅkĕh sirâsayut."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "120",
+    "headword": "ĕṅkuh*",
+    "query": "ĕṅkuh*",
+    "page_ref": "460:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+    "definition": "(?)",
+    "sub_entries": [
+      {
+        "sub_head": "mĕṅkuh",
+        "page_ref": "460:10.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+        "definition": "to sigh",
+        "citations": [
+          {
+            "source": "Mal",
+            "text": "3.73a: malah dalu mĕṅgah mĕṅkuh (var. mĕṅguh)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "121",
+    "headword": "ĕṅsah*",
+    "query": "ĕṅsah*",
+    "page_ref": "460:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+    "definition": "= <b>ĕsah</b>, q.v.",
+    "sub_entries": [
+      {
+        "sub_head": "mĕṅsah",
+        "page_ref": "460:11.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+        "definition": "to sigh",
+        "citations": [
+          {
+            "source": "ST",
+            "text": "5.56: mĕṅgah mĕṅsah de niṅ aṅin;"
+          },
+          {
+            "source": "ST+",
+            "text": "7.16: mĕṅsah aṅusapi taṅ luh."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "122",
+    "headword": "ĕñcuh*",
+    "query": "ĕñcuh*",
+    "page_ref": "460:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+    "definition": "(see also <i>ĕñjuh</i>)",
+    "sub_entries": [
+      {
+        "sub_head": "mĕñcuh",
+        "page_ref": "460:12.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=460&zoom=width",
+        "definition": "slowly, gently? (mere guess)",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "10.4: aśrī warṇa nirâraras kadi saroja kinĕlabakĕn iṅ ryak iṅ bañu / de niṅ mĕñcuh aṅambĕk-ambĕk i sabhāwa nira tĕka hirĕṅ kineriṅan;"
+          },
+          {
+            "source": "Sum+",
+            "text": "61.3: denyâṅlaṅkahakĕn sukunya kadi tan lĕpasa tĕkap i lon ikaṅ laku / mĕñcuh-mĕñcuh (var. mĕñjuh-mĕñjuh) aṅambĕk-ambĕki pupūnya hana bĕnĕr adĕgnya pet ulah;"
+          },
+          {
+            "source": "KY",
+            "text": "33.8: waneh mādĕg mintar tĕkap i salĕsĕk niṅ gwan arupit / tĕkâsih bhāwanya n balisah apipit kenya libabĕn / hanan mĕñcuh ry ājĕṅnya karika ya hetunya n akĕdö / miṅis marmembuh ṅrĕs rĕṅu-rĕṅu nikâṅambwani raras;"
+          },
+          {
+            "source": "BT",
+            "text": "15.2: prāpta ṅ wwaṅnyâṅatag mantuka ... / ri ṅkā maṅkat parĕṅ lampah ika madulur iṅ mārga mĕñcuh larinya;"
+          },
+          {
+            "source": "AbhW",
+            "text": "3.7: dewī lāgi sinalahakĕn ... / tuhun mĕñcuh-mĕñcuh ta sira n inamĕr tan mari rapuh;"
+          },
+          {
+            "source": "AbhW+",
+            "text": "69.4: kepwan yar ton wulat saṅ priya lumiriṅ arūm lagya mĕñcuh manisnya."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕñcuh-ĕñcuh",
+        "page_ref": "460:12.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+        "definition": "to slow down? see under <i>ĕñjuh</i>.",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "123",
+    "headword": "ĕñĕt",
+    "query": "ĕñĕt",
+    "page_ref": "461:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "deathly still; cf <i>ModJ</i> ñĕñĕt",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "NR",
+        "text": "43.14: kapaṅgih ikaṅ atis ĕñĕt, trus tĕka riṅ antakarana."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "124",
+    "headword": "ĕñjak*",
+    "query": "ĕñjak*",
+    "page_ref": "461:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕñjak",
+        "page_ref": "461:2.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+        "definition": "to take a step, step on (ModJ).",
+        "citations": [
+          {
+            "source": "AgP",
+            "text": "396.19: tatar panaṇḍaṅ dodot wirūpa ... tatar paṅĕñjak-ĕñjaka, tatar parā ri umah niṅ omah, kewalâyogā juga sira (among the things which are not allowed to a brahman; ``to walk about''?)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "125",
+    "headword": "ĕñjuh",
+    "query": "ĕñjuh",
+    "page_ref": "461:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "= <b>ĕñcuh</b>, q.v. ?",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕñjuh-ĕñjuh",
+        "page_ref": "461:3.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+        "definition": "to slow down?",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "88.2: sampun mālih sudewī kasusu laku nirâṅĕñjuh-ĕñjuh kaṅelan (KBW aṅĕñcuh-ĕñcuh);"
+          },
+          {
+            "source": "HWj",
+            "text": "1.18: ryaknyâṅlaṇḍĕṅ aṅĕñjuh-ĕñjuh (var. aṅĕñcuh-ĕñcuh) i pacar (read pacar-pacar?) ika paḍa warṇa markata."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "126",
+    "headword": "ĕñjuṅ*",
+    "query": "ĕñjuṅ*",
+    "page_ref": "461:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "mĕñjuṅ",
+        "page_ref": "461:4.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+        "definition": "to follow (a way)?",
+        "citations": [
+          {
+            "source": "Sor",
+            "text": "10.8: tus niṅ woṅ lĕwih tĕtĕg mĕñjuṅ marga lĕwih; 10.20."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "127",
+    "headword": "ĕpaṅ*",
+    "query": "ĕpaṅ*",
+    "page_ref": "461:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "(= <b>paṅ</b>, q.v.) branch",
+    "sub_entries": [
+      {
+        "sub_head": "maĕpaṅ",
+        "page_ref": "461:5.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+        "definition": "with branches",
+        "citations": [
+          {
+            "source": "Kor",
+            "text": "188.7: maĕpaṅ suwarṇa."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "128",
+    "headword": "ĕpĕp*",
+    "query": "ĕpĕp*",
+    "page_ref": "461:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕpĕp",
+        "page_ref": "461:6.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+        "definition": "to conceal os., hide",
+        "citations": [
+          {
+            "source": "Wir",
+            "text": "42.2: nyāpan tahan paṅĕpĕpa riṅ (read niṅ?) Yadukula;"
+          },
+          {
+            "source": "Wir+",
+            "text": "93.2: maṅāśrayâṅĕpĕp i paṅdhairyan parameśwara, ... kadi raray i dalĕm wĕtĕṅ;"
+          },
+          {
+            "source": "BY",
+            "text": "46.1: (Duryodhana in a river) sākṣāt mīnâṅĕpĕp tan kapĕgan;"
+          },
+          {
+            "source": "GK",
+            "text": "4.8: aṅlĕṅĕṅa mahasa ... / ... sukha bhuktinĕn iṅ aṅĕpĕpe dalĕm purī;"
+          },
+          {
+            "source": "RPWj",
+            "text": "22.3: kadi pwa mamati wyalaṅga n aṅĕpĕp rikaṅ wwai hĕniṅ;"
+          },
+          {
+            "source": "Td",
+            "text": "4.9b: kayâṅĕpĕpe tambra goweci."
+          }
+        ]
+      },
+      {
+        "sub_head": "inĕpĕpakĕn",
+        "page_ref": "461:6.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+        "definition": "(pf) to put into a hole",
+        "citations": [
+          {
+            "source": "PYñ",
+            "text": "33.14: (mĕnur) pinipil nirenĕpĕpakĕn riṅ iruṅ."
+          }
+        ]
+      },
+      {
+        "sub_head": "paṅĕpĕpan",
+        "page_ref": "461:6.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+        "definition": "hiding-place",
+        "citations": [
+          {
+            "source": "GK",
+            "text": "27.17: patapan kasimpar asĕnöt iki paṅĕpĕpana."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "129",
+    "headword": "ĕpĕr",
+    "query": "ĕpĕr",
+    "page_ref": "461:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "see <i>kĕpĕr</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "130",
+    "headword": "ĕpek*",
+    "query": "ĕpek*",
+    "page_ref": "461:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕpeki",
+        "page_ref": "461:8.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+        "definition": "to take away",
+        "citations": [
+          {
+            "source": "Ad",
+            "text": "10.7: tan dadi ... maṅĕpeki paṅan iṅ watsa."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "131",
+    "headword": "ĕpik",
+    "query": "ĕpik",
+    "page_ref": "461:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "(= <b>pik</b>, q.v.) white",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Kor",
+        "text": "176.33: mapadapa ĕpik, apattra sarĕ#bab."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "132",
+    "headword": "ĕpil*",
+    "query": "ĕpil*",
+    "page_ref": "461:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕpil",
+        "page_ref": "461:10.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+        "definition": "to press os. flat on the ground, hide",
+        "citations": [
+          {
+            "source": "KS",
+            "text": "2.95: anusupa riṅ alas ... ana riṅ lĕbak kadi luwak aṅĕpil."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "133",
+    "headword": "ĕpiṅ, hĕpiṅ",
+    "query": "ĕpiṅ, hĕpiṅ",
+    "page_ref": "461:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": ", a part. kind of bird. Ĕpiṅ seems to be a bird, not an insect (cf <i><b>RPWj</b></i> 30.4; Robson, <i><b>L</b></i> 2.9: ``tree-beetle'')",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "SD",
+        "text": "9.3: umuni manuk garantuṅ ika ... / ḍatĕṅ aṅuyûywa tan papĕgatan panuliṅ niṅ ĕpiṅ;"
+      },
+      {
+        "source": "BK",
+        "text": "4.14: liraṅ ramyâjaṅjaṅ pinanuliṅakĕn de nikaṅ ĕpiṅ (bal. com.: pakṣi ĕpiṅ);"
+      },
+      {
+        "source": "BK+",
+        "text": "4.17: muni ṅ cuṅgereret lyan ĕpiṅ araras mwaṅ hayam alas;"
+      },
+      {
+        "source": "Sut",
+        "text": "9.4: kīrṇa ṅ pakṣi garantuṅ iṅ paṅ ... asĕmu kinaṅsyan iṅ hĕpiṅ;"
+      },
+      {
+        "source": "L",
+        "text": "2.9: śū#nyâṅhiṅ panaṅis nikaṅ hĕpiṅ aśabdâṅhrik;"
+      },
+      {
+        "source": "L+",
+        "text": "8.6: swara niṅ hĕpiṅ sataṅis iṅ wahu-wahu kinĕnan karāsikan;"
+      },
+      {
+        "source": "RPWj",
+        "text": "30.4: tūsnyâ#ṅĕmbĕṅ aho hĕpiṅnya n asibū laki-bi jĕnĕk aṅanti riṅ watu;"
+      },
+      {
+        "source": "KHWj",
+        "text": "3.49b: asraṅ taṅ paksi kĕtur ... kinaṅsyan iṅ ĕpiṅ."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "134",
+    "headword": "ĕpit I",
+    "query": "ĕpit I",
+    "page_ref": "461:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "ochre, ochrous",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "Kor",
+        "text": "130.19: ĕpit ṅaran iṅ atal;"
+      },
+      {
+        "source": "Kor+",
+        "text": "18.15: mawatu ĕpit."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "135",
+    "headword": "ĕpit* II, ĕmpit*",
+    "query": "ĕpit* II, ĕmpit*",
+    "page_ref": "461:13",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "paṅĕpit, paṅĕmpit",
+        "page_ref": "461:13.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+        "definition": "= <b>paṅapit</b>, see <i>apit</i>. The meaning of paṅapit, paṅĕpit in connection with weapons is not clear.",
+        "citations": [
+          {
+            "source": "TK",
+            "text": "158.3: sinuduknya riṅ warayaṅ paṅĕmpit;"
+          },
+          {
+            "source": "KS",
+            "text": "1.76b: pĕḍaṅ paṅĕpit linuhuṅ tinitah de niṅ ĕmas;"
+          },
+          {
+            "source": "Td",
+            "text": "4.68a: sinuduk iṅ iswa paṅĕpit."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "136",
+    "headword": "ĕpuṅ",
+    "query": "ĕpuṅ",
+    "page_ref": "461:14",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "see <i>puṅ</i> I.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "137",
+    "headword": "ĕrĕb",
+    "query": "ĕrĕb",
+    "page_ref": "461:15",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "see <i>rĕb</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "138",
+    "headword": "ĕrĕt",
+    "query": "ĕrĕt",
+    "page_ref": "461:16",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "see <i>hrĕt</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "139",
+    "headword": "ĕri",
+    "query": "ĕri",
+    "page_ref": "461:17",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "thorn, prickle, sting (cf <i>rwi</i>)",
+    "sub_entries": [
+      {
+        "sub_head": "ma-ĕri",
+        "page_ref": "461:17.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+        "definition": "with thorns",
+        "citations": [
+          {
+            "source": "KHWj",
+            "text": "2.15b: tan bontĕn macan mwaṅ ula banṭeṅ tan pa-ĕri."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Tk",
+        "text": "2.10a: warak juga nitya amaṅan ĕri."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "140",
+    "headword": "ĕrig",
+    "query": "ĕrig",
+    "page_ref": "461:18",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "= <b>kĕrig?</b> For ĕrig - kĕrig, see <i><b>KBW</b></i> s.v. <i>haru</i>. See also <i>arig</i> I.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "141",
+    "headword": "ĕru",
+    "query": "ĕru",
+    "page_ref": "461:19",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "",
+    "sub_entries": [],
+    "citations": [
+      {
+        "source": "KBW",
+        "text": "direction? position?; Swel.: point, tip; conn. with hru?"
+      },
+      {
+        "source": "Kor",
+        "text": "68.14: (nusa Jawa) enak ta ĕru nira marĕp maṅilyan."
+      }
+    ],
+    "group_id": 4
+  },
+  {
+    "id": "142",
+    "headword": "ĕsah* (kĕsah*",
+    "query": "ĕsah* (kĕsah*",
+    "page_ref": "461:20",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+    "definition": "?)",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕsah, paṅĕsah",
+        "page_ref": "461:20.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=461&zoom=width",
+        "definition": "(avs), <b>aṅĕsah-ĕsah</b> to sigh (in a plaintive or tearful way)",
+        "citations": [
+          {
+            "source": "Udy",
+            "text": "47.21: mahosan aṅĕsah de niṅ lara;"
+          },
+          {
+            "source": "RY",
+            "text": "9.70: aṅĕsah kapwa kepwan;"
+          },
+          {
+            "source": "RY+",
+            "text": "24.9: aṅĕsah asih saṅ siddha muṅgw iṅ laṅit;"
+          },
+          {
+            "source": "RY+",
+            "text": "24.40: manaṅis asih maṅĕsah;"
+          },
+          {
+            "source": "AW",
+            "text": "30.10: aṅĕlih-ṅĕlih makasahur paṅĕsah ira lawan rĕṅih nira;"
+          },
+          {
+            "source": "HW",
+            "text": "2.18: (patĕr) sapaṅĕsah iṅ akūṅ kinolakĕn;"
+          },
+          {
+            "source": "BY",
+            "text": "6.4: camara maṅĕsah iṅ wĕṅi;"
+          },
+          {
+            "source": "SD",
+            "text": "14.2: aṅure sira miṅĕl aṅĕsah;"
+          },
+          {
+            "source": "Sum",
+            "text": "89.3: paṅkwankw ību paranti niṅ wwaṅ anukĕr-nukĕr aṅĕsah-ĕsah;"
+          },
+          {
+            "source": "Sum+",
+            "text": "105.1: rĕṅih lawan paṅĕsah iṅ kinisapu;"
+          },
+          {
+            "source": "AWj",
+            "text": "36.1: miṅay aṅĕsah wimūrchita;"
+          },
+          {
+            "source": "AWj+",
+            "text": "51.5: bala rākṣasosah aṅĕsah de niṅ musuh śaktimān;"
+          },
+          {
+            "source": "L",
+            "text": "5.2: hanan aṅĕsah wuluhnya tĕkap iṅ samīraṇa;"
+          },
+          {
+            "source": "AbhW",
+            "text": "14.3: aṅajap lulut aṅĕsah akūṅ;"
+          },
+          {
+            "source": "AbhW+",
+            "text": "15.25: maṅĕsah asih bhramita ṅ manah wirāgya;"
+          },
+          {
+            "source": "KHWj",
+            "text": "3.2b: camara nikâṅĕsah tinub iṅ anila;"
+          },
+          {
+            "source": "RL",
+            "text": "10.4: saṅ dyah aṅĕsah karo akaku rasa niṅ ati."
+          }
+        ]
+      },
+      {
+        "sub_head": "mĕsah",
+        "page_ref": "461:20.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "idem",
+        "citations": [
+          {
+            "source": "KHWj",
+            "text": "4.94a: saṅ dyah mĕsah saha taṅis;"
+          },
+          {
+            "source": "KHWj+",
+            "text": "6.39a: mĕsah miṅyânampik hasta."
+          }
+        ]
+      },
+      {
+        "sub_head": "kĕsah",
+        "page_ref": "461:20.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "(only once in a dubious passage)",
+        "citations": [
+          {
+            "source": "Kor",
+            "text": "202.12: kĕneṅ osah mĕṅgah kĕsah (var. mĕṅsah, gĕsah)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "143",
+    "headword": "ĕsö*",
+    "query": "ĕsö*",
+    "page_ref": "462:1",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+    "definition": "= <b>usu</b>, q.v.",
+    "sub_entries": [
+      {
+        "sub_head": "maṅĕsö",
+        "page_ref": "462:1.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "to rub",
+        "citations": [
+          {
+            "source": "Utt",
+            "text": "84.12: mijil maśarīra ta saṅ ratu Nimi an dinrĕs de niṅ maṅĕsyĕn ikaṅ ĕsyĕn ... Mathana ṅaran iṅ lĕkas niṅ maṅĕsö."
+          }
+        ]
+      },
+      {
+        "sub_head": "ĕsyĕn, ĕsyan",
+        "page_ref": "462:1.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "= <b>uswan</b>",
+        "citations": [
+          {
+            "source": "Utt",
+            "text": "84.10: (see above);"
+          },
+          {
+            "source": "KBW",
+            "text": "(s.v. ĕsö): kady aṅgan iṅ apuy hana riṅ ĕsyan."
+          }
+        ]
+      },
+      {
+        "sub_head": "maṅĕsyĕn",
+        "page_ref": "462:1.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "= <b>maṅuswan</b>",
+        "citations": [
+          {
+            "source": "Utt",
+            "text": "84.9: (see above)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "144",
+    "headword": "ĕsör*",
+    "query": "ĕsör*",
+    "page_ref": "462:2",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+    "definition": "= <b>sör</b>, q.v. ?",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕsör",
+        "page_ref": "462:2.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "to cut off?",
+        "citations": [
+          {
+            "source": "KD",
+            "text": "4.11: anambĕr sayab wörnya mamatuk aṅĕsör nampyal."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "145",
+    "headword": "ĕsĕs*",
+    "query": "ĕsĕs*",
+    "page_ref": "462:3",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "umĕsĕs",
+        "page_ref": "462:3.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "whistling, howling (of gale, heavy breathing)",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "6.133: humyus mĕsös aṅin-aṅin nira bāyubajra;"
+          },
+          {
+            "source": "RY+",
+            "text": "19.70: seṇḍuṅ bhīṣaṇa bāyuba#jrasadṛśośwāsanya humyus mĕsĕs;"
+          },
+          {
+            "source": "RY+",
+            "text": "22.47: uśwāśa niromĕsĕs dadi haṅin seṇḍuṅ riwutpāta ya;"
+          },
+          {
+            "source": "HWj",
+            "text": "4.11: uśwāsomĕsĕs aganas halisnya kumrut;"
+          },
+          {
+            "source": "HWj+",
+            "text": "32.4: aṅde bāyubajro#mĕsĕs;"
+          },
+          {
+            "source": "HWj+",
+            "text": "48.3: wagyutpātā mĕsĕs bhīṣaṇa."
+          }
+        ]
+      },
+      {
+        "sub_head": "aṅĕsĕs, aṅĕsĕs-ĕsĕs",
+        "page_ref": "462:3.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "(perhaps better from ṅĕ#sĕs, q.v.).",
+        "citations": []
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "146",
+    "headword": "ĕsyan, ĕsyĕn",
+    "query": "ĕsyan, ĕsyĕn",
+    "page_ref": "462:4",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+    "definition": "see <i>ĕsö</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "147",
+    "headword": "ĕt",
+    "query": "ĕt",
+    "page_ref": "462:5",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+    "definition": "see <i>höt</i>.",
+    "sub_entries": [],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "148",
+    "headword": "ĕtal*",
+    "query": "ĕtal*",
+    "page_ref": "462:6",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+    "definition": "(or <b>kĕtal?)</b>",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕtal",
+        "page_ref": "462:6.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "? (read aṅĕntal, see <i>ĕntal?</i>)",
+        "citations": [
+          {
+            "source": "KK",
+            "text": "67.15: aṅĕtal aṅutil."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "149",
+    "headword": "ĕtĕt*",
+    "query": "ĕtĕt*",
+    "page_ref": "462:7",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+    "definition": "(cf <i>höt</i>)",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕtĕt",
+        "page_ref": "462:7.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": " 1. to hide oneself 2. to hold back, refuse to give",
+        "citations": [
+          {
+            "source": "KY",
+            "text": "16.6: (bañak) maṅantiga ri nūsa niṅ talaga len ikaṅ aṅĕtĕt i salwaṅ iṅ karaṅ."
+          },
+          {
+            "source": "AWj",
+            "text": "4.9: ṅūni n arĕp aṅĕtĕtekiṅ kaḍatwan ri Lĕṅkā."
+          }
+        ]
+      },
+      {
+        "sub_head": "inĕtĕtakĕn",
+        "page_ref": "462:7.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "(pf) to hide, hold back",
+        "citations": [
+          {
+            "source": "TP",
+            "text": "74.9: inĕtĕtakĕn śirah nira kaṅ riṅ tĕṅah, papat katwan śirah nira."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "150",
+    "headword": "ĕṭṭahāsa*",
+    "query": "ĕṭṭahāsa*",
+    "page_ref": "462:8",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+    "definition": "(Skt aṭṭahāsa, loud laughter, horselaugh)",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕṭṭahāsa",
+        "page_ref": "462:8.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "to laugh loudly (often scornful, in arrogance or self-confidence)",
+        "citations": [
+          {
+            "source": "BhP",
+            "text": "79.26: saṅ Duḥśāsanâṅigĕl aṅaṅgut aṅĕṭṭahāsa (most MSS aṅĕṇṭahāsa);"
+          },
+          {
+            "source": "Udy",
+            "text": ";"
+          },
+          {
+            "source": "Utt",
+            "text": ";"
+          },
+          {
+            "source": "AW",
+            "text": "7.6: ``yekī sākṣāt mahāwighna'' hiḍĕp ira pacĕh niścayâṅĕṭṭahāsa;"
+          },
+          {
+            "source": "AW+",
+            "text": "22.1: manĕṅgah jaya-jaya tĕkap iṅ garjitâṅĕṭṭahāsa;"
+          },
+          {
+            "source": "BY",
+            "text": "31.17: saṅ Pārtha maṅgĕtĕm umaṅguh aṅĕṭṭahāsa;"
+          },
+          {
+            "source": "BY+",
+            "text": "46.3: saṅ Bhīmâṅĕṭṭahāsânudiṅi;"
+          },
+          {
+            "source": "HW",
+            "text": "40.5;"
+          },
+          {
+            "source": "AWj",
+            "text": "8.1;"
+          },
+          {
+            "source": "Td",
+            "text": "2.16b: muntab kroda asiga haṅĕṭṭahasa."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "151",
+    "headword": "ĕwah*",
+    "query": "ĕwah*",
+    "page_ref": "462:9",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕwah",
+        "page_ref": "462:9.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "?",
+        "citations": [
+          {
+            "source": "Sum",
+            "text": "10.9: solah bhāwa nirâmaṅun sih aṅĕwah bapa-bapa juga de nirâṅucap (little child)."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "152",
+    "headword": "ĕwel*",
+    "query": "ĕwel*",
+    "page_ref": "462:10",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+    "definition": "",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕwel",
+        "page_ref": "462:10.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "to abuse, call names?",
+        "citations": [
+          {
+            "source": "ST",
+            "text": "5.93: kapuḍaṅ aṅĕwel ame."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "153",
+    "headword": "ĕwus",
+    "query": "ĕwus",
+    "page_ref": "462:11",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+    "definition": "= <b>huwus</b>, wus",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕwusakĕn",
+        "page_ref": "462:11.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "to make perfect, bring to perfection",
+        "citations": [
+          {
+            "source": "Kor",
+            "text": "122.25: kaṅ aṅĕwusakĕna śarīra."
+          }
+        ]
+      }
+    ],
+    "citations": [],
+    "group_id": 4
+  },
+  {
+    "id": "154",
+    "headword": "ĕyĕh",
+    "query": "ĕyĕh",
+    "page_ref": "462:12",
+    "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+    "definition": "urine. See also <i>uyuh</i>.",
+    "sub_entries": [
+      {
+        "sub_head": "aṅĕyĕh",
+        "page_ref": "462:12.1",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "to urinate",
+        "citations": [
+          {
+            "source": "BrP",
+            "text": "56.29: ṅuniweh yan aṅisiṅâṅĕyĕha riṅ wwai;"
+          },
+          {
+            "source": "Wṛh",
+            "text": "33.86: ikaṅ upasthendriya ... pinakakaraṇa niṅ ātma n paṅĕyĕh; 42.2;"
+          },
+          {
+            "source": "BK",
+            "text": "26.14: mijil aleśyan aṅĕyĕha wawaṅ tĕkeṅ natar;"
+          },
+          {
+            "source": "Sum",
+            "text": "113.6: rabi nika bisa pantĕs denyâbhāwaka maṅĕyĕh / laki nika mulat aṅdrĕṅ kahyun-hyun;"
+          },
+          {
+            "source": "TP",
+            "text": "100.21: ati aṅĕyĕh bhaṭāra Guru, kumukus maṅdadi wariraṅ."
+          }
+        ]
+      },
+      {
+        "sub_head": "koyĕhan",
+        "page_ref": "462:12.2",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "urinated on",
+        "citations": [
+          {
+            "source": "Udy",
+            "text": "97.22: tan arĕsĕh koyĕhan kapurīṣan."
+          }
+        ]
+      },
+      {
+        "sub_head": "kapöyĕh, kapĕyĕh",
+        "page_ref": "462:12.3",
+        "page_url": "http://sealang.net/archives/ojed/djvu/unbundle.djvu?djvuopts&page=462&zoom=width",
+        "definition": "to urinate inadvertently ",
+        "citations": [
+          {
+            "source": "RY",
+            "text": "11.2a: kweh kapöyĕh gĕyuh yan kayuh ken i ceṭīnya;"
+          },
+          {
+            "source": "RY+",
+            "text": "19.20: ikaṅ strī wĕdi-wĕdi manaṅis kweh kapöyöh umĕṇḍĕk;"
+          },
+          {
+            "source": "AbhW",
+            "text": "30.9: osĕk awri kapĕyĕh waneh kapacirit."
+          }
+        ]
+      }
+    ],
+    "citations": [
+      {
+        "source": "Ad",
+        "text": "16.19: yapwan ikaṅ purīṣa mwaṅ ĕyĕh niṅ wṛṣabha pinaṅanta, amṛta ikā;"
+      },
+      {
+        "source": "Wir",
+        "text": "11.33;"
+      },
+      {
+        "source": "Sut",
+        "text": "5.4."
+      }
+    ],
+    "group_id": 4
+  }
+]
